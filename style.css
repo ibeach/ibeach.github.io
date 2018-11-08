@@ -2,8 +2,9 @@
 
 h2 
 	{
-	margin-top: 5px;
-	margin-bottom: 5px;
+	font-size: 12px;
+	margin-top: 0px;
+	margin-bottom: 0px;
 	}
 	
 #sidebar
@@ -72,6 +73,10 @@ h2
 	font-family: arial;
 	margin-top: 10px;	
 	margin-bottom: 10px;	
+	}
+#textdiv img
+	{	
+	border: 5px white;
 	}
 	
 </style>
