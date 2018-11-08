@@ -58,6 +58,10 @@ h2
 	margin-bottom: 10px;
 	z-index: 10;
 	}
+#headerdiv a
+	{
+	color: black;
+	}
 #textdiv
 	{	
 	background-color: white;
@@ -68,10 +72,6 @@ h2
 	font-family: arial;
 	margin-top: 10px;	
 	margin-bottom: 10px;	
-	}
-#textdiv img
-	{
-	border: 10px solid black;
 	}
 	
 </style>
