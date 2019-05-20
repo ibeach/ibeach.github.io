@@ -1,7 +1,4 @@
----
-theme: jekyll-theme-midnight
----
-  <h1> testing </h1>
+<h1> testing </h1>
   
 Congratulations, you've found my homepage! 
 
