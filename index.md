@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Navigation
+title: Index
 navigation: 1
 ---
 
