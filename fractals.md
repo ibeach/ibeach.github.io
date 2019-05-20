@@ -26,7 +26,3 @@ Here are different colourings of the same fractal.
 These two were made in MATLAB: the left is with the colourmap "hot" and the right is "flag".
 <img src="\images\cosh(z) + complex(0.1,-0.6).png">
 <img src="\images\flag.png">
-
-<h2>Pretty Pictures</h2>
-<img src="\images\flowers.png">
-<img src="\images\conj(z).cosh(z).^2 + complex(-0.08,0.0156).png">
