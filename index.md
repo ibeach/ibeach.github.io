@@ -1,8 +1,11 @@
-<h1> testing </h1>
-  
-Congratulations, you've found my homepage! 
+---
+layout: page
+title: Navigation
+navigation: 1
+---
 
-My current interests are differential geometry and mathematical biology. I also try to paint and garden in my spare time. Sometimes I try my hand at insect photography.
+<h1> Isabel Beach </h1>
   
-You can check out some of my creations on the left sidebar.
-
+My current interests are differential geometry and mathematical biology.
+  
+You can check out some of my creations/projects on the left sidebar.
