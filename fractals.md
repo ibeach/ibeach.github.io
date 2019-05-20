@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Navigation
+title: Fractals
 navigation: 2
 ---
 
