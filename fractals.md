@@ -12,7 +12,7 @@ I credit the inspiration for some of these images to Pickover's <i>Computers, Ch
 The pictures below are Julia sets represented by various polynomial functions.
 Take a look at the effect of degree on the pictures below.
 
-<img src="\images\fractals\fractals\poly_four.png">
+<img src="\images\fractals\poly_four.png">
 <img src="\images\fractals\poly_five.png">
 <img src="\images\fractals\poly_six.png">
 <img src="\images\fractals\poly_seven.png">
@@ -34,12 +34,15 @@ Combining holomorphic and non-holomorphic functions can produce some very intere
 <h2>The Burning Ship</h2>
 Here are some Burning Ship inspired fractals. 
 The three below are produced by iterating cosh(z)+|z|*c, where c is the location of the initial point.
+
 <img src="\images\fractals\cosh(z)+abs(z).z0.png">
 <img src="\images\fractals\cosh(z)+abs(z).z0_zoom.png">	
-<img src="\images\fractals\cosh(z)+abs(z).z0_zoom2.png">	
+<img src="\images\fractals\cosh(z)+abs(z).z0_zoom2.png">
+	
 These two are "failed attempts" caused by buggy code, but are still pretty interesting.
+
 <img src="\images\fractals\alt_burning_ship.png">	
-<img src="\images\fractals\(alt_burning_ship_zoom.png">
+<img src="\images\fractals\alt_burning_ship_zoom.png">
 
 <h2>Different Colour Maps</h2>
 Here are different colourings of the same fractal. 
