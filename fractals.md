@@ -5,24 +5,45 @@ navigation: 2
 ---
 
 <h1> Fractals </h1>
-This is a gallery of fractals that I have made myself with MATLAB or Python. 
+This is a gallery of fractals that I have made with MATLAB or Python. 
 I credit the inspiration for some of these images to Pickover's <i>Computers, Chaos, Pattern and Beauty</i>.
 
 <h2>Polynomials</h2>
 The pictures below are Julia sets represented by various polynomial functions.
-Take a look at the effect of degree on the picture. From left to right, the degree of the sequence rule is 4, 5, 6.
+Take a look at the effect of degree on the pictures below.
 
-<img src="\images\poly_four.png">
-<img src="\images\poly_five.png">
-<img src="\images\poly_six.png">
-<img src="\images\poly_seven.png">
+<img src="\images\fractals\fractals\poly_four.png">
+<img src="\images\fractals\poly_five.png">
+<img src="\images\fractals\poly_six.png">
+<img src="\images\fractals\poly_seven.png">
+
+Of course, there's nothing wrong with the standard quadratic Julia set.
+
+<img src="\images\fractals\z.^2+complex(-0.8,0.156).png">
 	
 <h2>Cosh and Sinh</h2>
-<img src="\images\(cmath.cosh(z))+complex(0,-0.9).png">	
-<img src="\images\(cmath.cosh(z))+complex(0.4,0.6).png">
+These are hyperbolic cosine fractals.
+
+<img src="\images\fractals\(cmath.cosh(z))+complex(0,-0.9).png">	
+<img src="\images\fractals\(cmath.cosh(z))+complex(0.4,0.6).png">
+
+Combining holomorphic and non-holomorphic functions can produce some very interesting results.
+
+<img src="\images\fractals\cosh(z)+complex(0.1,0.9).abs(z).png">
+
+<h2>The Burning Ship</h2>
+Here are some Burning Ship inspired fractals. 
+The three below are produced by iterating cosh(z)+|z|*c, where c is the location of the initial point.
+<img src="\images\fractals\cosh(z)+abs(z).z0.png">
+<img src="\images\fractals\cosh(z)+abs(z).z0_zoom.png">	
+<img src="\images\fractals\cosh(z)+abs(z).z0_zoom2.png">	
+These two are "failed attempts" caused by buggy code, but are still pretty interesting.
+<img src="\images\fractals\alt_burning_ship.png">	
+<img src="\images\fractals\(alt_burning_ship_zoom.png">
 
 <h2>Different Colour Maps</h2>
 Here are different colourings of the same fractal. 
-These two were made in MATLAB: the left is with the colourmap "hot" and the right is "flag".
-<img src="\images\cosh(z) + complex(0.1,-0.6).png">
-<img src="\images\flag.png">
+These were made in MATLAB using the colourmaps "hot" and "flag".
+
+<img src="\images\fractals\cosh(z)+complex(0.1,-0.6).png">
+<img src="\images\fractals\flag.png">
