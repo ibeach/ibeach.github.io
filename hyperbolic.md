@@ -5,6 +5,7 @@ navigation: 4
 ---
 
 <h1> Hyperbolic Geometry </h1>
+All hyperbolic tiling images were made with the code files available in this website's GitHub repository under \code\hyperbolic (you will need all 3 files).
 
 <h2> Classification of Mobius Transformations </h2>
 
