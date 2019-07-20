@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Complex Analysis
-navigation: 3
 ---
 
 <h1> Complex Analysis </h1>

@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Index
-navigation: 1
 ---
 
 <h1> Isabel Beach </h1>

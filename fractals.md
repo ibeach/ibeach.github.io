@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Fractals
-navigation: 2
 ---
 
 <h1> Fractals </h1>

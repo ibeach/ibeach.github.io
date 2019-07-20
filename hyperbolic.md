@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Hyperbolic Geometry
-navigation: 4
 ---
 
 <h1> Hyperbolic Geometry </h1>
