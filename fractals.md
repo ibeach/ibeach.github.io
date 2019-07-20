@@ -2,9 +2,8 @@
 title: Fractals
 ---
 
-<h1> Fractals </h1>
-This is a gallery of fractals that I have made with MATLAB or Python. 
-I credit the inspiration for some of these images to Pickover's <i>Computers, Chaos, Pattern and Beauty</i>.
+This is a gallery of fractals that I have made with MATLAB and Python. 
+Much of the inspiration for these images comes from Pickover's <i>Computers, Pattern, Chaos and Beauty</i>.
 
 <h2>Polynomials</h2>
 The pictures below are Julia sets represented by various polynomial functions.

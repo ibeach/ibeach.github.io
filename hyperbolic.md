@@ -2,19 +2,7 @@
 title: Hyperbolic Geometry
 ---
 
-<h1> Hyperbolic Geometry </h1>
-All hyperbolic tiling images were made with the code files available in this website's GitHub repository under \code\hyperbolic (you will need all 3 files).
-
-<h2> Classification of Mobius Transformations </h2>
-
-<h3> Parabolic </h3>
-<img src="\images\hyperbolic\parabolic_simple.png">
-<h3> Hyperbolic </h3>
-<img src="\images\hyperbolic\hyperbolic_simple.png">
-<h3> Elliptic </h3>
-<img src="\images\hyperbolic\elliptic_simple.png">
-<h3> Loxodromic </h3>
-<img src="\images\hyperbolic\loxodromic_simple.png">
+All hyperbolic tiling images were made with the code files available in this website's <a href="https://github.com/ibeach/ibeach.github.io">GitHub repository</a> under \code\hyperbolic.
 
 <h2> The Action of SL(2,Z) </h2>
 
