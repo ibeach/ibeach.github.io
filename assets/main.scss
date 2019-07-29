@@ -1,0 +1,47 @@
+---
+---
+
+@import "minima";
+@charset "utf-8";
+ 
+body {
+	background-color: #f0f0f0;
+}
+.post-title { 
+	padding-top: 20px;
+	font-size: 36px
+}
+.footer-heading { 
+	padding-top: 20px;
+}
+.site-header {
+	border: none;
+}
+.site-footer {
+	border: none;
+}
+.wrapper {
+	max-width: calc(1000px - (30px * 2));
+	background-color: white;
+}
+img { 
+	display: block;
+	margin: 0 auto;
+	margin-bottom: 5px;
+}
+
+table{
+	margin-bottom: 5px;
+}
+table th{
+	text-align: center;
+	padding: 5px 5px;
+}
+table td{
+	background-color: white;
+	padding: 2px 2px;
+}
+
+table img{
+	margin-bottom: 0px;
+}
