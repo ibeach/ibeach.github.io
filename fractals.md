@@ -5,32 +5,21 @@ title: Fractals
 This is a gallery of fractals that I have made with MATLAB and Python. 
 Much of the inspiration for these images comes from Pickover's <i>Computers, Pattern, Chaos and Beauty</i>.
 
-<h3>Polynomials</h3>
-The pictures below are Julia sets represented by various polynomial functions.
-Take a look at the effect of degree on the pictures below.
+<h3>Julia Sets</h3>
+Let's take a look at the quadratic Julia set. This image is produced by iterating z -> z^2+c, where the initial z value is the point in the image and c is a constant.
 
 <table>
 <tr> 
-	<th>Degree 4</th>
-	<th>Degree 5</th>
-	<th>Degree 6</th>
-	<th>Degree 7</th>
+	<th>z^2-0.8+0.156i</th>
 </tr>
-<tr> 
-	<td><img src="\images\fractals\poly_four.png"></td>
-	<td><img src="\images\fractals\poly_five.png"></td>
-	<td><img src="\images\fractals\poly_six.png"></td>
-	<td><img src="\images\fractals\poly_seven.png"></td>
+<tr>
+	<td><img src="\images\fractals\z.^2+complex(-0.8,0.156).png"></td>
 </tr>
 </table>
-
-<h3>Quadratic Julia Sets</h3>
-Of course, there's nothing wrong with the standard quadratic Julia set.
-
-<img src="\images\fractals\z.^2+complex(-0.8,0.156).png">
 	
-<table>
 Take a look at the effect of the constant on the Julia set.
+
+<table>
 <tr> 
 	<th>Imaginary Part \ Real Part </th>
 	<th>-0.4</th>
@@ -258,10 +247,32 @@ Take a look at the effect of the constant on the Julia set.
 </tr>
 </table>
 
+The pictures below are Julia sets represented by various polynomial functions.
+Take a look at the effect of degree on the pictures below.
+
+<table>
+<tr> 
+	<th>Degree 4</th>
+	<th>Degree 5</th>
+	<th>Degree 6</th>
+	<th>Degree 7</th>
+</tr>
+<tr> 
+	<td><img src="\images\fractals\poly_four.png"></td>
+	<td><img src="\images\fractals\poly_five.png"></td>
+	<td><img src="\images\fractals\poly_six.png"></td>
+	<td><img src="\images\fractals\poly_seven.png"></td>
+</tr>
+</table>
+
 <h3>Cosh and Sinh</h3>
 These are hyperbolic cosine fractals.
 
 <table>
+<tr>
+	<th>cosh(z)-0.9i</th>
+	<th>cosh(z)+0.4+0.6i</th>
+</tr>
 <tr> 
 	<td><img src="\images\fractals\(cmath.cosh(z))+complex(0,-0.9).png"></td>
 	<td><img src="\images\fractals\(cmath.cosh(z))+complex(0.4,0.6).png"></td>
@@ -272,9 +283,17 @@ Combining holomorphic and non-holomorphic functions can produce some very intere
 
 <img src="\images\fractals\cosh(z)+complex(0.1,0.9).abs(z).png">
 
+
+<h3>The Mandelbrot Set</h3>
+
+Here is an animation of zooming in at the point 0.001643721971153 − 0.822467633298876i.
+<img src="\images\fractals\mandelbrot_zoom.gif">
+Compare to <a href="https://upload.wikimedia.org/wikipedia/commons/0/07/Fractal-zoom-1-03-Mandelbrot_Buzzsaw.ogv">this</a> much more sophisticated video at the same point.
+
 <h3>The Burning Ship</h3>
+
 Here are some Burning Ship inspired fractals. 
-The three below are produced by iterating cosh(z)+|z|*c, where c is the location of the initial point.
+The three below are produced by iterating z -> cosh(z)+|z|*c at each point, where c is the location of the point.
 
 <table>
 <tr> 
@@ -283,6 +302,9 @@ The three below are produced by iterating cosh(z)+|z|*c, where c is the location
 	<td><img src="\images\fractals\cosh(z)+abs(z).z0_zoom2.png"></td>
 </tr>
 </table>
+
+The iterated function here is (c^z)*(z^c).
+<img src="\images\fractals\z0.^(z).z.^(z0).png">
 	
 These two are "failed attempts" caused by buggy code, but are still pretty interesting.
 <table>
