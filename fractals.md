@@ -11,9 +11,11 @@ Let's take a look at the quadratic Julia set. This image is produced by iteratin
 <table>
 <tr> 
 	<th>z^2-0.8+0.156i</th>
+	<th>z^2+0.285+0.01i</th>
 </tr>
 <tr>
-	<td><img src="\images\fractals\z.^2+complex(-0.8,0.156).png"></td>
+	<td><img src="\images\fractals\z.^2+-0.8+0.156i.png"></td>
+	<td><img src="\images\fractals\z.^2+0.285+0.01i.png"></td>
 </tr>
 </table>
 	
@@ -292,6 +294,28 @@ Compare to <a href="https://upload.wikimedia.org/wikipedia/commons/0/07/Fractal-
 
 <h3>The Burning Ship</h3>
 
+Here is the so-called Burning Ship, made by iterating z -> (\|Re(z)\|+i\|Im(z)\|)^2+c.
+
+<table>
+<tr>
+	<th>The Burning Ship</th>
+	<th>Zoomed in at (-1.762,-0.028)</th>
+</tr>
+<tr> 
+	<td><img src="\images\fractals\burning_ship.png"></td>
+	<td><img src="\images\fractals\burning_ship_zoom.png"></td>
+</tr>
+</table>
+
+This is my initial "failed attempt" caused by buggy code, but it is still pretty interesting.
+
+<table>
+<tr> 
+	<td><img src="\images\fractals\alt_burning_ship.png"></td>
+	<td><img src="\images\fractals\alt_burning_ship_zoom.png"></td>
+</tr>
+</table>
+
 Here are some Burning Ship inspired fractals. 
 The three below are produced by iterating z -> cosh(z)+|z|*c at each point, where c is the location of the point.
 
@@ -306,14 +330,6 @@ The three below are produced by iterating z -> cosh(z)+|z|*c at each point, wher
 The iterated function here is (c^z)*(z^c).
 <img src="\images\fractals\z0.^(z).z.^(z0).png">
 	
-These two are "failed attempts" caused by buggy code, but are still pretty interesting.
-<table>
-<tr> 
-	<td><img src="\images\fractals\alt_burning_ship.png"></td>
-	<td><img src="\images\fractals\alt_burning_ship_zoom.png"></td>
-</tr>
-</table>
-
 <h3>Different Colour Maps</h3>
 Here are different colourings of the same fractal. 
 These were made in MATLAB using the colourmaps "hot" and "flag".
