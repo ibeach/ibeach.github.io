@@ -1,8 +1,32 @@
 ---
  title: Wolfram Automata
 ---
+Here are a few examples of <a href ="http://mathworld.wolfram.com/ElementaryCellularAutomaton.html">elementary cellular automata</a>.
+These are one dimensional cellular automata, so you can imagine that the x-axis is space and the y-axis is time in these images.
+Despite the seeming simplicity of these rules, they produce a wide variety of interesting patterns.
+First, some interesting examples:
+<table>
+<tr>
+<th>10010110</th>
+</tr>
+<tr>
+<td><img src="images\wolfram\10010110_large.png"></td>
+</tr>
+<tr>
+<th>10101001</th>
+</tr>
+<tr>
+<td><img src="images\wolfram\10101001_large.png"></td>
+</tr>
+<tr>
+<th>01101001</th>
+</tr>
+<tr>
+<td><img src="images\wolfram\01101001_large.png"></td>
+</tr>
+</table>
 
-Here is a curated list of Wolfram automata. For a full list of images, see this website's GitHub respository.
+Here is a curated list of all the Wolfram automata (I've essentially only removed the ones that produce extremely simplistic patterns). For a full list of images, see this website's GitHub respository.
 
 <table>
 <tr>
