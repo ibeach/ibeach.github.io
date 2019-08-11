@@ -28,7 +28,13 @@ plugins:
   
 sass:
     sass_dir: _sass
-
+    
+header_pages:
+  - complex.md
+  - hyperbolic.md
+  - fractals.md
+  - wolfram.md
+  
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

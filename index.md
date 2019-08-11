@@ -1,6 +1,4 @@
 ---
-title: About
-order: 1
 ---
   
 My current interests are differential geometry and mathematical biology.
