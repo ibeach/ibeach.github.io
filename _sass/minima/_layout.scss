@@ -54,9 +54,6 @@
   label[for="nav-trigger"] {
     display: block;
     float: right;
-	position: fixed;
-	top: 2px;
-	right: 2px;
     width: 36px;
     height: 36px;
     z-index: 2;
@@ -70,14 +67,14 @@
 
   input:checked ~ .trigger {
     display: block;
-    padding-bottom: 5px;
+	padding: 10px;
   }
 
   .page-link {
     color: $text-color;
-    line-height: $base-line-height;
+    line-height: 1;
     display: block;
-    padding: 5px 10px;
+	margin-top: 3px;
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
@@ -91,6 +88,7 @@
     float: right;
     border: none;
     background-color: inherit;
+    line-height: 1.5;
 
     label[for="nav-trigger"] {
       display: none;
