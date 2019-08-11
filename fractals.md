@@ -288,7 +288,8 @@ Combining holomorphic and non-holomorphic functions can produce some very intere
 
 <h3>The Mandelbrot Set</h3>
 
-Here is an animation of zooming in at the point 0.001643721971153 − 0.822467633298876i.
+Here is an animation of zooming in at the point 0.001643721971153 − 0.822467633298876i. 
+Since MATLAB gifs can only use 256 colours, the colouration of each pixel is taken mod 256.
 <img src="\images\fractals\mandelbrot_zoom.gif">
 Compare to <a href="https://upload.wikimedia.org/wikipedia/commons/0/07/Fractal-zoom-1-03-Mandelbrot_Buzzsaw.ogv">this</a> much more sophisticated video at the same point.
 
@@ -299,7 +300,7 @@ Here is the so-called Burning Ship, made by iterating z -> (\|Re(z)\|+i\|Im(z)\|
 <table>
 <tr>
 	<th>The Burning Ship</th>
-	<th>Zoomed in at (-1.762,-0.028)</th>
+	<th> Zoomed in at (-1.762,-0.028)</th>
 </tr>
 <tr> 
 	<td><img src="\images\fractals\burning_ship.png"></td>

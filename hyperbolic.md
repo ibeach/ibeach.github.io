@@ -4,16 +4,19 @@ title: Hyperbolic Geometry
 
 All hyperbolic tiling images were made with the code files available in this website's <a href="https://github.com/ibeach/ibeach.github.io">GitHub repository</a> under \code\hyperbolic.
 
-<h3> The Action of SL(2,Z) </h3>
-
-<img src="\images\hyperbolic\sl2z_cool.png">
-
-<h3> The Action of a Punctured Torus Group </h3>
-
-<img src="\images\hyperbolic\torus.png">
-
 <table>
+<tr>
+	<th>The Action of SL(2,Z) </th>
+	<th>The Action of a Punctured Torus Group </th>
+</tr>
+<tr>
+	<td><img src="\images\hyperbolic\sl2z_cool.png" style="width:500px;"></td>
+	<td><img src="\images\hyperbolic\torus.png" style="width:500px;"></td>
+</tr>
+</table>
+
 <h3> Regular Tilings of the Poincare Disk </h3>
+<table>
 <tr>
 	<th>p\q</th>
 	<th>4</th>
