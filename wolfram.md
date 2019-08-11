@@ -1,5 +1,5 @@
 ---
- title: Wolfram Automata
+title: Wolfram Automata
 ---
 Here are a few examples of <a href ="http://mathworld.wolfram.com/ElementaryCellularAutomaton.html">elementary cellular automata</a>.
 These are one dimensional cellular automata, so you can imagine that the x-axis is space and the y-axis is time in these images.
