@@ -289,7 +289,7 @@ Combining holomorphic and non-holomorphic functions can produce some very intere
 <h3>The Mandelbrot Set</h3>
 
 Here is an animation of zooming in at the point 0.001643721971153 − 0.822467633298876i. 
-Since MATLAB gifs can only use 256 colours, the colouration of each pixel is taken mod 256.
+Since gifs can only use 256 colours, the colouration of each pixel is taken mod 256.
 <img src="\images\fractals\mandelbrot_zoom.gif">
 Compare to <a href="https://upload.wikimedia.org/wikipedia/commons/0/07/Fractal-zoom-1-03-Mandelbrot_Buzzsaw.ogv">this</a> much more sophisticated video at the same point.
 
@@ -308,16 +308,23 @@ Here is the so-called Burning Ship, made by iterating z -> (\|Re(z)\|+i\|Im(z)\|
 </tr>
 </table>
 
-This is my initial "failed attempt" caused by buggy code, but it is still pretty interesting.
+This is a corresponding Julia set.
 
 <table>
+<tr>
+	<th>(\|Re(z)\|+i\|Im(z)\|)^2-1.762-0.028i</th>
+	<th> (\|Re(z)\|+i\|Im(z)\|)^2-1.762-0.028i (zoomed in)</th>
+</tr>
 <tr> 
-	<td><img src="\images\fractals\alt_burning_ship.png"></td>
-	<td><img src="\images\fractals\alt_burning_ship_zoom.png"></td>
+	<td><img src="\images\fractals\burning_ship_julia_-1.762-0.028i.png"></td>
+	<td><img src="\images\fractals\burning_ship_julia_zoom.png"></td>
 </tr>
 </table>
 
-Here are some Burning Ship inspired fractals. 
+Here is an animation of zooming in at the point 0.2955+0i. Again, the colouration is taken mod 256.
+<img src="\images\fractals\burning_ship_zoom.gif">
+
+<h3>More Cosh Fractals</h3>
 The three below are produced by iterating z -> cosh(z)+|z|*c at each point, where c is the location of the point.
 
 <table>
