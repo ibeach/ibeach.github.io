@@ -69,7 +69,7 @@
     display: block;
 	padding: 10px;
   }
-
+  
   .page-link {
     color: $text-color;
     line-height: 1;
@@ -80,12 +80,11 @@
     &:not(:last-child) {
       margin-right: 0;
     }
-    margin-left: 20px;
   }
 
   @media screen and (min-width: $on-medium) {
     position: static;
-    float: right;
+    float: left;
     border: none;
     background-color: inherit;
     line-height: 1.5;
@@ -105,11 +104,8 @@
     .page-link {
       display: inline;
       padding: 0;
-
-      &:not(:last-child) {
-        margin-right: 20px;
-      }
       margin-left: auto;
+      margin-right: auto;
     }
   }
 }
