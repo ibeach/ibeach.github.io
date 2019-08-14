@@ -27,9 +27,9 @@
     color: $grey-color-dark;
   }
 }
-
+	
 .site-nav {
-  background-color: $background-color;
+	background-color: none;
   border: 1px solid $grey-color-light;
   border-radius: 5px;
   text-align: left;
@@ -86,7 +86,7 @@
     position: static;
     float: left;
     border: none;
-    background-color: inherit;
+    background-color: none;
     line-height: 1.5;
 
     label[for="nav-trigger"] {
