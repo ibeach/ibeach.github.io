@@ -1,0 +1,26 @@
+# main links
+main:
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+  
+docs:
+  - title: Info
+    children:
+      - title: "Talks"
+        url: /talks/
+  - title: Projects
+    children:
+      - title: "Complex Analysis"
+        url: /complex/
+      - title: "Hyperbolic Geometry"
+        url: /hyperbolic/
+      - title: "Fractals"
+        url: /fractals/
+      - title: "Wolfram Automata"
+        url: /wolfram/
