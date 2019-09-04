@@ -25,7 +25,7 @@ url                      : "https://ibeach.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ibeach/ibeach.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/images/site/logo.png"
 masthead_title           : #" "
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -107,15 +107,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Isabel Beach"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Mathematics student and artist."
-  location         : "Toronto"
-  email            :
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/ibeach"
+  name             : About #"Isabel Beach"
+  avatar           : #"/images/site/avatar.jpg"
+  bio              : "Fifth-year undergraduate student in the Math Specialist program."
+  location         : "University of Toronto"
       
 # Site Footer
 footer:

@@ -12,8 +12,12 @@ main:
 docs:
   - title: Info
     children:
+      - title: "About"
+        url: /
       - title: "Talks"
         url: /talks/
+      - title: "For Students"
+        url: /teaching/
   - title: Projects
     children:
       - title: "Complex Analysis"
@@ -24,3 +28,8 @@ docs:
         url: /fractals/
       - title: "Wolfram Automata"
         url: /wolfram/
+  - title: GitHub
+    children:
+      - title: "ibeach"
+        icon: "fab fa-fw fa-github"
+        url: "https://github.com/ibeach"
