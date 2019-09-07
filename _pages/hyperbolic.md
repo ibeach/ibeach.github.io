@@ -3,7 +3,23 @@ title: Hyperbolic Geometry
 permalink: /hyperbolic/
 ---
 
-All hyperbolic tiling images were made with the code files available in this website's <a href="https://github.com/ibeach/ibeach.github.io">GitHub repository</a> under \code\hyperbolic.
+
+<b>On This Page:</b> 
+Hyperbolic Tilings
+
+<b>Explanation:</b> 
+Just as the Euclidean plane can be tiled by (certain kinds of) regular polygons, so can the hyperbolic plane. 
+Moreover, the action of Fuchsian groups on hyperbolic space can induce tilings of the hyperbolic plane.
+See also "The Beauty of the Hyperbolic Plane" on my Talks page.
+
+<b>Learn More:</b>
+<ul>
+<li><a href ="http://homepages.warwick.ac.uk/~masbb/">Caroline Series' MAT448 Notes</a></li>
+<li><i>Indra's Pearls</i> by Caroline Series and David Mumford</li>
+</ul>
+
+<b>Code:</b>
+<a href ="https://github.com/ibeach/ibeach.github.io/tree/master/code/hyperbolic">/code/hyperbolic</a>
 
 <table>
 <tr>
@@ -15,6 +31,9 @@ All hyperbolic tiling images were made with the code files available in this web
 	<td><img src="\images\hyperbolic\torus.png" style="width:500px;"></td>
 </tr>
 </table>
+
+<p>
+Regular tilings can be characterized by their Schlafli symbol (p,q), where p is the number of edges of each polygon and q is the number of polygons meeting at each vertex.
 
 <h3> Regular Tilings of the Poincare Disk </h3>
 <table>

@@ -2,10 +2,22 @@
 title: Wolfram Automata
 permalink: /wolfram/
 ---
-Here are a few examples of <a href ="http://mathworld.wolfram.com/ElementaryCellularAutomaton.html">elementary cellular automata</a>.
-These are one dimensional cellular automata, so you can imagine that the x-axis is space and the y-axis is time in these \images.
+
+<b>On This Page:</b> 
+Elementary Cellular Automata
+
+<b>Explanation:</b> 
+Essentially, a cellular automaton takes in a space of cells and outputs a new space of cells according to a fixed set of rules. 
+For our purposes, you can imagine that the x-axis is the space of cells and the y-axis is time. 
+Each cell is either "off" (black) or "on" (white). The state of each cell is determined only by the state of its neighbours and itself in the previous timestep.
 Despite the seeming simplicity of these rules, they produce a wide variety of interesting patterns.
-First, some interesting examples:
+
+<b>Learn More:</b> 
+<a href ="http://mathworld.wolfram.com/ElementaryCellularAutomaton.html">WolframMathWorld</a>
+
+<b>Code:</b> 
+Coming Soon...
+
 <table>
 <tr>
 <th>10010110</th>

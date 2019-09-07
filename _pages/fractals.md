@@ -3,11 +3,28 @@ title: Fractals
 permalink: /fractals/
 ---
 
-This is a gallery of fractals that I have made with MATLAB and Python. 
-Much of the inspiration for these images comes from Pickover's <i>Computers, Pattern, Chaos and Beauty</i>.
+<b>On This Page:</b> 
+Julia Sets and Mandelbrot Sets
 
-<h3>Julia Sets</h3>
-Let's take a look at the quadratic Julia set. This image is produced by iterating z -> z^2+c, where the initial z value is the point in the image and c is a constant.
+<b>Explanation:</b> 
+On the most mechanical level, these images of Julia sets are produced by iterating functions z -> f(z,c) at each point, 
+where the initial z value is the given point and c is some global constant. For instance, at every z value we could iterate z -> z^2+1, obtaining the sequence {z^2+1,(z^2+1)^2+1,...} at each z.
+Conversely, the Mandelbrot set images are produced by iterating functions z -> f(z,z_0) at each point, 
+where now z_0 is the point and the initial z value is 0. Our analagous example is z -> z^2+z_0, obtaining the sequence {0,z_0,(z_0)^2+z_0,...} for each z_0.
+For both types, each point is coloured according to how fast the iterations converge (or diverge, as the case may be).
+
+<b>Learn More:</b>
+<ul>
+<li><a href ="http://mathworld.wolfram.com/JuliaSet.html">WolframMathWorld: Julia Sets</a></li>
+<li><a href ="http://mathworld.wolfram.com/MandelbrotSet.html">WolframMathWorld: Mandelbrot Sets</a></li>
+<li><i>Computers, Pattern, Chaos and Beauty Paperback</i> by Clifford A. Pickover</li>
+</ul>
+
+<b>Code:</b>
+Coming Soon...
+
+<h3>Quadratic Julia Sets</h3>
+This image is produced by iterating z -> z^2+c, where the initial z value is the point in the image and c is a constant.
 
 <table>
 <tr> 
@@ -22,176 +39,7 @@ Let's take a look at the quadratic Julia set. This image is produced by iteratin
 	
 Take a look at the effect of the constant on the Julia set.
 
-<table>
-<tr> 
-	<th>Imaginary Part \ Real Part </th>
-	<th>-0.4</th>
-	<th>-0.3</th>
-	<th>-0.2</th>
-	<th>-0.1</th>
-	<th>0</th>
-	<th>0.1</th>
-	<th>0.2</th>
-	<th>0.3</th>
-	<th>0.4</th>
-</tr>
-<tr> 
-	<td>-0.4</td>
-	<td><img src="\images\fractals\constant_table\z.^2+-0.4-0.4i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+-0.4-0.3i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+-0.4-0.2i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+-0.4-0.1i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+-0.4.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+-0.4+0.1i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+-0.4+0.2i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+-0.4+0.3i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+-0.4+0.4i.png"></td>
-</tr>
-<tr> 
-	<td>-0.3</td>
-	<td><img src="\images\fractals\constant_table\z.^2+-0.3-0.4i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+-0.3-0.3i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+-0.3-0.2i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+-0.3-0.1i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+-0.3.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+-0.3+0.1i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+-0.3+0.2i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+-0.3+0.3i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+-0.3+0.4i.png"></td>
-</tr>
-<tr> 
-	<td>-0.2</td>
-	<td><img src="\images\fractals\constant_table\z.^2+-0.2-0.4i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+-0.2-0.3i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+-0.2-0.2i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+-0.2-0.1i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+-0.2.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+-0.2+0.1i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+-0.2+0.2i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+-0.2+0.3i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+-0.2+0.4i.png"></td>
-</tr>
-<tr> 
-	<td>-0.1</td>
-	<td><img src="\images\fractals\constant_table\z.^2+-0.1-0.4i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+-0.1-0.3i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+-0.1-0.2i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+-0.1-0.1i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+-0.1.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+-0.1+0.1i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+-0.1+0.2i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+-0.1+0.3i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+-0.1+0.4i.png"></td>
-</tr>
-<tr>
-	<td>0</td>
-	<td><img src="\images\fractals\constant_table\z.^2+0-0.4i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0-0.3i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0-0.2i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0-0.1i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0+0.1i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0+0.2i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0+0.3i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0+0.4i.png"></td>
-</tr>
-<tr> 
-	<td>0.1</td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.1-0.4i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.1-0.3i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.1-0.2i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.1-0.1i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.1.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.1+0.1i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.1+0.2i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.1+0.3i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.1+0.4i.png"></td>
-</tr>
-<tr> 
-	<td>0.2</td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.2-0.4i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.2-0.3i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.2-0.2i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.2-0.1i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.2.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.2+0.1i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.2+0.2i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.2+0.3i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.2+0.4i.png"></td>
-</tr>
-<tr> 
-	<td>0.3</td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.3-0.4i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.3-0.3i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.3-0.2i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.3-0.1i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.3.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.3+0.1i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.3+0.2i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.3+0.3i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.3+0.4i.png"></td>
-</tr>
-<tr> 
-	<td>0.4</td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.4-0.4i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.4-0.3i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.4-0.2i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.4-0.1i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.4.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.4+0.1i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.4+0.2i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.4+0.3i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.4+0.4i.png"></td>
-</tr>
-<tr> 
-	<td>0.5</td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.5-0.4i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.5-0.3i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.5-0.2i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.5-0.1i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.5.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.5+0.1i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.5+0.2i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.5+0.3i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.5+0.4i.png"></td>
-</tr>
-<tr> 
-	<td>0.6</td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.6-0.4i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.6-0.3i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.6-0.2i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.6-0.1i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.6.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.6+0.1i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.6+0.2i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.6+0.3i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.6+0.4i.png"></td>
-</tr>
-<tr> 
-	<td>0.7</td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.7-0.4i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.7-0.3i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.7-0.2i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.7-0.1i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.7.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.7+0.1i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.7+0.2i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.7+0.3i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.7+0.4i.png"></td>
-</tr>
-<tr> 
-	<td>0.8</td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.8-0.4i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.8-0.3i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.8-0.2i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.8-0.1i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.8.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.8+0.1i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.8+0.2i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.8+0.3i.png"></td>
-	<td><img src="\images\fractals\constant_table\z.^2+0.8+0.4i.png"></td>
-</tr>
-</table>
+{% include quadratic_table.md %}
 
 <table>
 <tr> 
@@ -250,8 +98,7 @@ Take a look at the effect of the constant on the Julia set.
 </tr>
 </table>
 
-The pictures below are Julia sets represented by various polynomial functions.
-Take a look at the effect of degree on the pictures below.
+The pictures below are Julia sets represented by polynomial functions of various degree.
 
 <table>
 <tr> 
@@ -269,7 +116,6 @@ Take a look at the effect of degree on the pictures below.
 </table>
 
 <h3>Cosh and Sinh</h3>
-These are hyperbolic cosine fractals.
 
 <table>
 <tr>
@@ -284,14 +130,24 @@ These are hyperbolic cosine fractals.
 	
 Combining holomorphic and non-holomorphic functions can produce some very interesting results.
 
-<img src="\images\fractals\cosh(z)+complex(0.1,0.9).abs(z).png">
+<table>
+<tr>
+	<th>cosh(z)+(0.1+0.9i)*|z|</th>
+</tr>
+<tr>
+	<td><img src="\images\fractals\cosh(z)+complex(0.1,0.9).abs(z).png"></td>
+</tr>
+</table>
 
+{% include cosh_table.md %}
 
 <h3>The Mandelbrot Set</h3>
 
 Here is an animation of zooming in at the point 0.001643721971153 − 0.822467633298876i. 
 Since gifs can only use 256 colours, the colouration of each pixel is taken mod 256.
+<br>
 <img src="\images\fractals\mandelbrot_zoom.gif">
+<br>
 Compare to <a href="https://upload.wikimedia.org/wikipedia/commons/0/07/Fractal-zoom-1-03-Mandelbrot_Buzzsaw.ogv">this</a> much more sophisticated video at the same point.
 
 <h3>The Burning Ship</h3>
@@ -323,7 +179,9 @@ This is a corresponding Julia set.
 </table>
 
 Here is an animation of zooming in at the point 0.2955+0i. Again, the colouration is taken mod 256.
+<br>
 <img src="\images\fractals\burning_ship_zoom.gif">
+<br>
 
 <h3>More Cosh Fractals</h3>
 The three below are produced by iterating z -> cosh(z)+|z|*c at each point, where c is the location of the point.
