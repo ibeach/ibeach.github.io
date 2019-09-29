@@ -21,7 +21,7 @@ For both types, each point is coloured according to how fast the iterations conv
 </ul>
 
 <b>Code:</b>
-Coming Soon...
+<a href ="https://github.com/ibeach/ibeach.github.io/tree/master/code/hyperbolic">/code/fractals</a>
 
 <h3>Quadratic Julia Sets</h3>
 This image is produced by iterating z -> z^2+c, where the initial z value is the point in the image and c is a constant.
@@ -40,6 +40,13 @@ This image is produced by iterating z -> z^2+c, where the initial z value is the
 Take a look at the effect of the constant on the Julia set.
 
 {% include quadratic_table.md %}
+
+Looks a lot like the Mandelbrot set! That's no coincidence. 
+Watch the corresponding Julia set change as we take a diagonal slice through the Mandelbrot set below (see the red dot).
+<br>
+<img src="\images\fractals\julia_mandelbrot_comp.gif">
+<br>
+A closer look at a few choice values:
 
 <table>
 <tr> 
