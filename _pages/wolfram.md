@@ -16,7 +16,7 @@ Despite the seeming simplicity of these rules, they produce a wide variety of in
 <a href ="http://mathworld.wolfram.com/ElementaryCellularAutomaton.html">WolframMathWorld</a>
 
 <b>Code:</b> 
-Coming Soon...
+<a href ="https://github.com/ibeach/ibeach.github.io/tree/master/code/wolfram">/code/wolfram</a>
 
 <table>
 <tr>
