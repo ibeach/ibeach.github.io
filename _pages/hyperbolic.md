@@ -157,18 +157,6 @@ The below are tilings of the Poincare Disk model of hyperbolic space.
 	<td><img src="\images\hyperbolic\9_10.png"></td>
 	<td><img src="\images\hyperbolic\9_inf.png"></td>
 </tr>
-<tr>
-	<th>10</th>
-	<td><img src="\images\hyperbolic\10_3.png"></td>
-	<td><img src="\images\hyperbolic\10_4.png"></td>
-	<td><img src="\images\hyperbolic\10_5.png"></td>
-	<td><img src="\images\hyperbolic\10_6.png"></td>
-	<td><img src="\images\hyperbolic\10_7.png"></td>
-	<td><img src="\images\hyperbolic\10_8.png"></td>
-	<td><img src="\images\hyperbolic\10_9.png"></td>
-	<td><img src="\images\hyperbolic\10_10.png"></td>
-	<td><img src="\images\hyperbolic\10_inf.png"></td>
-</tr>
 </table>
 
 <h3> Regular Tilings (Colourful!)</h3>
