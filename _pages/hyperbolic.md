@@ -245,6 +245,18 @@ The below are tilings of the Poincare Disk model of hyperbolic space.
 	<td><img src="\images\hyperbolic\colourful\8_10.png"></td>
 	<td><img src="\images\hyperbolic\colourful\8_inf.png"></td>
 </tr>
+<tr>
+	<th>9</th>
+	<td><img src="\images\hyperbolic\colourful\9_3.png"></td>
+	<td><img src="\images\hyperbolic\colourful\9_4.png"></td>
+	<td><img src="\images\hyperbolic\colourful\9_5.png"></td>
+	<td><img src="\images\hyperbolic\colourful\9_6.png"></td>
+	<td><img src="\images\hyperbolic\colourful\9_7.png"></td>
+	<td><img src="\images\hyperbolic\colourful\9_8.png"></td>
+	<td><img src="\images\hyperbolic\colourful\9_9.png"></td>
+	<td><img src="\images\hyperbolic\colourful\9_10.png"></td>
+	<td><img src="\images\hyperbolic\colourful\9_inf.png"></td>
+</tr>
 </table>
 
 <table>
