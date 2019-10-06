@@ -12,25 +12,28 @@ clear all;
 % ------------------------
 
 pmin = 4; % schlafli symbol p range. must be >= 3
-pmax = 10; % set equal to pmin if you just want 1 picture
+pmax = 4; % set equal to pmin if you just want 1 picture
 qmin = 5; % schlafli symbol q range. must be >= 3
-qmax = 10; % set equal to qmin if you just want 1 picture
+qmax = 5; % set equal to qmin if you just want 1 picture
 
 % smin = 3;
 % smax = 10;
 
-modes.map = 1; % makes animations of maps
+modes.map = 0; % makes animations of maps
 modes.animate = 0; % makes animation of each frame instead of saving pngs
 modes.triangle = 0; % doesn't work yet
 modes.orbifold = 0; % doesn't work yet
 modes.dual = 0; % makes dual tiling
+modes.truncate = 1; % makes dual tiling
 modes.infinity = 0; % makes ideal polygon tiling of given p value
-modes.sl2z = 0; % make sl(2,z) tiling
+modes.sl2z = 1; % make sl(2,z) tiling
 modes.torus = 0; % make punctured torus tiling
 
 modes.res = 100; % number of points to draw on a line
 modes.frame_num = 5; % number of frames for mapping animation
 modes.ran = 50; % length of words to calculate for SL(2,Z) mode
+modes.trunc = 0.3;
+
 
 % for map mode:
 
@@ -49,6 +52,7 @@ modes.map_name = 'parabolic';
 % ------------------------
 
 f = figure('visible','off');
+% f = figure();
 
 if ~modes.orbifold && ~modes.sl2z && ~modes.torus && ~modes.map
     modes.frame = 1;
@@ -91,7 +95,8 @@ function tile_list = main_func(p,q,modes,s)
     % ------------------------
     
     if ~modes.orbifold && ~modes.sl2z
-        gen_list = [0,0,5,5,5,4,3,3,3,3]; % length of word by p value
+        % select gens
+        gen_list = [0,0,5,5,4,4,3,3,3,3]; % length of word by p value
         gens = gen_list(p);
         if modes.triangle
             gens = 3;
@@ -104,21 +109,15 @@ function tile_list = main_func(p,q,modes,s)
             gens = 5;
         end    
         if modes.torus
-            gens = 5;
+            gens = 8;
             modes.infinity = 1; %short-cut to get fundamental domain from get_initial_poly
         end
+        
         poly_1 = get_initial_poly(p,q,modes);
         if modes.dual
-            v = zeros(q,1);
-            flip_pts = poly_1([1,2]);
-            [~,xc,rc] = get_geo_disk(flip_pts,2);
-            [a1,b1,c1,d1] = get_refl(xc,rc);
-            v(1) = 0;
-            for flip = 2:q
-                v(flip) = mobius(v(flip-1),[a1,b1,c1,d1]);
-            end
-            poly_1 = [v; v(1)];
+            poly_1 = dualize_poly(p,q,poly_1);
         end
+        
     elseif modes.orbifold
         poly_1 = get_triangle(2*pi/p, 2*pi/q, 2*pi/s);
     elseif modes.sl2z
@@ -135,15 +134,25 @@ function tile_list = main_func(p,q,modes,s)
     
     if modes.sl2z
         maps = populate_sl2z(modes.ran);
+        if modes.truncate
+            poly_1 = truncate_poly(modes.trunc,poly_1);
+        end
         graph_poly = get_poly(poly_1,modes.res);
         tile_list = mobius(graph_poly,maps);
-        color_list = rand(numel(maps(:,1)),1);
+        color_list = 0.4*rand(numel(maps(:,1)),1)+0;
     else
         [maps,colors] = get_tiling(poly_1,gens,modes);
+        if modes.truncate
+            poly_1 = truncate_poly(modes.trunc,poly_1);
+        end
         [~, maps_index] = uniquetol([real(maps),imag(maps)],1e-15,'ByRows',true);
         graph_poly = get_poly(poly_1,modes.res);
         tile_list = mobius(graph_poly ,maps(maps_index,:));
         color_list = colors(maps_index);
+        
+%         graph_poly = get_poly(poly_1,modes.res);
+%         tile_list = mobius(graph_poly ,maps);
+%         color_list = colors;
     end
     
     % ------------------------
@@ -157,6 +166,9 @@ function tile_list = main_func(p,q,modes,s)
         axis off;
         xlim([-1,1]);
         ylim([-1,1]);
+        if modes.sl2z
+            caxis([0,1]);
+        end
         ax = gca;
         outerpos = ax.OuterPosition;
         ti = ax.TightInset; 
@@ -181,35 +193,47 @@ function tile_list = main_func(p,q,modes,s)
             colormap spring;
         end
 
-        plot(cos(linspace(0,2*pi,300)),sin(linspace(0,2*pi,300)),'-k')
+        patch(cos(linspace(0,2*pi,300)),sin(linspace(0,2*pi,300)),0)
+
+%         plot(cos(linspace(0,2*pi,300)),sin(linspace(0,2*pi,300)),'-k')
         patch(real(tile_list'), imag(tile_list'), color_list);
         
         clear maps graph_poly maps_index color_list colors
 
-        if ~modes.animate
-            if modes.sl2z
-                poly_name = 'slz2.png';
-            elseif modes.torus
-                poly_name = 'torus.png';
-            elseif modes.orbifold
-                poly_name = [num2str(p),'_',num2str(q),'_',num2str(s),'.png'];
-            elseif modes.infinity
-                poly_name = [num2str(p),'_inf.png'];
-            elseif modes.triangle
-                poly_name = [num2str(p),'_',num2str(q),'_tri.png'];
-            elseif modes.dual
-                poly_name = [num2str(p),'_',num2str(q),'_dual.png'];
-            else
-                poly_name = [num2str(p),'_',num2str(q),'.png'];
-            end
+        if modes.sl2z
+            poly_name = 'slz2.png';
+        elseif modes.torus
+            poly_name = 'torus.png';
         else
-            poly_name = 'tiling_animation.gif';
+            poly_name = [num2str(p),'_',num2str(q)];
+        end
+
+        if modes.orbifold
+            poly_name = [poly_name,'_',num2str(s)];
+        end
+        if modes.infinity
+            poly_name = [num2str(p),'_inf'];
+        end
+        if modes.triangle
+            poly_name = [poly_name,'_tri'];
+        end
+        if modes.dual
+            poly_name = [poly_name,'_dual'];
+        end
+        if modes.truncate
+            poly_name = [poly_name,'_trunc'];
+        end
+        
+        if modes.animate
+            poly_name = [poly_name,'tiling_animation.gif'];
+        else
+            poly_name = [poly_name,'.png'];
         end
         
         % write file
         if ~modes.animate
             disp('Tiling generated. Saving figure...');
-            print(gcf, poly_name, '-dpng', '-r300');
+            print(gcf, poly_name, '-dpng', '-r100');
             disp(['File ', poly_name, ' saved.']);
         else
             current_frame = frame2im(getframe); 
@@ -289,6 +313,58 @@ function poly_out = get_initial_poly(p,q,modes)
     end
 end
 
+function poly_out = dualize_poly(p,q,poly_in)
+
+    v = zeros(q,1);
+    flip_pts = poly_in([1,2]);
+    [~,xc,rc] = get_geo_disk(flip_pts,2);
+    [a1,b1,c1,d1] = get_refl(xc,rc);
+    v(1) = 0;
+    for flip = 2:q
+        v(flip) = mobius(v(flip-1),[a1,b1,c1,d1]);
+    end
+    poly_out = [v; v(1)];
+end
+
+function poly_out = truncate_poly(trunc,poly_in)
+
+    %TODO: rewrite this atrocity
+
+    poly_out = [];
+    ress = 1000;
+    poly_edges = get_poly(poly_in,ress);
+    for i = 1:numel(poly_in)-1
+        current_edge = poly_edges((i-1)*ress+1:i*ress);
+        length_current_edge = sum(abs(current_edge(1:end-1)-current_edge(2:end)));
+        check = 0;
+        for j = 1:ress-1
+        	check = check + vecnorm(current_edge(j+1)-current_edge(j));
+            if check > length_current_edge/2
+                break
+            end
+        end
+        midpoint = j;
+        check = 0;
+        for j = 1:midpoint
+        	check = check + vecnorm(current_edge(j+1)-current_edge(j));
+            if check > trunc*length_current_edge/2
+                break
+            end
+        end
+        poly_out(end+1) = current_edge(j);
+        check = 0;
+        for j = midpoint:ress-1
+        	check = check + vecnorm(current_edge(j+1)-current_edge(j));
+            if check > trunc*length_current_edge/2
+                break
+            end
+        end
+        poly_out(end+1) = current_edge(j);
+    end
+    poly_out(end+1) = poly_out(1);
+    poly_out = poly_out';
+end
+
 function [maps_out, colors_out] = get_tiling(poly_in,gens,modes)
     
     p = numel(poly_in)-1;
@@ -324,7 +400,7 @@ function [maps_out, colors_out] = get_tiling(poly_in,gens,modes)
         end
     end
 
-    map_list = gen_words(2*p,gens);
+    map_list = gen_words(2*p,gens,p);
     maps_out = zeros(numel(map_list),4);
     colors_out = zeros(numel(map_list),1);
     
@@ -345,7 +421,7 @@ function [maps_out, colors_out] = get_tiling(poly_in,gens,modes)
             end
             map = map*map_m;
             maps_out(i,:) = [map(1,1),map(1,2),map(2,1),map(2,2)];
-            colors_out(i) = ii;%abs(map(1,1)+map(2,2));
+            colors_out(i) = 1;%abs(map(1,1)+map(2,2));
             i = i + 1;
         end
     end
