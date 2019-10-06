@@ -43,67 +43,19 @@ Take a look at the effect of the constant on the Julia set.
 
 Looks a lot like the Mandelbrot set! That's no coincidence. 
 Watch the corresponding Julia set change as we take a diagonal slice through the Mandelbrot set below (see the red dot).
-<br>
-<img src="\images\fractals\julia_mandelbrot_comp.gif">
-<br>
-A closer look at a few choice values:
 
 <table>
 <tr> 
-	<th>Imaginary Part \ Real Part </th>
-	<th>0.17</th>
-	<th>0.19</th>
-	<th>0.21</th>
-	<th>0.23</th>
-	<th>0.25</th>
-	<th>0.27</th>
-</tr>
-<tr> 
-	<td>0.37</td>
-	<td><img src="\images\fractals\constant_table_zoom\z.^2+0.37+0.17i.png"></td>
-	<td><img src="\images\fractals\constant_table_zoom\z.^2+0.37+0.19i.png"></td>
-	<td><img src="\images\fractals\constant_table_zoom\z.^2+0.37+0.21i.png"></td>
-	<td><img src="\images\fractals\constant_table_zoom\z.^2+0.37+0.23i.png"></td>
-	<td><img src="\images\fractals\constant_table_zoom\z.^2+0.37+0.25i.png"></td>
-	<td><img src="\images\fractals\constant_table_zoom\z.^2+0.37+0.27i.png"></td>
-</tr>
-<tr> 
-	<td>0.39</td>
-	<td><img src="\images\fractals\constant_table_zoom\z.^2+0.39+0.17i.png"></td>
-	<td><img src="\images\fractals\constant_table_zoom\z.^2+0.39+0.19i.png"></td>
-	<td><img src="\images\fractals\constant_table_zoom\z.^2+0.39+0.21i.png"></td>
-	<td><img src="\images\fractals\constant_table_zoom\z.^2+0.39+0.23i.png"></td>
-	<td><img src="\images\fractals\constant_table_zoom\z.^2+0.39+0.25i.png"></td>
-	<td><img src="\images\fractals\constant_table_zoom\z.^2+0.39+0.27i.png"></td>
-</tr>
-<tr> 
-	<td>0.41</td>
-	<td><img src="\images\fractals\constant_table_zoom\z.^2+0.41+0.17i.png"></td>
-	<td><img src="\images\fractals\constant_table_zoom\z.^2+0.41+0.19i.png"></td>
-	<td><img src="\images\fractals\constant_table_zoom\z.^2+0.41+0.21i.png"></td>
-	<td><img src="\images\fractals\constant_table_zoom\z.^2+0.41+0.23i.png"></td>
-	<td><img src="\images\fractals\constant_table_zoom\z.^2+0.41+0.25i.png"></td>
-	<td><img src="\images\fractals\constant_table_zoom\z.^2+0.41+0.27i.png"></td>
-</tr>
-<tr> 
-	<td>0.43</td>
-	<td><img src="\images\fractals\constant_table_zoom\z.^2+0.43+0.17i.png"></td>
-	<td><img src="\images\fractals\constant_table_zoom\z.^2+0.43+0.19i.png"></td>
-	<td><img src="\images\fractals\constant_table_zoom\z.^2+0.43+0.21i.png"></td>
-	<td><img src="\images\fractals\constant_table_zoom\z.^2+0.43+0.23i.png"></td>
-	<td><img src="\images\fractals\constant_table_zoom\z.^2+0.43+0.25i.png"></td>
-	<td><img src="\images\fractals\constant_table_zoom\z.^2+0.43+0.27i.png"></td>
+	<th>A Diagonal Slice of the Mandelbrot Set</th>
 </tr>
 <tr>
-	<td>0.45</td>
-	<td><img src="\images\fractals\constant_table_zoom\z.^2+0.45+0.17i.png"></td>
-	<td><img src="\images\fractals\constant_table_zoom\z.^2+0.45+0.19i.png"></td>
-	<td><img src="\images\fractals\constant_table_zoom\z.^2+0.45+0.21i.png"></td>
-	<td><img src="\images\fractals\constant_table_zoom\z.^2+0.45+0.23i.png"></td>
-	<td><img src="\images\fractals\constant_table_zoom\z.^2+0.45+0.25i.png"></td>
-	<td><img src="\images\fractals\constant_table_zoom\z.^2+0.45+0.27i.png"></td>
+	<td><img src="\images\fractals\julia_mandelbrot_comp.gif"></td>
 </tr>
 </table>
+
+A closer look at a few choice values:
+
+{% include quadratic_table_small.md %}
 
 The pictures below are Julia sets represented by polynomial functions of various degree.
 
@@ -122,19 +74,45 @@ The pictures below are Julia sets represented by polynomial functions of various
 </tr>
 </table>
 
-<h3>Cosh and Sinh</h3>
-
+Here is an animation of zooming in at the point 0.001643721971153 − 0.822467633298876i. 
+Since gifs can only use 256 colours, the colouration of each pixel is taken mod 256.
 <table>
 <tr>
-	<th>cosh(z)-0.9i</th>
-	<th>cosh(z)+0.4+0.6i</th>
+	<th>The Mandelbrot Set at (0.001643721971153, 0.822467633298876)</th>
 </tr>
-<tr> 
-	<td><img src="\images\fractals\(cmath.cosh(z))+complex(0,-0.9).png"></td>
-	<td><img src="\images\fractals\(cmath.cosh(z))+complex(0.4,0.6).png"></td>
+<tr>
+	<td><img src="\images\fractals\mandelbrot_zoom.gif"></td>
 </tr>
 </table>
+
+Compare to <a href="https://upload.wikimedia.org/wikipedia/commons/0/07/Fractal-zoom-1-03-Mandelbrot_Buzzsaw.ogv">this</a> much more sophisticated video at the same point.
+
+<h3>Cosh and Sinh</h3>
+
+Other holomorphic functions, like Cosh and Sinh, also make beautiful Julia Sets.
+
+<table>
+	<tr>
+		<th>cosh(z)-0.9i</th>
+		<th>cosh(z)+0.4+0.6i</th>
+	</tr>
+	<tr> 
+		<td><img src="\images\fractals\(cmath.cosh(z))+complex(0,-0.9).png"></td>
+		<td><img src="\images\fractals\(cmath.cosh(z))+complex(0.4,0.6).png"></td>
+	</tr>
+</table>
+
+<table>
+	<tr>
+		<th> The cosh(z)-c Julia Set for Varying c</th>
+	</tr>
+	<tr> 
+		<td><img src="\images\fractals\cosh(z)_0_in_params.gif"></td>
+	</tr>
+</table>
 	
+<h3>Cosh and Abs</h3>
+
 Combining holomorphic and non-holomorphic functions can produce some very interesting results.
 
 <table>
@@ -146,16 +124,35 @@ Combining holomorphic and non-holomorphic functions can produce some very intere
 </tr>
 </table>
 
+The three below are produced by iterating z -> cosh(z)+abs(z)*c at each point, where c is the location of the point.
+
+<table>
+<tr>
+	<th>cosh(z)+abs(z)*c</th>
+	<th>cosh(z)+abs(z)*c (zoomed-in)</th>
+	<th>cosh(z)+abs(z)*c (zoomed-in more)</th>
+</tr>
+<tr> 
+	<td><img src="\images\fractals\cosh(z)+abs(z).z0.png"></td>
+	<td><img src="\images\fractals\cosh(z)+abs(z).z0_zoom.png"></td>
+	<td><img src="\images\fractals\cosh(z)+abs(z).z0_zoom2.png"></td>
+</tr>
+</table>
+
 {% include cosh_table.md %}
 
-<h3>The Mandelbrot Set</h3>
+<h3>A Strange Image</h3>
 
-Here is an animation of zooming in at the point 0.001643721971153 − 0.822467633298876i. 
-Since gifs can only use 256 colours, the colouration of each pixel is taken mod 256.
-<br>
-<img src="\images\fractals\mandelbrot_zoom.gif">
-<br>
-Compare to <a href="https://upload.wikimedia.org/wikipedia/commons/0/07/Fractal-zoom-1-03-Mandelbrot_Buzzsaw.ogv">this</a> much more sophisticated video at the same point.
+The iterated function here is z -> (c^z)*(z^c).
+
+<table>
+<tr>
+	<th>(c^z)*(z^c)</th>
+</tr>
+<tr> 
+	<td><img src="\images\fractals\z0.^(z).z.^(z0).png"></td>
+</tr>
+</table>
 
 <h3>The Burning Ship</h3>
 
@@ -186,23 +183,15 @@ This is a corresponding Julia set.
 </table>
 
 Here is an animation of zooming in at the point 0.2955+0i. Again, the colouration is taken mod 256.
-<br>
-<img src="\images\fractals\burning_ship_zoom.gif">
-<br>
-
-<h3>More Cosh Fractals</h3>
-The three below are produced by iterating z -> cosh(z)+|z|*c at each point, where c is the location of the point.
 
 <table>
-<tr> 
-	<td><img src="\images\fractals\cosh(z)+abs(z).z0.png"></td>
-	<td><img src="\images\fractals\cosh(z)+abs(z).z0_zoom.png"></td>
-	<td><img src="\images\fractals\cosh(z)+abs(z).z0_zoom2.png"></td>
+<tr>
+	<th>The Burning Ship at (0.2955,0)</th>
+</tr>
+<tr>
+	<td><img src="\images\fractals\burning_ship_zoom.gif"></td>
 </tr>
 </table>
-
-The iterated function here is (c^z)*(z^c).
-<img src="\images\fractals\z0.^(z).z.^(z0).png">
 	
 <h3>Different Colour Maps</h3>
 Here are different colourings of the same fractal. 

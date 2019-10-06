@@ -1,6 +1,9 @@
 <table>
+<tr> 
+	<th colspan="22">z -> cosh(z)+|z|*(x+iy)</th>
+</tr>
 <tr>
-	<td>Imaginary Part \ Real Part</td>
+	<td></td>
 	<td>-2</td>
 	<td>-1.8</td>
 	<td>-1.6</td>

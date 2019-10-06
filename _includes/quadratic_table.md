@@ -1,6 +1,9 @@
 <table>
+<tr> 
+	<th colspan="32">z -> z.^2 + (x+iy)</th>
+</tr>
 <tr>
-	<td>Imaginary Part \ Real Part</td>
+	<td></td>
 	<td>-2</td>
 	<td>-1.9</td>
 	<td>-1.8</td>
