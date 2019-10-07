@@ -193,6 +193,20 @@ Here is an animation of zooming in at the point 0.2955+0i. Again, the colouratio
 </tr>
 </table>
 	
+	
+<h3>Exp</h3>
+
+This is the Mandelbrot set of the function z -> c*z*exp(z^2). 
+I like to call this one "the rainbow carp", because the pattern looks like the scales of a fish.
+<table>
+	<tr>
+		<th>c*z*exp(z^2)</th>
+	</tr>
+	<tr>
+		<td><img src="\images\fractals\c_exp(z.^2).z.png"></td>
+	</tr>
+</table>
+
 <h3>Different Colour Maps</h3>
 Here are different colourings of the same fractal. 
 These were made in MATLAB using the colourmaps "hot" and "flag".
