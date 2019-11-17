@@ -28,6 +28,8 @@ docs:
         url: /wolfram/
       - title: "2D Automata"
         url: /automata/
+      - title: "Turtle Graphics"
+        url: /turtle/
   - title: GitHub
     children:
       - title: "ibeach"
