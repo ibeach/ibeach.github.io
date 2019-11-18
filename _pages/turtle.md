@@ -120,3 +120,106 @@ Below are some of the more interesting examples for n =1,2,3,4,5.
 		<td><img src="\images\turtle\F_F+FF-_1.5708_15.png"></td>
 	</tr>
 	</table>
+
+Here are some highlights when we use the alphabet {'F','X','Y','-','+'}, instructions as in the dragon curve example, and a rulebook of the form 'X'->'WORD1', 'Y'->'WORD2'. 
+	
+<h3>Fractal-Like Curves</h3>
+
+	<table>
+	<tr> 
+		<th>'X' -> 'FXY', 'Y' -> 'YX+' (20 iterations)</th>
+		<th>'X' -> 'XFY', 'Y' -> 'X-Y' (20 iterations)</th>
+	</tr>
+	<tr> 
+		<td><img src="\images\turtle\X_FXY_Y_YX+_1.5708_20.png"></td>
+		<td><img src="\images\turtle\X_XFY_Y_X-Y_1.5708_20.png"></td>
+	</tr>
+	<tr> 
+		<th>'X' -> 'FY+', 'Y' -> 'YXX' (15 iterations)</th>
+		<th>'X' -> 'FY+', 'Y' -> 'YXX' (20 iterations)</th>
+	</tr>
+	<tr> 
+		<td><img src="\images\turtle\X_FY+_Y_YXX_1.5708_15.png"></td>
+		<td><img src="\images\turtle\X_FY+_Y_YXX_1.5708_20.png"></td>
+	</tr>
+	<tr> 
+		<th>'X' -> 'FYX', 'Y' -> 'XY-' (20 iterations)</th>
+		<th>'X' -> 'YFY', 'Y' -> 'Y-X' (20 iterations)</th>
+	</tr>
+	<tr> 
+		<td><img src="\images\turtle\X_FYX_Y_XY-_1.5708_20.png"></td>
+		<td><img src="\images\turtle\X_YFY_Y_Y-X_1.5708_20.png"></td>
+	</tr>
+	<tr> 
+		<th>'X' -> 'FYXY', 'Y' -> 'XY-' (15 iterations)</th>
+		<th>'X' -> 'FY', 'Y' -> 'XY-' (20 iterations)</th>
+	</tr>
+	<tr> 
+		<td><img src="\images\turtle\X_FYXY_Y_XY-_1.5708_15.png"></td>
+		<td><img src="\images\turtle\X_FY_Y_XY-_1.5708_20.png"></td>
+	</tr>
+	<tr> 
+		<th>'X' -> 'FY+', 'Y' -> 'XY-' (15 iterations)</th>
+		<th>'X' -> 'FY+', 'Y' -> 'XY-' (25 iterations)</th>
+	</tr>
+	<tr> 
+		<td><img src="\images\turtle\X_FY+_Y_XY-_1.5708_15.png"></td>
+		<td><img src="\images\turtle\X_FY+_Y_XY-_1.5708_25.png"></td>
+	</tr>
+	</table>
+	
+<h3>Sierpinski-esque Blocks</h3>
+	<table>
+	<tr> 
+		<th>'X' -> 'FYY', 'Y' -> 'X-X' (15 iterations)</th>
+		<th>'X' -> 'FYY', 'Y' -> 'X-X' (20 iterations)</th>
+	</tr>
+	<tr> 
+		<td><img src="\images\turtle\X_FYY_Y_X-X_1.5708_15.png"></td>		
+		<td><img src="\images\turtle\X_FYY_Y_X-X_1.5708_20.png"></td>
+	</tr>
+	<tr> 
+		<th>'X' -> 'FY-', 'Y' -> 'XXY' (20 iterations)</th>
+		<th>'X' -> 'FY+', 'Y' -> 'XXX' (20 iterations)</th>
+	</tr>
+	<tr> 
+		<td><img src="\images\turtle\X_FY-_Y_XXY_1.5708_20.png"></td>
+		<td><img src="\images\turtle\X_FY+_Y_XXX_1.5708_20.png"></td>
+	</tr>
+	</table>
+	
+<h3>"Chromosomes"</h3>
+	<table>
+	<tr> 
+		<th>'X' -> 'YF', 'Y' -> 'YX-' (20 iterations)</th>
+		<th>'X' -> 'YF', 'Y' -> 'YX-' (30 iterations)</th>
+	</tr>
+	<tr> 
+		<td><img src="\images\turtle\X_YF_Y_YX-_1.5708_20.png"></td>	
+		<td><img src="\images\turtle\X_YF_Y_YX-_1.5708_30.png"></td>	
+	</tr>
+	<tr> 
+		<th>'X' -> 'YF-', 'Y' -> 'YX-' (20 iterations)</th>
+		<th>'X' -> 'YF-', 'Y' -> 'YX-' (30 iterations)</th>
+	</tr>
+	<tr> 
+		<td><img src="\images\turtle\X_YF-_Y_YX-_1.5708_20.png"></td>		
+		<td><img src="\images\turtle\X_YF-_Y_YX-_1.5708_30.png"></td>	
+	</tr>
+	<tr> 
+		<th>'X' -> 'FY+', 'Y' -> 'YYX' (15 iterations)</th>
+		<th>'X' -> 'FY+', 'Y' -> 'YYX' (20 iterations)</th>
+	</tr>
+	<tr> 
+		<td><img src="\images\turtle\X_FY+_Y_YYX_1.5708_15.png"></td>		
+		<td><img src="\images\turtle\X_FY+_Y_YYX_1.5708_20.png"></td>	
+	</tr>
+	<tr> 
+		<th>'X' -> 'Y-', 'Y' -> 'YXF' (20 iterations)</th>
+		<th>'X' -> 'YF-', 'Y' -> 'Y-X' (20 iterations)</th>
+	</tr>
+	<tr> 
+		<td><img src="\images\turtle\X_Y-_Y_YXF_1.5708_20.png"></td>		
+		<td><img src="\images\turtle\X_YF-_Y_Y-X_1.5708_20.png"></td>	
+	</tr>
+	</table>
