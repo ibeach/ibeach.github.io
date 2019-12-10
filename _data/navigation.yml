@@ -30,6 +30,8 @@ docs:
         url: /automata/
       - title: "Turtle Graphics"
         url: /turtle/
+      - title: "Pursuit Curves"
+        url: /pursuit/
   - title: GitHub
     children:
       - title: "ibeach"
