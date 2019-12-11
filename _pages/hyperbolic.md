@@ -8,8 +8,9 @@ permalink: /hyperbolic/
 Hyperbolic Tilings
 
 <b>Explanation:</b> 
-Just as the Euclidean plane can be tiled by (certain kinds of) regular polygons, so can the hyperbolic plane. 
-Moreover, the action of Fuchsian groups on hyperbolic space can induce tilings of the hyperbolic plane by their fundamental domain. See also "The Beauty of the Hyperbolic Plane" on my Talks page.
+Just as the Euclidean plane can be tiled by (certain kinds of) regular polygons, so too can the hyperbolic plane. 
+Moreover, the action of Fuchsian groups on hyperbolic space can induce tilings of the hyperbolic plane by their fundamental domain. 
+See also "The Beauty of the Hyperbolic Plane" on my Talks page.
 
 <b>Learn More:</b>
 <ul>
@@ -20,7 +21,8 @@ Moreover, the action of Fuchsian groups on hyperbolic space can induce tilings o
 <b>Code:</b>
 <a href ="https://github.com/ibeach/ibeach.github.io/tree/master/code/hyperbolic">/code/hyperbolic</a>
 
-The orientation-preserving isometries of the hyperbolic plane are the Mobius maps with real coefficients and determinant 1. There are 3 types, and they are characterized by their trace.
+The orientation-preserving isometries of the hyperbolic plane are the Mobius maps with real coefficients and determinant 1. 
+There are 3 types, and they are characterized by their trace.
 
 <table>
 <tr>
@@ -55,14 +57,16 @@ The orientation-preserving isometries of the hyperbolic plane are the Mobius map
 </tr>
 </table>
 
-Regular tilings on any surface can be characterized by their Schlafli symbol (p,q), where p is the number of edges of each polygon and q is the number of polygons meeting at each vertex. Only some symbols admit tilings for a given surface, however.
+Regular tilings on any surface can be characterized by their Schlafli symbol (p,q), where p is the number of edges of each polygon and q is the number of polygons meeting at each vertex. 
+Only some symbols admit tilings for a given surface, however.
 The below are regular tilings of the Poincare Disk model of hyperbolic space.
 
 {% include tiling_table.md %}
 
 {% include truncated_table.md %}
 
-Fuchsian groups of isometries also induce tilings, where each tile is a copy of the group's fundamental domain.
+Fuchsian groups of isometries also induce tilings, where each tile is a copy of the group's fundamental domain. 
+The placement of the tiles is determined by the action of the group: each tile corresponds to the image of the original fundamental domain under a single group element.
 
 <table>
 <tr>

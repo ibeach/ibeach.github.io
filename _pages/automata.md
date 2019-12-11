@@ -35,6 +35,8 @@ The <i>i</i>th value of the rule-string determines the state given to a cell who
 </tr>
 </table>
 
-Here is a table of example end states for all VOTE-style rules. The initial values are randomized.
+Here is a table of example end states for all VOTE-style rules with random initial values. 
+The rules are listed in increasing binary order from left to right-- for example, the top row is the rules
+0000000000, 1000000000, 0100000000, 1100000000, 0010000000, and so on.
 
 {% include vote_table.md %}

@@ -18,7 +18,8 @@ Despite the seeming simplicity of these rules, they produce a wide variety of in
 <b>Code:</b> 
 <a href ="https://github.com/ibeach/ibeach.github.io/tree/master/code/wolfram">/code/wolfram</a>
 
-These are the so-called "Wolfram Elementary Automata". There are 2^8 of them, and each corresponding rule can be described by a string of 8 zeros and ones. For an explanation of the naming scheme, see the "Learn More" link.
+These are the so-called "Wolfram Elementary Automata". There are 2^8 of them, and each corresponding rule can be described by a string of 8 zeros and ones. 
+For an explanation of the naming scheme, see the "Learn More" link.
 
 <table>
 <tr>
@@ -41,6 +42,7 @@ These are the so-called "Wolfram Elementary Automata". There are 2^8 of them, an
 </tr>
 </table>
 
-Here is a curated list of all the Wolfram automata (I've essentially only removed the ones that produce extremely simplistic patterns). For a full list of \images, see this website's GitHub respository.
+Here is a curated list of all the Wolfram automata (I've essentially only removed the ones that produce extremely simplistic patterns), where each rule is shown with three example starting values (all zeroes, all ones, or random).
+For a full list of images, see this website's GitHub respository.
 
 {% include wolfram_table.md %}
