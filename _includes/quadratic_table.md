@@ -1,6 +1,6 @@
 <table>
 <tr> 
-	<th colspan="32">z -> z.^2 + (x+iy)</th>
+	<th colspan="32">$z \to z^2 + (x+iy)$</th>
 </tr>
 <tr>
 	<td></td>
