@@ -2,17 +2,17 @@
 title: Complex Analysis
 permalink: /complex/
 ---
-<h3>On This Page:</h3> 
+<b>On This Page:</b> 
 Domain Colouring Diagrams
 
-<h3>Explanation:</h3> 
+<b>Explanation:</b> 
 It's not easy to graph complex functions (since such a graph would have 4 real dimensions), but the image of a complex function can still be visualized.
 Each point is coloured with a hue corresponding to the argument of the image of that point. 
 For example, the image of the identity function would look like the usual colour wheel.
 In the case of conformal maps, it is also interesting to look at the image of a rectangular grid. 
 The black lines are the image of a standard square grid.
 
-<h3>Code:</h3> 
+<b>Code:</b> 
 Coming Soon...
 
 <h3> The Cayley Map </h3>

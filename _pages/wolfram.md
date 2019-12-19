@@ -3,19 +3,19 @@ title: Wolfram Automata
 permalink: /wolfram/
 ---
 
-<h3>On This Page:</h3> 
+<b>On This Page:</b> 
 Elementary Cellular Automata
 
-<h3>Explanation:</h3> 
+<b>Explanation:</b> 
 Essentially, a cellular automaton takes in a space of cells and outputs a new space of cells according to a fixed set of rules. 
 For our purposes, you can imagine that the x-axis is the space of cells and the y-axis is time. 
 Each cell is either "off" (black) or "on" (white). For the automata below, the state of each cell is determined only by the state of its neighbours and itself in the previous timestep.
 Despite the seeming simplicity of these rules, they produce a wide variety of interesting patterns.
 
-<h3>Learn More:</h3> 
+<b>Learn More:</b> 
 <a href ="http://mathworld.wolfram.com/ElementaryCellularAutomaton.html">WolframMathWorld</a>
 
-<h3>Code:</h3> 
+<b>Code:</b> 
 <a href ="https://github.com/ibeach/ibeach.github.io/tree/master/code/wolfram">/code/wolfram</a>
 
 These are the so-called "Wolfram Elementary Automata". There are 2^8 of them, and each corresponding rule can be described by a string of 8 zeros and ones. 

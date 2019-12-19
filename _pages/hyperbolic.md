@@ -3,21 +3,22 @@ title: Hyperbolic Geometry
 permalink: /hyperbolic/
 ---
 
-<h3>On This Page:</h3> 
+
+<b>On This Page:</b> 
 Hyperbolic Tilings
 
-<h3>Explanation:</h3> 
+<b>Explanation:</b> 
 Just as the Euclidean plane can be tiled by (certain kinds of) regular polygons, so too can the hyperbolic plane. 
 Moreover, the action of Fuchsian groups on hyperbolic space can induce tilings of the hyperbolic plane by their fundamental domain. 
 See also "The Beauty of the Hyperbolic Plane" on my Talks page.
 
-<h3>Learn More:</h3>
+<b>Learn More:</b>
 <ul>
 <li><a href ="http://homepages.warwick.ac.uk/~masbb/">Caroline Series' MAT448 Notes</a></li>
 <li><i>Indra's Pearls</i> by Caroline Series and David Mumford</li>
 </ul>
 
-<h3>Code:</h3>
+<b>Code:</b>
 <a href ="https://github.com/ibeach/ibeach.github.io/tree/master/code/hyperbolic">/code/hyperbolic</a>
 
 The orientation-preserving isometries of the hyperbolic plane are the Mobius maps with real coefficients and determinant 1. 
@@ -38,9 +39,9 @@ There are 3 types, and they are characterized by their trace.
 </tr>
 <tr>
 	<td style="padding: 3px;">Example</td>
-	<td style="padding: 3px;">$z \to e^{(i\pi/2)}z$</td>
-	<td style="padding: 3px;">$z \to z+1$</td>
-	<td style="padding: 3px;">$z \to 2z$</td>
+	<td style="padding: 3px;">z -> e^(i*pi/2)z</td>
+	<td style="padding: 3px;">z -> z+1</td>
+	<td style="padding: 3px;">z -> 2z</td>
 </tr>
 <tr>
 	<td style="padding: 3px;">Orbit Diagram</td>
@@ -69,7 +70,7 @@ The placement of the tiles is determined by the action of the group: each tile c
 
 <table>
 <tr>
-	<th>The Action of $SL(2,\mathbb{Z})$ </th>
+	<th>The Action of SL(2,Z) </th>
 	<th>The Action of a Punctured Torus Group </th>
 </tr>
 <tr>
