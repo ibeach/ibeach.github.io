@@ -24,6 +24,8 @@ docs:
         url: /hyperbolic/
       - title: "Fractals"
         url: /fractals/
+      - title: "Fractals II"
+        url: /fractals2/
       - title: "1D Wolfram Automata"
         url: /wolfram/
       - title: "2D Automata"
