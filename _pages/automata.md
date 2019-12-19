@@ -2,19 +2,19 @@
 title: 2D Automata
 permalink: /automata/
 ---
-<b>On This Page:</b> 
+<h3>On This Page:</h3> 
 2-Dimensional Cellular Automata
 
-<b>Explanation:</b> 
+<h3>Explanation:</h3> 
 These cellular automaton have two spatial dimensions. Again, each cell is either "off" or "on", but for added interest there are 
 two additional colours to denote cells that have changed their state in the last time step (0->1 and 1->0). 
 As in the Wolfram automata, the state of each cell is determined only by the state of its neighbours and itself in the previous timestep.
 The following are all VOTE-style automata, which means that a cell's state is determined by the <i>sum</i> of its neighbours' states, not their exact distribution.
 
-<b>Learn More:</b> 
+<h3>Learn More:</h3> 
 <a href ="https://www.fourmilab.ch/cellab/manual/rules.html">FourmiLab</a>
 
-<b>Code:</b> 
+<h3>Code:</h3> 
 <a href ="https://github.com/ibeach/ibeach.github.io/tree/master/code/automata">/code/automata</a>
 
 Some example behaviour of VOTE-style automata.

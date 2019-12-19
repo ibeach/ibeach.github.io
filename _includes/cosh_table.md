@@ -1,6 +1,6 @@
 <table>
 <tr> 
-	<th colspan="22">z -> cosh(z)+|z|*(x+iy)</th>
+	<th colspan="22">$z \to \cosh(z)+|z|(x+iy)$</th>
 </tr>
 <tr>
 	<td></td>

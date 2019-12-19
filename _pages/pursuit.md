@@ -2,12 +2,12 @@
 title: Pursuit Curves
 permalink: /pursuit/
 ---
-<b>On This Page:</b> 
+<h3>On This Page:</h3> 
 Pursuit Curves
 
-<b>Explanation: </b> Coming Soon...
+<h3>Explanation: </h3> Coming Soon...
 
-<b>Code:</b> 
+<h3>Code:</h3> 
 Coming Soon...
 
 {% include pursuit_table.md %}
