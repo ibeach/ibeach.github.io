@@ -12,3 +12,12 @@ Coming Soon...
 
 {% include pursuit_table.md %}
 
+<table>
+	<tr>
+		<td><img src="\images\pursuit\pursuit_3_alt.png"></td>
+		<td><img src="\images\pursuit\pursuit_4_alt.png"></td>
+		<td><img src="\images\pursuit\pursuit_5_alt.png"></td>
+		<td><img src="\images\pursuit\pursuit_6_alt.png"></td>
+	</tr>
+</table>
+
