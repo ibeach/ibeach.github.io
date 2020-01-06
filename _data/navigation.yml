@@ -16,6 +16,8 @@ docs:
         url: /
       - title: "Talks"
         url: /talks/
+      - title: "Papers"
+        url: /papers/
   - title: Projects
     children:
       - title: "Complex Analysis"
