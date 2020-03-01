@@ -107,10 +107,10 @@ analytics:
 
 # Site Author
 author:
-  name             : About #"Isabel Beach"
+  name             : #About #"Isabel Beach"
   avatar           : #"/images/site/avatar.jpg"
-  bio              : "Fifth-year undergraduate student in the Math Specialist program."
-  location         : "University of Toronto"
+  bio              : #"Fifth-year undergraduate student in the Math Specialist program."
+  location         : #"University of Toronto"
       
 # Site Footer
 footer:

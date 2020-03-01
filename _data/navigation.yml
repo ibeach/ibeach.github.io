@@ -1,14 +1,4 @@
-# main links
-main:
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
-  
+main:  
 docs:
   - title: Info
     children:
@@ -36,6 +26,10 @@ docs:
         url: /turtle/
       - title: "Pursuit Curves"
         url: /pursuit/
+  - title: Other Fun Stuff
+    children:
+      - title: "Bug Photos"
+        url: /bug_photos/
   - title: GitHub
     children:
       - title: "ibeach"
