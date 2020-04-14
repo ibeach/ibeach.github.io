@@ -78,8 +78,27 @@ Bugs????
 		</td>
 	</tr>
 	<tr>
+		<td><img src="\images\bug_photos\honey_1.png" width="300px"></td>
+		<td>Honeybee
+			<br>
+			<i>Apis</i>
+		</td>
+	</tr>
+	<tr>
 		<td><img src="\images\bug_photos\bee_hover_fly.png" width="300px"></td>
 		<td>A honeybee (left) and <br> an unidentified hoverfly (right)
+		</td>
+	</tr>
+	<tr>
+		<td><img src="\images\bug_photos\mystery_bee_1.png" width="300px"></td>
+		<td>European wool carder bee(?)
+			<br>
+			<i>Anthidium manicatum</i>
+		</td>
+	</tr>
+	<tr>
+		<td><img src="\images\bug_photos\mystery_bee_2.png" width="300px"></td>
+		<td>Mystery bee
 		</td>
 	</tr>
 	<tr>
