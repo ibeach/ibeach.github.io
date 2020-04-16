@@ -30,6 +30,8 @@ docs:
     children:
       - title: "Bug Photos"
         url: /bug_photos/
+      - title: "Art"
+        url: /art/
   - title: GitHub
     children:
       - title: "ibeach"
