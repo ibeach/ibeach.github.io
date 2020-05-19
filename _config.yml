@@ -107,8 +107,8 @@ analytics:
 
 # Site Author
 author:
-  name             : #About #"Isabel Beach"
-  avatar           : #"/images/site/avatar.jpg"
+  name             : "Isabel Beach"
+  avatar           : "/images/site/logo.png"
   bio              : #"Fifth-year undergraduate student in the Math Specialist program."
   location         : #"University of Toronto"
       
