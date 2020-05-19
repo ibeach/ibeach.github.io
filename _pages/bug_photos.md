@@ -29,6 +29,13 @@ Bugs????
 		</td>
 	</tr>
 	<tr>
+		<td><img src="\images\bug_photos\monarch_cat_1.png" width="300px"></td>
+		<td>Monarch Butterfly Caterpillar
+			<br>
+			<i>Danaus plexippus</i>
+		</td>
+	</tr>
+	<tr>
 		<td><img src="\images\bug_photos\fritillary_1.png" width="300px"></td>
 		<td>Unidentified Fritillary Butterfly
 			<br>
@@ -50,6 +57,13 @@ Bugs????
 		</td>
 	</tr>
 	<tr>
+		<td><img src="\images\bug_photos\sphinx_1.png" width="300px"></td>
+		<td>Blinded Sphinx Moths (mating)
+			<br>
+			<i>Paonias excaecatus</i>
+		</td>
+	</tr>
+	<tr>
 		<td><img src="\images\bug_photos\ash_1.png" width="300px"></td>
 		<td>Ashy Gray Lady Beetle
 			<br>
@@ -68,6 +82,13 @@ Bugs????
 		<td>Elm Leaf Beetle
 			<br>
 			<i>Xanthogaleruca luteola</i>
+		</td>
+	</tr>
+	<tr>
+		<td><img src="\images\bug_photos\cucumber_1.png" width="300px"></td>
+		<td>Spotted Cucumber Beetle
+			<br>
+			<i>Diabrotica undecimpunctata</i>
 		</td>
 	</tr>
 	<tr>
