@@ -39,7 +39,14 @@ Bugs????
 		<td><img src="\images\bug_photos\fritillary_1.png" width="300px"></td>
 		<td>Unidentified Fritillary Butterfly
 			<br>
-			Perhaps <i>Boloria selene</i>?
+			Perhaps <i>Boloria selene</i>
+		</td>
+	</tr>
+	<tr>
+		<td><img src="\images\bug_photos\swallowtail_1.png" width="300px"></td>
+		<td>Tiger Swallowtail Butterfly
+			<br>
+			Either <i>Papilio canadensis</i> or <i>Papilio glaucus</i> 
 		</td>
 	</tr>
 	<tr>
@@ -58,9 +65,16 @@ Bugs????
 	</tr>
 	<tr>
 		<td><img src="\images\bug_photos\sphinx_1.png" width="300px"></td>
-		<td>Blinded Sphinx Moths (mating)
+		<td>Blinded Sphinx Moth
 			<br>
 			<i>Paonias excaecatus</i>
+		</td>
+	</tr>
+	<tr>
+		<td><img src="\images\bug_photos\gypsy_moth_1.png" width="300px"></td>
+		<td>Gypsy Moth
+			<br>
+			<i>Lymantria dispar</i>
 		</td>
 	</tr>
 	<tr>
@@ -92,8 +106,15 @@ Bugs????
 		</td>
 	</tr>
 	<tr>
+		<td><img src="\images\bug_photos\click_beetle_1.png" width="300px"></td>
+		<td>Eyed Click Beetle
+			<br>
+			<i>Alaus oculatus</i>
+		</td>
+	</tr>
+	<tr>
 		<td><img src="\images\bug_photos\bumble_west_1.png" width="300px"></td>
-		<td>Orange-belted Bumblebee (?)
+		<td>Orange-belted Bumblebee
 			<br>
 			<i>Bombus ternarius</i>
 		</td>
@@ -102,7 +123,7 @@ Bugs????
 		<td><img src="\images\bug_photos\honey_1.png" width="300px"></td>
 		<td>Honeybee
 			<br>
-			<i>Apis</i>
+			<i>Apis mellifera</i>
 		</td>
 	</tr>
 	<tr>
@@ -123,10 +144,24 @@ Bugs????
 		</td>
 	</tr>
 	<tr>
+		<td><img src="\images\bug_photos\mystery_bee_3.png" width="300px"></td>
+		<td>Sweat Bee (?)
+			<br>
+			<i>Halictus (?)</i>
+		</td>
+	</tr>
+	<tr>
 		<td><img src="\images\bug_photos\funnel_weaver_1.png" width="300px"></td>
 		<td>Unidentified American Grass Spider
 			<br>
 			<i>Agelenopsis</i>
+		</td>
+	</tr>
+	<tr>
+		<td><img src="\images\bug_photos\crab_spider_1.png" width="300px"></td>
+		<td>Goldenrod Crab Spider
+			<br>
+			<i>Misumena vatia</i>
 		</td>
 	</tr>
 </table>
