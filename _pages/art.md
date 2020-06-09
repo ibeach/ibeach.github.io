@@ -2,8 +2,8 @@
 title: Art
 permalink: /art/
 ---
-<h3>On This Page:</h3> 
-Art???
+
+Here is some art that I made.
 
 
 <table>
