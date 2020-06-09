@@ -2,8 +2,6 @@
 title: 2D Automata
 permalink: /automata/
 ---
-<h3>On This Page:</h3> 
-2-Dimensional Cellular Automata
 
 <h3>Explanation:</h3> 
 These cellular automaton have two spatial dimensions. Again, each cell is either "off" or "on", but for added interest there are 

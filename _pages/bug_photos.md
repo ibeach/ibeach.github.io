@@ -2,9 +2,8 @@
 title: Bug Photography
 permalink: /bug_photos/
 ---
-<h3>On This Page:</h3> 
 
-Bugs????
+Here are some nice photos of bugs.
 
 <table>
 	<tr>

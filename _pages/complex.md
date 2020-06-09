@@ -2,8 +2,6 @@
 title: Complex Analysis
 permalink: /complex/
 ---
-<h3>On This Page:</h3> 
-Domain Colouring Diagrams
 
 <h3>Explanation:</h3> 
 It's not easy to graph complex functions (since such a graph would have 4 real dimensions), but the image of a complex function can still be visualized.
