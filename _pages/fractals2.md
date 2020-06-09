@@ -3,8 +3,7 @@ title: Fractals II
 permalink: /fractals2/
 ---
 
-<h3>On This Page:</h3> 
-More Fractals (See <a href = "\fractals">previous page</a> for more information)
+Here are more fractals (see <a href = "\fractals">previous page</a> for more information).
 
 <h3>Newton's Method</h3>
 
