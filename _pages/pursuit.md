@@ -7,9 +7,6 @@ Pursuit Curves
 
 <h3>Explanation: </h3> Coming Soon...
 
-<h3>Code:</h3> 
-Coming Soon...
-
 {% include pursuit_table.md %}
 
 <table>

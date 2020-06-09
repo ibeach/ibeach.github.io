@@ -14,9 +14,6 @@ The following are all VOTE-style automata, which means that a cell's state is de
 <h3>Learn More:</h3> 
 <a href ="https://www.fourmilab.ch/cellab/manual/rules.html">FourmiLab</a>
 
-<h3>Code:</h3> 
-<a href ="https://github.com/ibeach/ibeach.github.io/tree/master/code/automata">/code/automata</a>
-
 Some example behaviour of VOTE-style automata.
 The <i>i</i>th value of the rule-string determines the state given to a cell whose neighbour sum has value <i>i</i>.
 

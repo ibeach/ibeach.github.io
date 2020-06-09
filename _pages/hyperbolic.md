@@ -17,9 +17,6 @@ See also "The Beauty of the Hyperbolic Plane" on my Talks page.
 <li><i>Indra's Pearls</i> by Caroline Series and David Mumford</li>
 </ul>
 
-<h3>Code:</h3>
-<a href ="https://github.com/ibeach/ibeach.github.io/tree/master/code/hyperbolic">/code/hyperbolic</a>
-
 The orientation-preserving isometries of the hyperbolic plane are the Mobius maps with real coefficients and determinant 1. 
 There are 3 types, and they are characterized by their trace.
 

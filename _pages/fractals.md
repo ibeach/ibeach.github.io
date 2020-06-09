@@ -21,9 +21,6 @@ For both types, each point is coloured according to how fast the iterations conv
 <li><i>Computers, Pattern, Chaos and Beauty Paperback</i> by Clifford A. Pickover</li>
 </ul>
 
-<h3>Code:</h3>
-<a href ="https://github.com/ibeach/ibeach.github.io/tree/master/code/fractals">/code/fractals</a>
-
 <h3>Quadratic Julia Sets</h3>
 This image is produced by iterating $z \to z^2+c$, where the initial $z$ value is the point in the image and $c$ is a constant.
 

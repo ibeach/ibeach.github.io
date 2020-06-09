@@ -12,9 +12,6 @@ For example, the image of the identity function would look like the usual colour
 In the case of conformal maps, it is also interesting to look at the image of a rectangular grid. 
 The black lines are the image of a standard square grid.
 
-<h3>Code:</h3> 
-Coming Soon...
-
 <h3> The Cayley Map </h3>
 Some visualizations of the Cayley map and its inverse. 
 The gaps are the images of a neighbourhood of infinity.
