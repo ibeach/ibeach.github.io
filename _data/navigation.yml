@@ -20,8 +20,6 @@ docs:
         url: /fractals2/
       - title: "1D Wolfram Automata"
         url: /wolfram/
-      - title: "2D Automata"
-        url: /automata/
       - title: "Turtle Graphics"
         url: /turtle/
       - title: "Pursuit Curves"
