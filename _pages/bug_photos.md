@@ -7,6 +7,11 @@ Here are some photos that I took of bugs.
 
 <table>
 	<tr>
+		<td colspan='2'>
+		Butterflies and Moths
+		</td>
+	</tr>
+	<tr>
 		<td><img src="\images\bug_photos\admiral_1.png" width="300px"></td>
 		<td>Red Admiral Butterfly
 			<br>
@@ -77,6 +82,16 @@ Here are some photos that I took of bugs.
 		</td>
 	</tr>
 	<tr>
+		<td><img src="\images\bug_photos\plume_moth_1.png" width="300px"></td>
+		<td>Plume Moth
+		</td>
+	</tr>
+	<tr>
+		<td colspan='2'>
+		Beetles
+		</td>
+	</tr>
+	<tr>
 		<td><img src="\images\bug_photos\ash_1.png" width="300px"></td>
 		<td>Ashy Gray Lady Beetle
 			<br>
@@ -112,6 +127,18 @@ Here are some photos that I took of bugs.
 		</td>
 	</tr>
 	<tr>
+		<td><img src="\images\bug_photos\net_winged_1.png" width="300px"></td>
+		<td>Net-winged Beetle
+			<br>
+			<i>Calopteron reticulatum(?)</i>
+		</td>
+	</tr>
+	<tr>
+		<td colspan='2'>
+		Bees and Flies
+		</td>
+	</tr>
+	<tr>
 		<td><img src="\images\bug_photos\bumble_west_1.png" width="300px"></td>
 		<td>Orange-belted Bumblebee
 			<br>
@@ -120,6 +147,13 @@ Here are some photos that I took of bugs.
 	</tr>
 	<tr>
 		<td><img src="\images\bug_photos\honey_1.png" width="300px"></td>
+		<td>Honeybee
+			<br>
+			<i>Apis mellifera</i>
+		</td>
+	</tr>
+	<tr>
+		<td><img src="\images\bug_photos\honey_2.png" width="300px"></td>
 		<td>Honeybee
 			<br>
 			<i>Apis mellifera</i>
@@ -150,6 +184,16 @@ Here are some photos that I took of bugs.
 		</td>
 	</tr>
 	<tr>
+		<td><img src="\images\bug_photos\bumble_1.png" width="300px"></td>
+		<td>Bumblebee
+		</td>
+	</tr>
+	<tr>
+		<td colspan='2'>
+		Spiders
+		</td>
+	</tr>
+	<tr>
 		<td><img src="\images\bug_photos\funnel_weaver_1.png" width="300px"></td>
 		<td>Unidentified American Grass Spider
 			<br>
@@ -161,6 +205,44 @@ Here are some photos that I took of bugs.
 		<td>Goldenrod Crab Spider
 			<br>
 			<i>Misumena vatia</i>
+		</td>
+	</tr>
+</table>
+
+<h3> Bonus: Hey those aren't bugs those are frogs </h3>
+
+<table>
+	<tr>
+		<td colspan='2'>
+		Frogs and Toads
+		</td>
+	</tr>
+	<tr>
+		<td><img src="\images\bug_photos\green_frog_1.png" width="300px"></td>
+		<td>Green Frog
+			<br>
+			<i>Lithobates clamitans</i>
+		</td>
+	</tr>
+	<tr>
+		<td><img src="\images\bug_photos\green_frog_2.png" width="300px"></td>
+		<td>Green Frog
+			<br>
+			<i>Lithobates clamitans</i>
+		</td>
+	</tr>
+	<tr>
+		<td><img src="\images\bug_photos\leopard_frog_1.png" width="300px"></td>
+		<td>Northern Leopard Frog
+			<br>
+			<i>Lithobates pipiens</i>
+		</td>
+	</tr>
+	<tr>
+		<td><img src="\images\bug_photos\toad_1.png" width="300px"></td>
+		<td>American Toad
+			<br>
+			<i>Anaxyrus americanus</i>
 		</td>
 	</tr>
 </table>
