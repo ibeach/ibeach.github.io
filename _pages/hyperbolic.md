@@ -57,7 +57,7 @@ Regular tilings on any surface can be characterized by their Schlafli symbol (p,
 Only some symbols admit tilings for a given surface, however.
 The below are regular tilings of the Poincare Disk model of hyperbolic space.
 
-{% include tiling_table.md %}
+{% include tiling_table_tiny.md %}
 
 {% include truncated_table.md %}
 
