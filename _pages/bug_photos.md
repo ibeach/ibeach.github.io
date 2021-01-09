@@ -1,9 +1,9 @@
 ---
-title: Bug Photography
+title: Photography
 permalink: /bug_photos/
 ---
 
-Here are some photos that I took of bugs.
+<h3> Insects and Spiders</h3>
 
 <table>
 	<tr>
@@ -93,9 +93,9 @@ Here are some photos that I took of bugs.
 	</tr>
 	<tr>
 		<td><img src="\images\bug_photos\ash_1.png" width="300px"></td>
-		<td>Ashy Gray Lady Beetle
+		<td><s>Ashy Gray Lady Beetle </s> <br>Fifteen-spotted Lady Beetle
 			<br>
-			<i>Olla v-nigrum</i>
+			<i><s>Olla v-nigrum</s> <br>Anatis labiculata</i>
 		</td>
 	</tr>
 	<tr>
@@ -173,7 +173,7 @@ Here are some photos that I took of bugs.
 	</tr>
 	<tr>
 		<td><img src="\images\bug_photos\mystery_bee_2.png" width="300px"></td>
-		<td>Mystery bee
+		<td> ?
 		</td>
 	</tr>
 	<tr>
@@ -209,7 +209,7 @@ Here are some photos that I took of bugs.
 	</tr>
 </table>
 
-<h3> Bonus: Hey those aren't bugs those are frogs </h3>
+<h3> Frogs </h3>
 
 <table>
 	<tr>
