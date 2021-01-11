@@ -222,3 +222,5 @@ Here are some highlights when we use the alphabet {'F','X','Y','-','+'}, instruc
 		<td><img src="\images\turtle\X_YF-_Y_Y-X_1.5708_20.png"></td>	
 	</tr>
 	</table>
+
+<a href="/turtle2"> More L-System Curves </a>
