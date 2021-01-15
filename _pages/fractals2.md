@@ -44,3 +44,16 @@ Here are some animations of the effect of purturbing $z^3-1$, where $k$ ranges f
 		<td><img src="\images\fractals\newton_order_three_cubic_term_video.gif"></td>
 	</tr>
 </table>
+
+You can also do non-polynomial functions, and control the darkness of a pixel by the speed of convergence of the associated point (in this case, taken mod 2 to produce dark bands).
+
+<table>
+	<tr>
+		<th>$\cosh(z)-1$</th>
+		<th>$\sin(z)$</th>
+	</tr>
+	<tr>
+		<td><img src="\images\fractals\newton_cubic_method_speed_cosh-1.png"></td>
+		<td><img src="\images\fractals\newton_cubic_method_speed_sine.png"></td>
+	</tr>
+</table>
