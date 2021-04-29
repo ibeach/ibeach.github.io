@@ -2,8 +2,8 @@
 title: L-Systems and Turtle Graphics
 permalink: /turtle2/
 ---
-<h3>On This Page:</h3> 
-More L-System Curves 
+
+Here are more L-system curves  (see the <a href = "\turtle">previous page</a> for more information).
 
 <h3>Plants</h3>
 

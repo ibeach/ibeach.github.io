@@ -3,9 +3,6 @@ title: Hyperbolic Geometry
 permalink: /hyperbolic/
 ---
 
-<h3>On This Page:</h3> 
-Hyperbolic Tilings
-
 <h3>Explanation:</h3> 
 Just as the Euclidean plane can be tiled by (certain kinds of) regular polygons, so too can the hyperbolic plane. 
 Moreover, the action of Fuchsian groups on hyperbolic space can induce tilings of the hyperbolic plane by their fundamental domain. 
