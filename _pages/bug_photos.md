@@ -3,9 +3,20 @@ title: Photography
 permalink: /bug_photos/
 ---
 
-<h3> Insects and Spiders</h3>
+<h3> Insects</h3>
 
 <table>
+	<tr>
+		<td colspan='2'>
+		Dragonflies
+		</td>
+	</tr>
+	<tr>
+		<td><img src="\images\bug_photos\dragonfly.png" width="300px"></td>
+		<td>
+		(?)
+		</td>
+	</tr>
 	<tr>
 		<td colspan='2'>
 		Butterflies and Moths
@@ -92,6 +103,13 @@ permalink: /bug_photos/
 		</td>
 	</tr>
 	<tr>
+		<td><img src="\images\bug_photos\stag_plac.png" width="300px"></td>
+		<td>"Placid" Stag Beetle
+		<br>
+		<i>Lucanus placidus</i>
+		</td>
+	</tr>
+	<tr>
 		<td><img src="\images\bug_photos\ash_1.png" width="300px"></td>
 		<td><s>Ashy Gray Lady Beetle </s> <br>Fifteen-spotted Lady Beetle
 			<br>
@@ -172,11 +190,6 @@ permalink: /bug_photos/
 		</td>
 	</tr>
 	<tr>
-		<td><img src="\images\bug_photos\mystery_bee_2.png" width="300px"></td>
-		<td> ?
-		</td>
-	</tr>
-	<tr>
 		<td><img src="\images\bug_photos\mystery_bee_3.png" width="300px"></td>
 		<td>Sweat Bee (?)
 			<br>
@@ -188,6 +201,16 @@ permalink: /bug_photos/
 		<td>Bumblebee
 		</td>
 	</tr>
+	<tr>
+		<td><img src="\images\bug_photos\mystery_bee_2.png" width="300px"></td>
+		<td> ?
+		</td>
+	</tr>
+</table>
+
+<h3> Spiders</h3>
+
+<table>
 	<tr>
 		<td colspan='2'>
 		Spiders
@@ -209,7 +232,7 @@ permalink: /bug_photos/
 	</tr>
 </table>
 
-<h3> Frogs </h3>
+<h3> Amphibians </h3>
 
 <table>
 	<tr>
@@ -243,6 +266,39 @@ permalink: /bug_photos/
 		<td>American Toad
 			<br>
 			<i>Anaxyrus americanus</i>
+		</td>
+	</tr>
+</table>
+
+<h3> Crustaceans </h3>
+
+<table>
+	<tr>
+		<td colspan='2'>
+		Crayfish
+		</td>
+	</tr>
+	<tr>
+		<td><img src="\images\bug_photos\crayfish.png" width="300px"></td>
+		<td>
+		(?)
+		</td>
+	</tr>
+</table>
+
+<h3> Birds </h3>
+
+<table>
+	<tr>
+		<td colspan='2'>
+		Birds
+		</td>
+	</tr>
+	<tr>
+		<td><img src="\images\bug_photos\heron.png" width="300px"></td>
+		<td>Great Blue Heron
+			<br>
+			<i>Ardea herodias</i>
 		</td>
 	</tr>
 </table>
