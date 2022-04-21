@@ -281,7 +281,9 @@ permalink: /bug_photos/
 	<tr>
 		<td><img src="\images\bug_photos\crayfish.png" width="300px"></td>
 		<td>
-		(?)
+		Virile Crayfish(?)
+			<br>
+			<i>Faxonius virilis</i>
 		</td>
 	</tr>
 </table>
