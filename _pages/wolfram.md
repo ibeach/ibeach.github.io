@@ -31,10 +31,10 @@ For a full list of images of all 2^8 rules, see this website's GitHub respositor
 	</tr>
 	<tr>
 		<th>10010110</th>
-		<th>10010111</th>
+		<th>10100101</th>
 	</tr>
 	<tr>
 		<td><img src="\images\wolfram\for_display\10010110.png"></td>
-		<td><img src="\images\wolfram\for_display\10010111.png"></td>
+		<td><img src="\images\wolfram\for_display\10100101.png"></td>
 	</tr>
 </table>
