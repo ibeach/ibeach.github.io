@@ -7,7 +7,7 @@ It's not easy to graph complex functions (since such a graph would have 4 real d
 Each point is coloured with a hue corresponding to the argument of the image of that point. 
 For example, the image of the identity function would look like the usual colour wheel.
 In the case of conformal maps, it is also interesting to look at the image of a rectangular grid. 
-The black lines are the image of a standard square grid. You can find the code for these images <a href = "https://github.com/ibeach/ibeach.github.io/tree/master/code">here</a>.
+The black lines are the image of a standard square grid. You can find the code for these images <a href = "https://github.com/ibeach/ibeach.github.io/tree/master/code/complex">here</a>.
 
 <h3> The Identity Map </h3>
 
