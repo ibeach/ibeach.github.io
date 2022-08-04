@@ -8,7 +8,7 @@ docs:
         url: /talks/
   - title: Projects
     children:
-      - title: "Complex Analysis"
+      - title: "Domain Colouring"
         url: /complex/
       - title: "Hyperbolic Geometry"
         url: /hyperbolic/
@@ -28,7 +28,7 @@ docs:
         url: /pursuit/
   - title: Other Fun Stuff
     children:
-      - title: "Photography"
+      - title: "Wildlife Diary"
         url: /bug_photos/
   - title: GitHub
     children:
