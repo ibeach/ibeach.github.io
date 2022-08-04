@@ -3,7 +3,6 @@ title: Pursuit Curves
 permalink: /pursuit/
 ---
 
-<h3>Explanation: </h3> 
 These are images of "pursuit curves". Each curve is the trajectory of some "pursuer", which chases one of the other pursuers. The simplest example is the "mice problem"-- $n$ pursuers (or mice) are initially placed at the vertices of a regular polygon, and they proceed to chase the neighbour to their left.
 
 <h3>Learn More:</h3>

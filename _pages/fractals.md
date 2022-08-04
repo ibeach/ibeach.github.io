@@ -3,7 +3,6 @@ title: Fractals
 permalink: /fractals/
 ---
 
-<h3>Explanation:</h3> 
 This page exhibits some Julia and Mandelbrot set fractals. 
 On the most mechanical level, these images are produced by iterating functions $z \to f(z,c)$ at each point, 
 where the initial $z$ value is the given point and $c$ is some global constant. For instance, at every $z$ value we could iterate $z \to z^2+1$, 

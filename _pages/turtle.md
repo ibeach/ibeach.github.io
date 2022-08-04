@@ -3,7 +3,6 @@ title: L-Systems and Turtle Graphics
 permalink: /turtle/
 ---
 
-<h3>Explanation:</h3> 
 A string can be converted into a curve using "turtle graphics". 
 You can imagine that an ink pen is being dragged along a sheet of paper by a turtle, who will walk forward or change direction depending on the instructions it reads on the string.
 The turtle proceeds by reading the string character by character from left to right.
