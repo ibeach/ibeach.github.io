@@ -22,8 +22,6 @@ docs:
         url: /matrix/
       - title: "Lindenmayer Systems"
         url: /turtle/
-      - title: "Lindenmayer Systems II"
-        url: /turtle2/
       - title: "Pursuit Curves"
         url: /pursuit/
   - title: Other Fun Stuff
