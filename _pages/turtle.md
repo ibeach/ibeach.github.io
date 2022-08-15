@@ -36,10 +36,10 @@ Rules:
 </tr>
 </table>
 
-A lot of interesting behaviour occurs even when using only the simpler alphabet {'F','-','+'} (with the same instructions). 
-If we consider the starting string 'F', there are 3^n possibilities if we use a rule that replaces 'F' with a word of length n.
+A lot of interesting behaviour occurs even when using only the simpler alphabet {'F', '-', '+'} (with the same instructions). 
+If we consider the starting string 'F', there are $3^n$ possibilities if we use a rule that replaces 'F' with a word of length $n$.
 Of course, not all rules are created equal-- for instance, 'F'$\to$'F' or 'F'$\to$'FF' produce straight lines.
-Below are some of the more interesting examples for n =1,2,3,4,5.
+Below are some of the more interesting examples for $n =1,2,3,4,5$.
 
 <h3>Simple Shapes</h3>
 
@@ -117,7 +117,7 @@ Below are some of the more interesting examples for n =1,2,3,4,5.
 	</tr>
 	</table>
 
-Here are some highlights when we use the alphabet {'F','X','Y','-','+'}, instructions as in the dragon curve example, and a rulebook of the form 'X'$\to$'WORD1', 'Y'$\to$'WORD2'. 
+Here are some highlights when we use the alphabet {'F', 'X', 'Y', '-', '+'}, instructions as in the dragon curve example, and a rulebook of the form 'X'$\to$'WORD1', 'Y'$\to$'WORD2'. 
 	
 <h3>Fractal-Like Curves</h3>
 
