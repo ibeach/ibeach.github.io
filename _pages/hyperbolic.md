@@ -6,13 +6,7 @@ permalink: /hyperbolic/
 Just as the Euclidean plane can be tiled by (certain kinds of) regular polygons, so too can the hyperbolic plane. 
 Moreover, the action of Fuchsian groups on hyperbolic space can induce tilings of the hyperbolic plane by their fundamental domain. 
 See also "The Beauty of the Hyperbolic Plane" on my Talks page.
-
-<h3>Learn More:</h3>
-<ul>
-<li><a href ="http://homepages.warwick.ac.uk/~masbb/">Caroline Series' MAT448 Notes</a></li>
-<li><i>Indra's Pearls</i> by Caroline Series and David Mumford</li>
-</ul>
-
+<p>
 The orientation-preserving isometries of the hyperbolic plane are the Mobius maps with real coefficients and determinant 1. 
 There are 3 types, and they are characterized by their trace.
 
