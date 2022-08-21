@@ -10,18 +10,20 @@ docs:
     children:
       - title: "Domain Colouring"
         url: /complex/
-      - title: "Hyperbolic Geometry"
-        url: /hyperbolic/
       - title: "Fractals"
         url: /fractals/
-      - title: "Wolfram Automata"
-        url: /wolfram/
-      - title: "Matrix Substitutions"
-        url: /matrix/
+      - title: "Geodesics"
+        url: /geodesics/
+      - title: "Hyperbolic Geometry"
+        url: /hyperbolic/
       - title: "Lindenmayer Systems"
         url: /turtle/
+      - title: "Matrix Substitutions"
+        url: /matrix/
       - title: "Pursuit Curves"
         url: /pursuit/
+      - title: "Wolfram Automata"
+        url: /wolfram/
   - title: Other Fun Stuff
     children:
       - title: "Wildlife Diary"
