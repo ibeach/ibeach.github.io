@@ -4,7 +4,7 @@ permalink: /matrix/
 ---
 
 We can create images from matrices with integer values by assigning the colour of the pixel at position $(i,j)$ according to the value of the the corresponding matrix entry.
-By implementing a rewriting rule similar in spirit to an <a href ="\turtle">L-system</a>, we can make these images quite complicted. To produce the images on this page, we start with an initial matrix (say, the matrix $[1]$) and apply an iterated rewriting rule that replaces every entry with value $i$ with a certain square matrix $A_i$.
+By implementing a rewriting rule similar in spirit to an <a href ="\turtle">L-system</a>, we can make these images quite complicated. To produce the images on this page, we start with an initial matrix (say, the matrix $[1]$) and apply an iterated rewriting rule that replaces every entry with value $i$ with a certain square matrix $A_i$.
 
 <table>
 <tr>

@@ -9,8 +9,7 @@ Each cell is either "off" (black) or "on" (white). For the automata below, the s
 Despite the seeming simplicity of these rules, they produce a wide variety of interesting patterns.
 These are the so-called "Wolfram Elementary Automata". There are 2^8 of them, and each corresponding rule can be described by a string of 8 zeros and ones. 
 <p>
-Here are a few examples, where each rule is shown starting with all cells "on".
-For a full list of images of all 2^8 rules, see this website's GitHub respository.  You can find the code for these images <a href = "https://github.com/ibeach/ibeach.github.io/tree/master/code/wolfram">here</a>.
+Here are a few examples, where each rule is shown starting with all cells "on". You can find the code for these images <a href = "https://github.com/ibeach/ibeach.github.io/tree/master/code/wolfram">here</a>.
 
 <table margins="2px">
 	<tr>

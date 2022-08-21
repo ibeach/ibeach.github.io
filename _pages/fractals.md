@@ -8,7 +8,7 @@ On a mechanical level, the Julia sets are produced by iterating a function $z \m
 where the initial $z$ value is the given point and $c$ is some global constant. For instance, at each point $z_0$ we could iterate $z \to z^2+1$, 
 obtaining the sequence $(z_0^2+1,(z_0^2+1)^2+1,\ldots)$.
 Conversely, the Mandelbrot set images are produced by iterating a function $z \mapsto f(z,c)$ at each point, 
-where now the initial $z_0$ is always zero and the value of $c$ changes at each point. The analagous example is $z \mapsto z^2+z_0$, forming the sequence $(0,z_0,(z_0)^2+z_0,\ldots)$ for each $z_0$.
+where now the initial $z_0$ is always zero and the value of $c$ changes at each point. The analogous example is $z \mapsto z^2+z_0$, forming the sequence $(0,z_0,(z_0)^2+z_0,\ldots)$ for each $z_0$.
 For both images, each point is coloured according to how fast the iterations escape to infinity. The code for these images can be found <a href='https://github.com/ibeach/ibeach.github.io/tree/master/code/fractals'>here</a>.
 
 <h3>Quadratic Julia Sets</h3>
@@ -83,7 +83,7 @@ Unsurprisingly, the Mandelbrot and Julia sets are closely related. Watch the cor
 
 <h3>Cosh and Sinh Julia Sets</h3>
 
-Other functions, like cosh and sinh, also make beautiful Julia sets.
+Other functions, like $\cosh(z)$ and $\sinh(z)$ , also make beautiful Julia sets.
 
 <table>
 	<tr>
@@ -145,7 +145,7 @@ In the following images, each point is coloured with hue corresponding to the ze
 	</tr>
 </table>
 
-Here are some animations of the effect of purturbing $z \mapsto z^3-1$, where $k$ varies in time from -1 to 1.
+Here are some animations of the effect of perturbing $z \mapsto z^3-1$, where $k$ varies in time from -1 to 1.
 <table>
 	<tr>
 		<th>$z \mapsto z^3+k$</th>
