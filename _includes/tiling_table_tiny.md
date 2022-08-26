@@ -1,4 +1,3 @@
-<h3> Regular Tilings</h3>
 <table>
 <tr>
 	<th>p\q</th>
