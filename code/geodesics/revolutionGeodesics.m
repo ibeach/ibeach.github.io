@@ -28,16 +28,18 @@
 % uSurfRes: real scalar determining the number of u-coordinates
 % vSurfRes: real scalar determining the number of v-coordinates
 % geoRes: real scalar determining the number of points per geodesic
+% stepSize: real scalar determining distance between v values.
+% maxStepNum: maximum number of points to sample on geodesic (forces code
+%             to terminate in the case of a geodesic that does not leave 
+%             the graphed region of the surface)
+% cTol: real scalar determining minimum difference between f(v) and c
+%       before assuming equality. Lower values may produce a more accurate
+%       geodesic, but may prevent the integral in getGeodesic from
+%       converging.
 % vMin: real scalar determining the minimum v-coordinate value we want to
 %       plot for our surface.
 % vMax: real scalar determining the maximum v-coordinate value we want to
 %       plot for our surface.
-% geodesicVMin: real scalar determining the minimum possible v-coordinate 
-%               value of a geodesic
-% geodesicVMax: real scalar determining the maximum possible v-coordinate 
-%               value of a geodesic
-% geodesicVInit: initial v-coordinate value of our geodesic
-% theta: angle (in radians) for the initial velocity
 % cVal: real, positive value for the constant in clairaut's relation. By
 %       default, this is set to give you a geodesic that passes through 
 %       (0, geodesicVMin) in (u, v)-coordineates with velocity given by 
@@ -47,13 +49,12 @@
 
 uSurfRes = 200;
 vSurfRes = 200;
-geoRes = 800;
-vMin = 0;
-vMax = 1;
-geodesicVMin = 0.2;
-geodesicVMax = 1;
-theta = 0;
-cVal = f(geodesicVMin)*cos(theta);
+stepSize = 1e-2;
+maxStepNum = 10000;
+cTol = 1e-5;
+vMin = -2;
+vMax = 2;
+cVal = f(vMin).*cos(pi/4);
 
 % Code --------------------------------------------------------------------
 
@@ -72,9 +73,9 @@ colormap winter
 shading interp
 
 % find 3d points of geodesic and plot the curve
-validV = geodesicVMin:(1e-3):geodesicVMax;
-[xGeo, yGeo, zGeo] = getGeodesic(validV, cVal);
-plot3(xGeo, yGeo, zGeo, '-', 'Linewidth', 2, 'Color', [0,0,0]);
+v = getValidVPoints(vMin, vMax, cVal, stepSize, maxStepNum, cTol);
+[x, y, z] = getGeodesic(v, cVal);
+plot3(x, y, z, '-', 'Linewidth', 2, 'Color', [0,0,0]);
 
 % alter viewing angle for aesthetics
 view(80,20);
@@ -85,7 +86,7 @@ function val = f(v)
     % v: real matrix.
     % val: real matrix the same size as v.
     
-    val = v;
+    val = cosh(v);
 end
 
 function val = fPrime(v)
@@ -93,7 +94,7 @@ function val = fPrime(v)
     % v: real matrix.
     % val: real matrix the same size as v.
     
-    val = 1;
+    val = sinh(v);
 end
 
 function val = g(v)
@@ -101,8 +102,8 @@ function val = g(v)
     % of revolution, on the input v.
     % v: real matrix.
     % val: real matrix the same size as v.
-    
-    val = v.^2;
+
+    val = sinh(v);
 end
 
 function val = gPrime(v)
@@ -110,7 +111,7 @@ function val = gPrime(v)
     % v: real matrix.
     % val: real matrix the same size as v.
     
-    val = 2.*v;
+    val = cosh(v);
 end
 
 function [x, y, z] = getSurfaceXYZ(u, v)
@@ -127,6 +128,41 @@ function [x, y, z] = getSurfaceXYZ(u, v)
     y = f(v).*sin(u);
     z = g(v);
 end 
+
+function v = getValidVPoints(vMin, vMax, c, stepSize, maxStepNum, cTol)
+    % Return a real vector of the v-coordinates of the geodesic determined
+    % by c. The algorithm here is quick and dirty: we check all points in
+    % vMin:stepSize:vMax for a zero-crossing of f(v)^2-c^2, and change the
+    % direction of the geodesic at each zero. This algorithm cannot
+    % detect when two zero crossings occur at distance less than stepSize.
+    % vMin: minimum potential v-coordinate to geodesic (e.g., the minimum
+    %       v value for the surface plot)
+    % vMax: maximum potential v-coordinate to geodesic (e.g., the maximum
+    %       v value for the surface plot)
+    % c: Clairaut's constant for the desired geodesic (positive real scalar)
+    % stepSize: real scalar determining distance between v values.
+    % maxStepNum: maximum number of points to sample on geodesic (forces code
+    %             to terminate in the case of a geodesic that does not leave 
+    %             the graphed region of the surface)
+    % cTol: real scalar determining minimum difference between f(v) and c
+    %       before assuming equality. Lower values may produce a more accurate
+    %       geodesic, but may prevent the integral in getGeodesic from
+    %       converging.
+    % v: real vector of length at most maxStepNum.
+
+    v = vMin;
+    vIncrement = stepSize;
+    while v(end) <= vMax && v(end) >= vMin && numel(v) < maxStepNum
+        if f(v(end))^2 - c^2 < cTol
+            if f(v(end))^2 < c^2 
+                zeroIntegrandDenom = fzero(@(x) f(x).^2 - c^2, v(end-1:end));
+                v(end) = zeroIntegrandDenom;
+            end
+            vIncrement = -vIncrement;
+        end
+        v(end + 1) = v(end) + vIncrement;
+    end
+end
 
 function val = geodesicIntegrand(v, c)
     % Evaluates the integrand in the geodesic formula on the surface of
@@ -149,12 +185,11 @@ function [x, y, z] = getGeodesic(v, c)
     % x: real vector the same size as v.
     % y: real vector the same size as v.
     
-    u = zeros(size(v));
-    if c > 1e-15
-        for iV = 2:numel(v)
-            val = integral(@(x) geodesicIntegrand(x, c), v(iV-1), v(iV), 'RelTol', 1e-4);
-            u(iV) = c.*val(1) + u(iV-1);
-        end
+    u = zeros(1, numel(v));
+    for iV = 2:numel(v)
+        endpoints = sort(v(iV-1:iV));
+        val = integral(@(x) geodesicIntegrand(x, c), endpoints(1), endpoints(2));
+        u(iV) = c.*val+ u(iV-1);
     end
     [x, y, z] = getSurfaceXYZ(u, v);
 end
