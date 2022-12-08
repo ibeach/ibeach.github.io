@@ -2,11 +2,18 @@
 title: Talks
 permalink: /talks/
 ---
+
+<h3>Topology/Geometry Zoom Seminar 2022</h3>
+
+<b>Title:</b> The Length of the Shortest Closed Geodesic on a Surface of Finite Area.
+<br>
+<b>Abstract:</b> See below. 
+
 <h3>Midwest Geometry Conference 2022</h3>
 
 <b>Title:</b> The Length of the Shortest Closed Geodesic on a Surface of Finite Area.
 <br>
-<b>Abstract:</b> Every complete surface of finite area admits at least one closed (periodic) geodesic. It is natural to ask how long these curves can be relative to the surface's total area, and it is easiest to consider the length of a (possibly non-unique) shortest geodesic. One approach is to utilize the Birkhoff curve shortening process. However, the non-compact case presents a challenge, as a given curve may escape to infinity under the curve shortening process instead of converging to a geodesic. In this talk, we present joint work with Regina Rotman on this problem that builds upon the results of Christopher Croke.
+<b>Abstract:</b> See below.
 
 <h3>AMS Spring Eastern Sectional Meeting 2021</h3>
 
