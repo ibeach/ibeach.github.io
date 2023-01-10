@@ -4,8 +4,6 @@ docs:
     children:
       - title: "Home"
         url: /
-      - title: "Talks"
-        url: /talks/
   - title: Projects
     children:
       - title: "Domain Colouring"
