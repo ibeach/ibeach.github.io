@@ -24,6 +24,8 @@ docs:
         url: /wolfram/
   - title: Other Fun Stuff
     children:
+      - title: "Art"
+        url: /art/
       - title: "Wildlife Diary"
         url: /bug_photos/
   - title: GitHub
