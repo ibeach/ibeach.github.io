@@ -1,9 +1,5 @@
 main:  
 docs:
-  - title: Info
-    children:
-      - title: "Home"
-        url: /
   - title: Projects
     children:
       - title: "Domain Colouring"
@@ -28,8 +24,5 @@ docs:
         url: /art/
       - title: "Wildlife Diary"
         url: /bug_photos/
-  - title: GitHub
-    children:
-      - title: "ibeach"
-        icon: "fab fa-fw fa-github"
+      - title: "GitHub"
         url: "https://github.com/ibeach"
