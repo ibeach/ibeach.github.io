@@ -30,7 +30,7 @@ A closer look at a few choice values:
 
 <table>
 <tr> 
-	<th colspan="7">$z \mapsto z^2 + (x+iy)$</th>
+	<th colspan="4">$z \mapsto z^2 + (x+iy)$</th>
 </tr>
 <tr> 
 	<td></td>

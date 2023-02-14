@@ -4,14 +4,14 @@ permalink: /art/
 layout: default
 ---
 
-<h3>Large Black and White Series</h3>
+<h3>Black and White Series</h3>
 
 <table>
 	<tr>
 		<td><i>Annihilation</i>, 2018<br>[Inspired by Jeff VanderMeer's novel <i>Annihilation</i>, 2014]</td>
 	</tr>
 	<tr>
-		<td><img src="\images\art\annihilation.png" width="500px"></td>
+		<td><img src="\images\art\annihilation.png"></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -20,7 +20,7 @@ layout: default
 		<td><i>The Revelation of Joan of Arc</i>, 2019</td>
 	</tr>
 	<tr>
-		<td><img src="\images\art\revelation.png" width="500px"></td>
+		<td><img src="\images\art\revelation.png"></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -29,7 +29,7 @@ layout: default
 		<td><i>Bear</i>, 2020</td>
 	</tr>
 	<tr>
-		<td><img src="\images\art\were_bear.png" width="500px"></td>
+		<td><img src="\images\art\were_bear.png"></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -38,7 +38,7 @@ layout: default
 		<td><i>The Kiss</i>, 2022<br>[Inspired by Gustav Klimt's painting <i>The Kiss</i>, 1908]</td>
 	</tr>
 	<tr>
-		<td><img src="\images\art\kiss.png" width="500px"></td>
+		<td><img src="\images\art\kiss.png"></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -47,7 +47,7 @@ layout: default
 		<td><i>Leopard Seal Study</i>, 2022</td>
 	</tr>
 	<tr>
-		<td><img src="\images\art\seals.png" width="500px"></td>
+		<td><img src="\images\art\seals.png"></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -56,7 +56,7 @@ layout: default
 		<td><i>This is a Story</i>, 2023</td>
 	</tr>
 	<tr>
-		<td><img src="\images\art\story.png" width="500px"></td>
+		<td><img src="\images\art\story.png"></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -65,7 +65,7 @@ layout: default
 		<td><i>Looking Back</i>, 2023</td>
 	</tr>
 	<tr>
-		<td><img src="\images\art\looking.png" width="500px"></td>
+		<td><img src="\images\art\looking.png"></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -79,7 +79,7 @@ layout: default
 		<td><i>Ornithocheirus</i>, 2020</td>
 	</tr>
 	<tr>
-		<td><img src="\images\art\ornithocheirus.png" width="500px"></td>
+		<td><img src="\images\art\ornithocheirus.png"></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -88,7 +88,7 @@ layout: default
 		<td><i>Carnotaurus</i>, 2022</td>
 	</tr>
 	<tr>
-		<td><img src="\images\art\carnotaurus.png" width="500px"></td>
+		<td><img src="\images\art\carnotaurus.png"></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -97,7 +97,7 @@ layout: default
 		<td><i>Dimetrodon</i>, 2022</td>
 	</tr>
 	<tr>
-		<td><img src="\images\art\dimetrodon.png" width="500px"></td>
+		<td><img src="\images\art\dimetrodon.png"></td>
 	</tr>
 	<tr>
 		<td></td>

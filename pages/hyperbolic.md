@@ -53,7 +53,7 @@ The placement of the tiles is determined by the action of the group: each tile c
 	<th>The Action of a Punctured Torus Group </th>
 </tr>
 <tr>
-	<td><img src="\images\hyperbolic\sl2z_cool.png" style="width:500px;"></td>
-	<td><img src="\images\hyperbolic\torus.png" style="width:500px;"></td>
+	<td><img src="\images\hyperbolic\sl2z_cool.png"></td>
+	<td><img src="\images\hyperbolic\torus.png"></td>
 </tr>
 </table>
