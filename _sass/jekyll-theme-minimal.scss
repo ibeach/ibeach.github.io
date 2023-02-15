@@ -2,9 +2,9 @@
 @import "rouge-github";
 
 $text-color: white;
-$link-color: gray;
+$link-color: darkgray;
 $link-color-hover: white;
-$link-color-header: gray;
+$link-color-header: darkgray;
 
 body {
   background-color: black;
@@ -109,6 +109,10 @@ header {
 header a {
   color: $link-color-header;
   text-decoration: none;
+}
+
+header h1 a {
+  color: $text-color;
 }
 
 strong {
