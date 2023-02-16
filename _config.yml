@@ -1,11 +1,10 @@
 title: "Isabel Beach"
-#logo: /assets/img/logo.png
+logo: /assets/img/logo.png
 description: ""
 theme: jekyll-theme-minimal
 url: "https://ibeach.github.io"
 
 show_downloads: false
-logo: false
 
 include:
 - pages
