@@ -3,6 +3,7 @@ title: Wolfram Automata
 permalink: /wolfram/
 layout: default
 ---
+<h2>Wolfram Automata</h2>
 
 Essentially, a cellular automaton takes in a space of cells and outputs a new space of cells according to a fixed set of rules. 
 For our purposes, you can imagine that the x-axis is the space of cells and the y-axis is time. 

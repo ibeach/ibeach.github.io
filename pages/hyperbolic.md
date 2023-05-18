@@ -3,6 +3,7 @@ title: Hyperbolic Geometry
 permalink: /hyperbolic/
 layout: default
 ---
+<h2>Hyperbolic Geometry</h2>
 
 The orientation-preserving isometries of the hyperbolic plane are the Mobius maps with real coefficients and determinant 1. 
 There are 3 types, and they are characterized by their trace.

@@ -3,6 +3,7 @@ title: Fractals
 permalink: /fractals/
 layout: default
 ---
+<h2>Fractals</h2>
 
 This page exhibits some Julia and Mandelbrot set fractals. 
 On a mechanical level, the Julia sets are produced by iterating a function $z \mapsto f(z,c)$ at each point, 

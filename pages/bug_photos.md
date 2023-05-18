@@ -3,6 +3,7 @@ title: Photography
 permalink: /bug_photos/
 layout: default
 ---
+<h2>Wildlife Diary</h2>
 
 <h3> Insects</h3>
 

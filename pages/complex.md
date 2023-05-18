@@ -3,6 +3,7 @@ title: Domain Colouring
 permalink: /complex/
 layout: default
 ---
+<h2>Domain Colouring</h2>
 
 It's not easy to graph complex functions (since such a graph would have 4 real dimensions), but the image of a complex function can still be visualized.
 Each point is coloured with a hue corresponding to the argument of the image of that point. 

@@ -3,6 +3,7 @@ title: Pursuit Curves
 permalink: /pursuit/
 layout: default
 ---
+<h2>Pursuit Curves</h2>
 
 Some interesting diagrams can be made by considering "pursuit curves". Imagine that there are some number of points representing pursuers that chase each other. At each time step, the pursuers will move towards the current position of their prey. One way to represent this data is to draw a curve representing the trajectory of each pursuer (style 1). Alternatively, at each time step we can draw a line between each pursuer and its prey (style 2). The code for these images can be found <a href='https://github.com/ibeach/ibeach.github.io/tree/master/code/pursuit'>here</a>.
 
