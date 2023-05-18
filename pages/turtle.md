@@ -3,6 +3,7 @@ title: L-Systems and Turtle Graphics
 permalink: /turtle/
 layout: default
 ---
+<h2>Lindenmayer Systems</h2>
 
 A string can be converted into a curve using "turtle graphics". 
 You can imagine that an ink pen is being dragged along a sheet of paper by a turtle, who will walk forward or change direction depending on the instructions it reads on the string.
