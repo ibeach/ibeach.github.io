@@ -1,6 +1,4 @@
 @import "fonts";
-@import "rouge-github";
-
 $text-color: white;
 $link-color: darkgray;
 $link-color-hover: white;
@@ -44,9 +42,10 @@ a:hover, a:focus {
 }
 
 blockquote {
+  text-align: left;
   border-left:1px solid $text-color;
-  margin:0;
-  padding:0 0 0 20px;
+  margin:0 0 5px 5px;
+  padding: 0 0 0 20px;
   font-style:italic;
 }
 
