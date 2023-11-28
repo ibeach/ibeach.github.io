@@ -30,7 +30,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1><a href="{{ "/" | absolute_url }}" style="text-decoration:none;">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         {% if site.logo %}
           <a href="{{ "/" | absolute_url }}"><img src="{{site.logo | relative_url}}" alt="Logo" /></a>
@@ -44,9 +44,8 @@
         <li><a href="/hyperbolic">Hyperbolic Geometry</a></li>
         <li><a href="/turtle">Lindenmayer Systems</a></li>
         <li><a href="/matrix">Matrix Substitution</a></li>
-        <li><a href="/pursuit">Pursuit Curves</a></li>
-        <li><a href="/spiro">Spirographs</a></li>
         <li><a href="/wolfram">Wolfram Automata</a></li>
+        <li><a href="/misc">Miscellaneous</a></li>
         </ul>
         
        <h3>Other Fun Stuff</h3>
@@ -63,7 +62,8 @@
 
       </section>
       <footer>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p><small>Hosted on GitHub Pages<br>
+        Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>

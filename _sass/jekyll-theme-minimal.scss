@@ -7,7 +7,7 @@ $link-color-header: darkgray;
 body {
   background-color: black;
   padding: 50px;
-  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 16px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: $text-color;
   font-weight:400;
 }
@@ -107,7 +107,6 @@ header {
 
 header a {
   color: $link-color-header;
-  text-decoration: none;
 }
 
 header h1 a {
@@ -126,7 +125,7 @@ section {
 }
 
 small {
-  font-size:11px;
+  font-size:12px;
 }
 
 hr {
