@@ -1,5 +1,9 @@
 <!DOCTYPE html>
 
+
+<html lang="{{ site.lang | default: "en-US" }}">
+<head>
+
 <script type="text/javascript" id="MathJax-script" async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
@@ -10,33 +14,28 @@
     }
   };
 </script>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 
+	{% seo %}
+	<link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+	<!--[if lt IE 9]>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+	<![endif]-->
 
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-{% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
-    
-    <link rel="shortcut icon" type="image/x-icon" href="{{ "/assets/img/favicon.ico"  | absolute_url }}">
-    {% include head-custom.html %}    
-  </head>
-  <body>
+	<link rel="shortcut icon" type="image/x-icon" href="{{ "/assets/img/favicon.ico"  | absolute_url }}">
+	{% include head-custom.html %}
+</head>
+<body>
     <div class="wrapper">
-      <header>
-        <h1><a href="{{ "/" | absolute_url }}" style="text-decoration:none;">{{ site.title | default: site.github.repository_name }}</a></h1>
-
-        {% if site.logo %}
-          <a href="{{ "/" | absolute_url }}"><img src="{{site.logo | relative_url}}" alt="Logo" /></a>
-        {% endif %}
+	<header>
+        <h1>
+        	<a href="{{ "/" | absolute_url }}" style="text-decoration:none;">{{ site.title | default: site.github.repository_name }}</a>
+        </h1>
+	<a href="{{ "/" | absolute_url }}"><img src="{{site.logo | relative_url}}" alt="Logo" /></a>
         
-       <h3>Projects</h3>
+	<h3>Projects</h3>
         <ul>
         <li><a href="/complex">Domain Colouring</a></li>
         <li><a href="/fractals">Fractals</a></li>
@@ -45,9 +44,8 @@
         <li><a href="/turtle">Lindenmayer Systems</a></li>
         <li><a href="/matrix">Matrix Substitution</a></li>
         <li><a href="/wolfram">Wolfram Automata</a></li>
-        </ul>
-        
-       <h3>Other Fun Stuff</h3>
+        </ul>        
+	<h3>Other Fun Stuff</h3>
         <ul>
         <li><a href="/art">Art</a></li>
         <li><a href="/bug_photos">Wildlife Diary</a></li>
@@ -55,16 +53,17 @@
         </ul>
         
       </header>
+      
       <section>
-
-      {{ content }}
-
+      	{{ content }}
       </section>
+      
       <footer>
         <p><small>Hosted on GitHub Pages<br>
         Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
+      
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-  </body>
+</body>
 </html>
