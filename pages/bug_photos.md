@@ -5,304 +5,320 @@ layout: default
 ---
 <h2>Wildlife Diary</h2>
 
-<h3> Insects</h3>
+<h3> Dragonflies</h3>
 
-<table>
-	<tr>
-		<td colspan='2'>
-		Dragonflies
-		</td>
-	</tr>
-	<tr>
-		<td><img src="\images\bug_photos\dragonfly.png"></td>
-		<td>
-		(?)
-		</td>
-	</tr>
-	<tr>
-		<td colspan='2'>
-		Butterflies and Moths
-		</td>
-	</tr>
-	<tr>
-		<td><img src="\images\bug_photos\admiral_1.png"></td>
-		<td>Red Admiral Butterfly
-			<br>
-			<i>Vanessa atalanta</i>
-		</td>
-	</tr>
-	<tr>
-		<td><img src="\images\bug_photos\admiral_2.png"></td>
-		<td>Red Admiral Butterfly
-			<br>
-			<i>Vanessa atalanta</i>
-		</td>
-	</tr>
-	<tr>
-		<td><img src="\images\bug_photos\monarch_1.png"></td>
-		<td>Monarch Butterfly
-			<br>
-			<i>Danaus plexippus</i>
-		</td>
-	</tr>
-	<tr>
-		<td><img src="\images\bug_photos\monarch_cat_1.png"></td>
-		<td>Monarch Butterfly Caterpillar
-			<br>
-			<i>Danaus plexippus</i>
-		</td>
-	</tr>
-	<tr>
-		<td><img src="\images\bug_photos\fritillary_1.png"></td>
-		<td>Unidentified Fritillary Butterfly
-			<br>
-			Perhaps <i>Boloria selene</i>
-		</td>
-	</tr>
-	<tr>
-		<td><img src="\images\bug_photos\swallowtail_1.png"></td>
-		<td>Tiger Swallowtail Butterfly
-			<br>
-			Either <i>Papilio canadensis</i> or <i>Papilio glaucus</i> 
-		</td>
-	</tr>
-	<tr>
-		<td><img src="\images\bug_photos\tent_1.png"></td>
-		<td>Eastern Tent Caterpillar Moth
-			<br>
-			<i>Malacosoma americanum</i>
-		</td>
-	</tr>
-	<tr>
-		<td><img src="\images\bug_photos\cutworm_1.png"></td>
-		<td>Dingy Cutworm Moth
-			<br>
-			<i>Feltia jaculifera</i>
-		</td>
-	</tr>
-	<tr>
-		<td><img src="\images\bug_photos\sphinx_1.png"></td>
-		<td>Blinded Sphinx Moth
-			<br>
-			<i>Paonias excaecatus</i>
-		</td>
-	</tr>
-	<tr>
-		<td><img src="\images\bug_photos\gypsy_moth_1.png"></td>
-		<td>Gypsy Moth
-			<br>
-			<i>Lymantria dispar</i>
-		</td>
-	</tr>
-	<tr>
-		<td><img src="\images\bug_photos\plume_moth_1.png"></td>
-		<td>Plume Moth
-		</td>
-	</tr>
-	<tr>
-		<td colspan='2'>
-		Beetles
-		</td>
-	</tr>
-	<tr>
-		<td><img src="\images\bug_photos\stag_plac.png"></td>
-		<td>"Placid" Stag Beetle
+<div class="gallery-container-small">
+	<div class="gallery-item">
+		<div class="gallery-item-box">	<img src="\images\bug_photos\dragonfly.png"></div>
+		<div class="gallery-item-box">
+		(?)</div>
+	</div>
+</div>
+
+<h3> Butterflies and Moths</h3>
+
+<div class="gallery-container-small">
+	<div class="gallery-item">
+		<div class="gallery-item-box">	<img src="\images\bug_photos\admiral_1.png"></div>
+		<div class="gallery-item-box">
+		Red Admiral Butterfly
 		<br>
-		<i>Lucanus placidus</i>
-		</td>
-	</tr>
-	<tr>
-		<td><img src="\images\bug_photos\ash_1.png"></td>
-		<td><s>Ashy Gray Lady Beetle </s> <br>Fifteen-spotted Lady Beetle
+		<i>Vanessa atalanta</i></div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	<img src="\images\bug_photos\admiral_2.png"></div>
+		<div class="gallery-item-box">
+		Red Admiral Butterfly
+		<br>
+		<i>Vanessa atalanta</i></div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	<img src="\images\bug_photos\monarch_1.png"></div>
+		<div class="gallery-item-box">
+		Monarch Butterfly
+		<br>
+		<i>Danaus plexippus</i></div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	<img src="\images\bug_photos\monarch_cat_1.png"></div>
+		<div class="gallery-item-box">
+		Monarch Butterfly Caterpillar
+		<br>
+		<i>Danaus plexippus</i></div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	<img src="\images\bug_photos\fritillary_1.png"></div>
+		<div class="gallery-item-box">
+		Unidentified Fritillary Butterfly
+		<br>
+		Perhaps <i>Boloria selene</i></div>
+	</div>
+	
+	<div class="gallery-item">
+		<div class="gallery-item-box">	<img src="\images\bug_photos\swallowtail_1.png"></div>
+		<div class="gallery-item-box">
+		Tiger Swallowtail Butterfly
+		<br>
+		Either <i>Papilio canadensis</i> or <i>Papilio glaucus</i> </div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	<img src="\images\bug_photos\tent_1.png"></div>
+		<div class="gallery-item-box">
+		Eastern Tent Caterpillar Moth
+		<br>
+		<i>Malacosoma americanum</i></div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	<img src="\images\bug_photos\cutworm_1.png"></div>
+		<div class="gallery-item-box">
+		Dingy Cutworm Moth
+		<br>
+		<i>Feltia jaculifera</i></div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	<img src="\images\bug_photos\sphinx_1.png"></div>
+		<div class="gallery-item-box">
+		Blinded Sphinx Moth
+		<br>
+		<i>Paonias excaecatus</i></div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	<img src="\images\bug_photos\spongy_moth_1.png"></div>
+		<div class="gallery-item-box">
+		Spongy Moth
+		<br>
+		<i>Lymantria dispar</i></div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	<img src="\images\bug_photos\plume_moth_1.png"></div>
+		<div class="gallery-item-box">
+		Unidentified Plume Moth</div>
+	</div>
+</div>
+
+<h3> Beetles</h3>
+
+<div class="gallery-container-small">
+	<div class="gallery-item">
+		<div class="gallery-item-box">	<img src="\images\bug_photos\stag_plac.png"></div>
+		<div class="gallery-item-box">
+			Stag Beetle
 			<br>
-			<i><s>Olla v-nigrum</s> <br>Anatis labiculata</i>
-		</td>
-	</tr>
-	<tr>
-		<td><img src="\images\bug_photos\ladybird_1.png"></td>
-		<td>Spotted Lady Beetle
+			<i>Lucanus placidus</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+	<div class="gallery-item-box">	
+	<img src="\images\bug_photos\ash_1.png"></div>
+		<div class="gallery-item-box">Fifteen-spotted Lady Beetle
+			<br>
+			<i>Anatis labiculata</i>
+		</div>
+	</div>
+	<div class="gallery-item"><div class="gallery-item-box">	
+	<img src="\images\bug_photos\ladybird_1.png"></div>
+		<div class="gallery-item-box">
+			Spotted Lady Beetle
 			<br>
 			<i>Coleomegilla maculata</i>
-		</td>
-	</tr>
-	<tr>
-		<td><img src="\images\bug_photos\elm_1.png"></td>
-		<td>Elm Leaf Beetle
+		</div>
+	</div>
+	<div class="gallery-item"><div class="gallery-item-box">	
+	<img src="\images\bug_photos\elm_1.png">
+	</div>
+		<div class="gallery-item-box">
+			Elm Leaf Beetle
 			<br>
 			<i>Xanthogaleruca luteola</i>
-		</td>
-	</tr>
-	<tr>
-		<td><img src="\images\bug_photos\cucumber_1.png"></td>
-		<td>Spotted Cucumber Beetle
+		</div>
+	</div>
+	<div class="gallery-item">
+	<div class="gallery-item-box">	
+		<img src="\images\bug_photos\cucumber_1.png">
+	</div>
+		<div class="gallery-item-box">
+			Spotted Cucumber Beetle
 			<br>
 			<i>Diabrotica undecimpunctata</i>
-		</td>
-	</tr>
-	<tr>
-		<td><img src="\images\bug_photos\click_beetle_1.png"></td>
-		<td>Eyed Click Beetle
+		</div>
+	</div>
+	<div class="gallery-item">
+	<div class="gallery-item-box">	<img src="\images\bug_photos\click_beetle_1.png"></div>
+		<div class="gallery-item-box">
+			Eyed Click Beetle
 			<br>
 			<i>Alaus oculatus</i>
-		</td>
-	</tr>
-	<tr>
-		<td><img src="\images\bug_photos\net_winged_1.png"></td>
-		<td>Net-winged Beetle
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	<img src="\images\bug_photos\net_winged_1.png"></div>
+		<div class="gallery-item-box">
+			Net-winged Beetle
 			<br>
-			<i>Calopteron reticulatum(?)</i>
-		</td>
-	</tr>
-	<tr>
-		<td colspan='2'>
-		Bees and Flies
-		</td>
-	</tr>
-	<tr>
-		<td><img src="\images\bug_photos\bumble_west_1.png"></td>
-		<td>Orange-belted Bumblebee
+			<i>Calopteron reticulatum (?)</i>
+		</div>
+	</div>
+</div>
+
+<h3> Bees and Flies</h3>
+
+<div class="gallery-container-small">
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bug_photos\bumble_west_1.png">
+		</div>
+		<div class="gallery-item-box">
+			Orange-belted Bumblebee
 			<br>
-			<i>Bombus ternarius</i>
-		</td>
-	</tr>
-	<tr>
-		<td><img src="\images\bug_photos\honey_1.png"></td>
-		<td>Honeybee
+			<i>Bombus ternarius</i>	
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bug_photos\honey_1.png">
+		</div>
+		<div class="gallery-item-box">
+			Honeybee
 			<br>
-			<i>Apis mellifera</i>
-		</td>
-	</tr>
-	<tr>
-		<td><img src="\images\bug_photos\honey_2.png"></td>
-		<td>Honeybee
+			<i>Apis mellifera</i>	
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bug_photos\honey_2.png">
+		</div>
+		<div class="gallery-item-box">
+			Honeybee
 			<br>
-			<i>Apis mellifera</i>
-		</td>
-	</tr>
-	<tr>
-		<td><img src="\images\bug_photos\bee_hover_fly.png"></td>
-		<td>A honeybee (left) and <br> an unidentified hoverfly (right)
-		</td>
-	</tr>
-	<tr>
-		<td><img src="\images\bug_photos\mystery_bee_1.png"></td>
-		<td>European wool carder bee(?)
+			<i>Apis mellifera</i>	
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bug_photos\bee_hover_fly.png">
+		</div>
+		<div class="gallery-item-box">
+			A honeybee (left) and an unidentified hoverfly (right)
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bug_photos\mystery_bee_1.png">
+		</div>
+		<div class="gallery-item-box">
+			European wool carder bee (?)
 			<br>
 			<i>Anthidium manicatum</i>
-		</td>
-	</tr>
-	<tr>
-		<td><img src="\images\bug_photos\mystery_bee_3.png"></td>
-		<td>Sweat Bee (?)
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	<img src="\images\bug_photos\mystery_bee_3.png"></div>
+		<div class="gallery-item-box">
+			Sweat Bee (?)
 			<br>
 			<i>Halictus (?)</i>
-		</td>
-	</tr>
-	<tr>
-		<td><img src="\images\bug_photos\bumble_1.png"></td>
-		<td>Bumblebee
-		</td>
-	</tr>
-	<tr>
-		<td><img src="\images\bug_photos\mystery_bee_2.png"></td>
-		<td> ?
-		</td>
-	</tr>
-</table>
-
+		</div>
+	</div>
+	<div class="gallery-item"><div class="gallery-item-box">	
+	<img src="\images\bug_photos\bumble_1.png">
+	</div>
+		<div class="gallery-item-box">
+			Bumblebee
+		</div>
+	</div>
+	<div class="gallery-item">
+	<div class="gallery-item-box">	
+	<img src="\images\bug_photos\mystery_bee_2.png">
+	</div>
+	<div class="gallery-item-box">
+		 ?
+	 </div>
+	</div>
+</div>
+	
 <h3> Spiders</h3>
 
-<table>
-	<tr>
-		<td colspan='2'>
-		Spiders
-		</td>
-	</tr>
-	<tr>
-		<td><img src="\images\bug_photos\funnel_weaver_1.png"></td>
-		<td>Unidentified American Grass Spider
+<div class="gallery-container-small">
+	<div class="gallery-item">
+	<div class="gallery-item-box">	<img src="\images\bug_photos\funnel_weaver_1.png"></div>
+		<div class="gallery-item-box">
+			Unidentified American Grass Spider
 			<br>
 			<i>Agelenopsis</i>
-		</td>
-	</tr>
-	<tr>
-		<td><img src="\images\bug_photos\crab_spider_1.png"></td>
-		<td>Goldenrod Crab Spider
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	<img src="\images\bug_photos\crab_spider_1.png"></div>
+		<div class="gallery-item-box">
+			Goldenrod Crab Spider
 			<br>
 			<i>Misumena vatia</i>
-		</td>
-	</tr>
-</table>
+		</div>
+	</div>
+</div>
 
 <h3> Amphibians </h3>
 
-<table>
-	<tr>
-		<td colspan='2'>
-		Frogs and Toads
-		</td>
-	</tr>
-	<tr>
-		<td><img src="\images\bug_photos\green_frog_1.png"></td>
-		<td>Green Frog
+<div class="gallery-container-small">
+	<div class="gallery-item">	
+		<div class="gallery-item-box">	<img src="\images\bug_photos\green_frog_1.png"></div>
+		<div class="gallery-item-box">
+			Green Frog
 			<br>
 			<i>Lithobates clamitans</i>
-		</td>
-	</tr>
-	<tr>
-		<td><img src="\images\bug_photos\green_frog_2.png"></td>
-		<td>Green Frog
+		</div>
+		
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	<img src="\images\bug_photos\green_frog_2.png"></div>
+		<div class="gallery-item-box">
+			Green Frog
 			<br>
 			<i>Lithobates clamitans</i>
-		</td>
-	</tr>
-	<tr>
-		<td><img src="\images\bug_photos\leopard_frog_1.png"></td>
-		<td>Northern Leopard Frog
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	<img src="\images\bug_photos\leopard_frog_1.png"></div>
+		<div class="gallery-item-box">
+			Northern Leopard Frog
 			<br>
 			<i>Lithobates pipiens</i>
-		</td>
-	</tr>
-	<tr>
-		<td><img src="\images\bug_photos\toad_1.png"></td>
-		<td>American Toad
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	<img src="\images\bug_photos\toad_1.png"></div>
+		<div class="gallery-item-box">
+			American Toad
 			<br>
 			<i>Anaxyrus americanus</i>
-		</td>
-	</tr>
-</table>
+		</div>
+	</div>
+</div>	
 
 <h3> Crustaceans </h3>
-
-<table>
-	<tr>
-		<td colspan='2'>
-		Crayfish
-		</td>
-	</tr>
-	<tr>
-		<td><img src="\images\bug_photos\crayfish.png"></td>
-		<td>
-		Virile Crayfish(?)
+<div class="gallery-container-small">
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bug_photos\crayfish.png">
+		</div>
+		<div class="gallery-item-box">
+			Virile Crayfish (?)
 			<br>
 			<i>Faxonius virilis</i>
-		</td>
-	</tr>
-</table>
+		</div>
+	</div>
+</div>
 
 <h3> Birds </h3>
-
-<table>
-	<tr>
-		<td colspan='2'>
-		Birds
-		</td>
-	</tr>
-	<tr>
-		<td><img src="\images\bug_photos\heron.png"></td>
-		<td>Great Blue Heron
+<div class="gallery-container-small">
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bug_photos\heron.png">
+		</div>
+		<div class="gallery-item-box">
+			Great Blue Heron
 			<br>
 			<i>Ardea herodias</i>
-		</td>
-	</tr>
-</table>
+		</div>
+	</div>
+</div>
