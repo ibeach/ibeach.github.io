@@ -9,10 +9,25 @@ My main research interests are low dimensional topology and geometric analysis.
 <h3>Papers:</h3>
 <ul> 
 	<li> 
-	I. Beach and R. Rotman. <i> The length of the shortest closed geodesic on a surface of finite area.</i> Proceedings of the American Mathematical Society. 2020. 
+    I. Beach, H. Contreras Peruyero, R. Rotman, C. Searle. <i>Linear Bounds for the Lengths of Geodesics on Manifolds With Curvature Bounded Below.</i> 2024.
+	<a href="https://arxiv.org/abs/2410.10975">arXiv:2410.10975</a>
+	</li>
+	<li> 
+	I. Beach and R. Rotman. <i>The Length of the Shortest Closed Geodesic on a Surface of Finite Area.</i> Proceedings of the American Mathematical Society. 2020. 
 	<a href="https://arxiv.org/abs/1912.07711">arXiv:1912.07711</a>
 	</li>
 </ul>
+
+<h3>In Preparation:</h3>
+<ul> 
+	<li> 
+	I. Beach, H. Contreras Peruyero, E. Griffin, R. Rotman, C. Searle. <i>Lengths of Orthogonal Geodesic Chords on Riemannian Manifolds.</i> 2024.
+	</li>
+	<li> 
+	I. Beach. <i>Short Simple Orthogonal Geodesic Chords on a 2-Disk with Convex Boundary.</i> 2024.
+	</li>
+</ul>
+
 
 <h3>Presentations:</h3>
 <ul> 
