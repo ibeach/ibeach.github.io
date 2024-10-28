@@ -13,6 +13,10 @@ My main research interests are low dimensional topology and geometric analysis.
 	<a href="https://arxiv.org/abs/2410.10975">arXiv:2410.10975</a>
 	</li>
 	<li> 
+    I. Beach. <i>Short Simple Geodesic Loops on a 2-Sphere.</i> 2024.
+	<a href="https://arxiv.org/abs/2407.12673">arXiv:2407.12673</a>
+	</li>
+	<li> 
 	I. Beach and R. Rotman. <i>The Length of the Shortest Closed Geodesic on a Surface of Finite Area.</i> Proceedings of the American Mathematical Society. 2020. 
 	<a href="https://arxiv.org/abs/1912.07711">arXiv:1912.07711</a>
 	</li>
