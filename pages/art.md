@@ -29,6 +29,7 @@ layout: default
 		<i>Looking Back III (Mariana Trench)</i>, 2024
 		</div>
 	</div>
+    <!--
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
 		<img src="\images\art\spider.png">
@@ -37,6 +38,7 @@ layout: default
 		<i>Spider Study</i>, 2024
 		</div>
 	</div>
+    -->
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
 		<img src="\images\art\whale_skeleton.png">
@@ -61,7 +63,7 @@ layout: default
 		<i>Looking Back II (Thank You for Looking)</i>, 2023
 		</div>
 	</div>
-	<div class="gallery-item">		
+	<div class="gallery-item">
 		<div class="gallery-item-box">	
 		<img src="\images\art\mirror.png">
 		</div>
@@ -77,6 +79,7 @@ layout: default
 		<i>Leopard Seal Study</i>, 2023	
 		</div>
 	</div>
+    <!--
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
 		<img src="\images\art\story.png">
@@ -85,6 +88,7 @@ layout: default
 		<i>This is a Story</i>, 2023	
 		</div>
 	</div>
+    -->
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
 		<img src="\images\art\kiss.png">
