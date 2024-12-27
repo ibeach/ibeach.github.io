@@ -64,6 +64,12 @@ My main research interest is quantitative geometry.
 	Spring 2025: MAT187 (Instructor)
 	</li>
 	<li> 
+	Spring 2024: MAT224 (TA)
+	</li>
+	<li> 
+	Fall 2023: MAT464/MAT1342 (TA)
+	</li>
+	<li> 
 	Summer 2023: MAT135 (TA)
 	</li>
 	<li> 
@@ -86,6 +92,23 @@ My main research interest is quantitative geometry.
 	</li>
 	<li> 
 	Fall 2019: MAT135 (TA)
+	</li>
+</ul>
+
+
+<h3>Workshops:</h3>
+<ul> 
+	<li> 
+    SLMath, Program Associate Fellowship (New Frontiers in Curvature), August 19 - December 20 2024
+	</li>
+	<li> 
+    Institute for Advanced Study, Summer Collaborators Program, July 3 - July 31 2024
+	</li>
+	<li> 
+    Banff International Research Station, Women in Geometry 3, September 24 - September 29 2023
+	</li>
+	<li> 
+    MSRI/University of Oxford, Metric Geometry and Geometric Analysis Summer Gradute School July 11 - July 22 2022
 	</li>
 </ul>
 
