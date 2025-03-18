@@ -3,7 +3,7 @@ title: Photography
 permalink: /bug_photos/
 layout: default
 ---
-<h2>Wildlife Diary</h2>
+<h2>Wildlife Diary: Invertebrates</h2>
 
 <h3> Dragonflies</h3>
 
@@ -257,44 +257,6 @@ layout: default
 	</div>
 </div>
 
-<h3> Amphibians </h3>
-
-<div class="gallery-container-small">
-	<div class="gallery-item">	
-		<div class="gallery-item-box">	<img src="\images\bug_photos\green_frog_1.png"></div>
-		<div class="gallery-item-box">
-			Green Frog
-			<br>
-			<i>Lithobates clamitans</i>
-		</div>
-		
-	</div>
-	<div class="gallery-item">
-		<div class="gallery-item-box">	<img src="\images\bug_photos\green_frog_2.png"></div>
-		<div class="gallery-item-box">
-			Green Frog
-			<br>
-			<i>Lithobates clamitans</i>
-		</div>
-	</div>
-	<div class="gallery-item">
-		<div class="gallery-item-box">	<img src="\images\bug_photos\leopard_frog_1.png"></div>
-		<div class="gallery-item-box">
-			Northern Leopard Frog
-			<br>
-			<i>Lithobates pipiens</i>
-		</div>
-	</div>
-	<div class="gallery-item">
-		<div class="gallery-item-box">	<img src="\images\bug_photos\toad_1.png"></div>
-		<div class="gallery-item-box">
-			American Toad
-			<br>
-			<i>Anaxyrus americanus</i>
-		</div>
-	</div>
-</div>	
-
 <h3> Crustaceans </h3>
 <div class="gallery-container-small">
 	<div class="gallery-item">
@@ -305,20 +267,6 @@ layout: default
 			Virile Crayfish (?)
 			<br>
 			<i>Faxonius virilis</i>
-		</div>
-	</div>
-</div>
-
-<h3> Birds </h3>
-<div class="gallery-container-small">
-	<div class="gallery-item">
-		<div class="gallery-item-box">	
-		<img src="\images\bug_photos\heron.png">
-		</div>
-		<div class="gallery-item-box">
-			Great Blue Heron
-			<br>
-			<i>Ardea herodias</i>
 		</div>
 	</div>
 </div>
