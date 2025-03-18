@@ -7,6 +7,30 @@ layout: default
 <div class="gallery-container">
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
+			<img src="\images\art\raptor_small.png">
+		</div>
+		<div class="gallery-item-box">	
+			<i>Unfinished Raptors</i>, 2024
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+			<img src="\images\art\sandpiper_small.png">
+		</div>
+		<div class="gallery-item-box">	
+			<i>California I</i>, 2024
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+			<img src="\images\art\leopard_small.png">
+		</div>
+		<div class="gallery-item-box">	
+			<i>Leopard Seal Study II</i>, 2024
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
 			<img src="\images\art\window.png">
 		</div>
 		<div class="gallery-item-box">	
