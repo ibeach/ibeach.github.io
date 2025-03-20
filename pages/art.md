@@ -7,6 +7,14 @@ layout: default
 <div class="gallery-container">
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
+			<img src="\images\art\peregrine_small.png">
+		</div>
+		<div class="gallery-item-box">	
+			<i>Peregrine Falcon</i>, 2024
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
 			<img src="\images\art\raptor_small.png">
 		</div>
 		<div class="gallery-item-box">	
