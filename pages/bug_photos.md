@@ -100,6 +100,14 @@ layout: default
 
 <div class="gallery-container-small">
 	<div class="gallery-item">
+		<div class="gallery-item-box">	<img src="\images\bug_photos\milkweed_beetle.png"></div>
+		<div class="gallery-item-box">
+			Red Milkweed Beetle
+			<br>
+			<i>Tetraopes tetrophthalmus</i>
+		</div>
+	</div>
+	<div class="gallery-item">
 		<div class="gallery-item-box">	<img src="\images\bug_photos\stag_plac.png"></div>
 		<div class="gallery-item-box">
 			Stag Beetle

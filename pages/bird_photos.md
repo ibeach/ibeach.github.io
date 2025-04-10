@@ -99,6 +99,36 @@ layout: default
 	</div>
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\egret.png">
+		</div>
+		<div class="gallery-item-box">
+			Snowy Egret
+			<br>
+			<i>Egretta thula</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\green_heron.png">
+		</div>
+		<div class="gallery-item-box">
+			Green Heron
+			<br>
+			<i>Butorides virescens</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\night_heron.png">
+		</div>
+		<div class="gallery-item-box">
+			Black-crowned Night Heron
+			<br>
+			<i>Nycticorax nycticorax</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
 		<img src="\images\bird_photos\heron.png">
 		</div>
 		<div class="gallery-item-box">
@@ -130,6 +160,14 @@ layout: default
 		</div>
 	</div>
 	<div class="gallery-item">
+		<div class="gallery-item-box">	<img src="\images\bird_photos\green_frog_jersey.png"></div>
+		<div class="gallery-item-box">
+			Green Frog
+			<br>
+			<i>Lithobates clamitans</i>
+		</div>
+	</div>
+	<div class="gallery-item">
 		<div class="gallery-item-box">	<img src="\images\bird_photos\leopard_frog_1.png"></div>
 		<div class="gallery-item-box">
 			Northern Leopard Frog
@@ -143,6 +181,20 @@ layout: default
 			American Toad
 			<br>
 			<i>Anaxyrus americanus</i>
+		</div>
+	</div>
+</div>	
+
+
+<h3> Reptiles </h3>
+
+<div class="gallery-container-small">
+	<div class="gallery-item">	
+		<div class="gallery-item-box">	<img src="\images\bird_photos\lizard.png"></div>
+		<div class="gallery-item-box">
+			Western Fence Lizard
+			<br>
+			<i>Sceloporus occidentalis</i>
 		</div>
 	</div>
 </div>	
