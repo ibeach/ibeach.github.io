@@ -5,6 +5,27 @@ layout: default
 ---
 <h2>Wildlife Diary: Vertebrates</h2>
 
+<h3> Mammals </h3>
+
+<div class="gallery-container-small">
+	<div class="gallery-item">	
+		<div class="gallery-item-box">	<img src="\images\bird_photos\rabbit.png"></div>
+		<div class="gallery-item-box">
+			Eastern Cottontail
+			<br>
+			<i>Sylvilagus floridanus</i>
+		</div>
+	</div>
+	<div class="gallery-item">	
+		<div class="gallery-item-box">	<img src="\images\bird_photos\seals.png"></div>
+		<div class="gallery-item-box">
+			Northern Elephant Seal
+			<br>
+			<i>Mirounga angustirostris</i>
+		</div>
+	</div>
+</div>	
+
 <h3> Birds </h3>
 <div class="gallery-container-small">
 	<div class="gallery-item">
@@ -99,6 +120,26 @@ layout: default
 	</div>
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\raven.png">
+		</div>
+		<div class="gallery-item-box">
+			Common Raven
+            <br>
+            <i>Corvus corax</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\oystercatcher.png">
+		</div>
+		<div class="gallery-item-box">
+			Black Oystercatcher
+			<br>
+			<i>Haematopus bachmani</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
 		<img src="\images\bird_photos\egret.png">
 		</div>
 		<div class="gallery-item-box">
@@ -176,11 +217,35 @@ layout: default
 		</div>
 	</div>
 	<div class="gallery-item">
+		<div class="gallery-item-box">	<img src="\images\bird_photos\pickerel_frog.png"></div>
+		<div class="gallery-item-box">
+			Pickerel Frog
+			<br>
+			<i>Lithobates palustris</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	<img src="\images\bird_photos\treefrog.png"></div>
+		<div class="gallery-item-box">
+			Grey Treefrog
+			<br>
+			<i>Dryophytes versicolor</i>
+		</div>
+	</div>
+	<div class="gallery-item">
 		<div class="gallery-item-box">	<img src="\images\bird_photos\toad_1.png"></div>
 		<div class="gallery-item-box">
 			American Toad
 			<br>
 			<i>Anaxyrus americanus</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	<img src="\images\bird_photos\unknown_toad.png"></div>
+		<div class="gallery-item-box">
+			Unidentified Toad
+			<br>
+			Either an American or Fowler's Toad
 		</div>
 	</div>
 </div>	
