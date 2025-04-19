@@ -36,6 +36,15 @@ My main research interest is quantitative geometry.
 <h3>Presentations:</h3>
 <ul> 
 	<li> 
+	Kansas Math Symposium 2025. <i>The Quantitative Geometry of Geodesics.</i>
+	</li>
+	<li> 
+	HIM Metric Geometry Spring 2025 Trimester Program Seminar. <i>The Quantitative Geometry of Geodesics.</i>
+	</li>
+	<li> 
+	JMM 2025. <i>The Quantitative Geometry of Geodesics.</i>
+	</li>
+	<li> 
 	SLMath Graduate Student Seminar Fall 2024. <i>The Quantitative Geometry of Geodesics.</i>
 	</li>
 	<li> 
