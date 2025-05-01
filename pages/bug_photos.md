@@ -53,13 +53,19 @@ layout: default
 		<br>
 		Perhaps <i>Boloria selene</i></div>
 	</div>
-	
 	<div class="gallery-item">
 		<div class="gallery-item-box">	<img src="\images\bug_photos\swallowtail_1.png"></div>
 		<div class="gallery-item-box">
 		Tiger Swallowtail Butterfly
 		<br>
 		Either <i>Papilio canadensis</i> or <i>Papilio glaucus</i> </div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	<img src="\images\bug_photos\swallowtail_2.png"></div>
+		<div class="gallery-item-box">
+		Black Swallowtail Butterfly
+		<br>
+		<i>Papilio polyxenes</i> </div>
 	</div>
 	<div class="gallery-item">
 		<div class="gallery-item-box">	<img src="\images\bug_photos\tent_1.png"></div>

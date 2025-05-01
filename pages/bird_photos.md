@@ -24,6 +24,22 @@ layout: default
 			<i>Mirounga angustirostris</i>
 		</div>
 	</div>
+	<div class="gallery-item">	
+		<div class="gallery-item-box">	<img src="\images\bird_photos\fox.png"></div>
+		<div class="gallery-item-box">
+			Red Fox
+			<br>
+			<i>Vulpes vulpes</i>
+		</div>
+	</div>
+	<div class="gallery-item">	
+		<div class="gallery-item-box">	<img src="\images\bird_photos\california_ground_squirrel.png"></div>
+		<div class="gallery-item-box">
+			California Ground Squirrel
+			<br>
+			<i>Otospermophilus beecheyi</i>
+		</div>
+	</div>
 </div>	
 
 <h3> Birds </h3>
@@ -70,12 +86,12 @@ layout: default
 	</div>
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\canada_goose.png">
+		<img src="\images\bird_photos\mandarin_duck.png">
 		</div>
 		<div class="gallery-item-box">
-            Canada Goose
+            Mandarin Duck (female)
             <br>
-            <i>Branta canadensis</i>
+            <i>Aix galericulata</i>
 		</div>
 	</div>
 	<div class="gallery-item">
@@ -86,6 +102,46 @@ layout: default
             Long-tailed Duck (female)
             <br>
             <i>Clangula hyemalis</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\canada_goose.png">
+		</div>
+		<div class="gallery-item-box">
+            Canada Goose
+            <br>
+            <i>Branta canadensis</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\greylag.png">
+		</div>
+		<div class="gallery-item-box">
+            Greylag Goose
+            <br>
+            <i>Anser anser</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\black_swan.png">
+		</div>
+		<div class="gallery-item-box">
+            Black Swan
+            <br>
+            <i>Cygnus atratus</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\trumpeter_swan.png">
+		</div>
+		<div class="gallery-item-box">
+            Trumpeter Swan
+            <br>
+            <i>Cygnus buccinator</i>
 		</div>
 	</div>
 	<div class="gallery-item">
@@ -176,6 +232,16 @@ layout: default
 			Great Blue Heron
 			<br>
 			<i>Ardea herodias</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\rth.png">
+		</div>
+		<div class="gallery-item-box">
+			Red-Tailed Hawk
+			<br>
+			<i>Buteo jamaicensis</i>
 		</div>
 	</div>
 </div>
