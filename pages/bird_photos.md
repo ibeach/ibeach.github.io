@@ -86,16 +86,6 @@ layout: default
 	</div>
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\mandarin_duck.png">
-		</div>
-		<div class="gallery-item-box">
-            Mandarin Duck (female)
-            <br>
-            <i>Aix galericulata</i>
-		</div>
-	</div>
-	<div class="gallery-item">
-		<div class="gallery-item-box">	
 		<img src="\images\bird_photos\longtail.png">
 		</div>
 		<div class="gallery-item-box">
@@ -149,7 +139,7 @@ layout: default
 		<img src="\images\bird_photos\red_bellied.png">
 		</div>
 		<div class="gallery-item-box">
-			Red-Bellied Woodpecker
+			Red-bellied Woodpecker
             <br>
             <i>Melanerpes carolinus</i>
 		</div>
@@ -159,7 +149,7 @@ layout: default
 		<img src="\images\bird_photos\nuthatch.png">
 		</div>
 		<div class="gallery-item-box">
-			White-Breasted Nuthatch
+			White-breasted Nuthatch
             <br>
             <i>Sitta carolinensis</i>
 		</div>
@@ -169,9 +159,19 @@ layout: default
 		<img src="\images\bird_photos\blackbird.png">
 		</div>
 		<div class="gallery-item-box">
-			Red-Winged Blackbird
+			Red-winged Blackbird
             <br>
             <i>Agelaius phoeniceus</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\cowbird.png">
+		</div>
+		<div class="gallery-item-box">
+			Brown-headed Cowbird
+            <br>
+            <i>Molothrus ater</i>
 		</div>
 	</div>
 	<div class="gallery-item">
@@ -239,7 +239,7 @@ layout: default
 		<img src="\images\bird_photos\rth.png">
 		</div>
 		<div class="gallery-item-box">
-			Red-Tailed Hawk
+			Red-tailed Hawk
 			<br>
 			<i>Buteo jamaicensis</i>
 		</div>
