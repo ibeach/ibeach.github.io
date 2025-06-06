@@ -105,6 +105,9 @@ My main research interest is quantitative geometry.
 <h3>Workshops:</h3>
 <ul> 
 	<li> 
+    Banff International Research Station Oaxaca, Mixtures of Probability and Geometry, May 25 - May 30 2025
+	</li>
+	<li> 
     SLMath, Program Associate Fellowship (New Frontiers in Curvature), August 19 - December 20 2024
 	</li>
 	<li> 
