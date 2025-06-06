@@ -7,10 +7,26 @@ layout: default
 <div class="gallery-container">
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
+			<img src="\images\art\manmade.png">
+		</div>
+		<div class="gallery-item-box">	
+			<i>Point and Click</i>, 2025
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+			<img src="\images\art\redkite.png">
+		</div>
+		<div class="gallery-item-box">	
+			<i>Forgiveness (Birds III: Red Kite)</i>, 2025
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
 			<img src="\images\art\peregrine_small.png">
 		</div>
 		<div class="gallery-item-box">	
-			<i>Peregrine Falcon</i>, 2024
+			<i>Love (Birds II: Peregrine Falcon)</i>, 2024
 		</div>
 	</div>
 	<div class="gallery-item">
@@ -26,7 +42,7 @@ layout: default
 			<img src="\images\art\sandpiper_small.png">
 		</div>
 		<div class="gallery-item-box">	
-			<i>California I</i>, 2024
+			<i>Humiliation (Birds I: Least Sandpiper)</i>, 2024
 		</div>
 	</div>
 	<div class="gallery-item">
