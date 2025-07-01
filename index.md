@@ -9,16 +9,16 @@ My main research interest is quantitative geometry.
 <h3>Papers:</h3>
 <ul> 
 	<li> 
-    I. Beach, H. Contreras Peruyero, R. Rotman, C. Searle. <i>Linear Bounds for the Lengths of Geodesics on Manifolds With Curvature Bounded Below.</i> 2024.
-	<a href="https://arxiv.org/abs/2410.10975">arXiv:2410.10975</a>
+    I. Beach, H. Contreras Peruyero, R. Rotman, and C. Searle. <i>Linear Bounds for the Lengths of Geodesics on Manifolds With Curvature Bounded Below.</i> Journal of Geometric Analysis. 2025. Vol.35, article number 217.
+	<a href="https://arxiv.org/abs/2410.10975">arXiv:2410.10975</a>. <a href="https://doi.org/10.1007/s12220-025-02003-6">DOI:10.1007/s12220-025-02003-6</a>.
 	</li>
 	<li> 
     I. Beach. <i>Short Simple Geodesic Loops on a 2-Sphere.</i> 2024.
 	<a href="https://arxiv.org/abs/2407.12673">arXiv:2407.12673</a>
 	</li>
 	<li> 
-	I. Beach and R. Rotman. <i>The Length of the Shortest Closed Geodesic on a Surface of Finite Area.</i> Proceedings of the American Mathematical Society. 2020. 
-	<a href="https://arxiv.org/abs/1912.07711">arXiv:1912.07711</a>
+	I. Beach and R. Rotman. <i>The Length of the Shortest Closed Geodesic on a Surface of Finite Area.</i> Proceedings of the American Mathematical Society. 2020. Vol. 148 (12), p. 5355-5367.
+	<a href="https://arxiv.org/abs/1912.07711">arXiv:1912.07711</a>. <a href="https://doi.org/10.1090/proc/15194">DOI:10.1090/proc/15194</a>.
 	</li>
 </ul>
 
