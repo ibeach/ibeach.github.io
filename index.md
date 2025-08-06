@@ -9,7 +9,10 @@ My main research interest is quantitative geometry.
 <h3>Papers:</h3>
 <ul> 
 	<li> 
-    I. Beach, H. Contreras Peruyero, R. Rotman, and C. Searle. <i>Linear Bounds for the Lengths of Geodesics on Manifolds With Curvature Bounded Below.</i> Journal of Geometric Analysis. 2025. Vol.35, article number 217.
+	I. Beach. <i>Short Simple Orthogonal Geodesic Chords on a 2-Disk with Convex Boundary.</i> <a href="https://arxiv.org/abs/2507.07797">arXiv:2507.07797</a>.
+	</li>
+	<li> 
+    I. Beach, H. Contreras Peruyero, R. Rotman, and C. Searle. <i>Linear Bounds for the Lengths of Geodesics on Manifolds With Curvature Bounded Below.</i> Journal of Geometric Analysis. 2025. Vol. 35, article number 217.
 	<a href="https://arxiv.org/abs/2410.10975">arXiv:2410.10975</a>. <a href="https://doi.org/10.1007/s12220-025-02003-6">DOI:10.1007/s12220-025-02003-6</a>.
 	</li>
 	<li> 
@@ -26,9 +29,6 @@ My main research interest is quantitative geometry.
 <ul> 
 	<li> 
 	I. Beach, H. Contreras Peruyero, E. Griffin, R. Rotman, C. Searle. <i>Lengths of Orthogonal Geodesic Chords on Riemannian Manifolds.</i>
-	</li>
-	<li> 
-	I. Beach. <i>Short Simple Orthogonal Geodesic Chords on a 2-Disk with Convex Boundary.</i>
 	</li>
 </ul>
 
@@ -125,7 +125,7 @@ My main research interest is quantitative geometry.
 <h3>Design:</h3>
 <ul> 
 	<li> 
-	I designed the newsletter for the University of Toronto Mathematics Graduate Student Association.
+	I helped design the newsletter for the University of Toronto Mathematics Graduate Student Association.
 	</li>
 	<li> 
 	I designed the poster for the 2023 and 2024 <a href="https://ibeach.github.io/files/birds_eye.pdf">Bird's Eye Conference.</a>
