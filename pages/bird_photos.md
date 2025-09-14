@@ -46,6 +46,16 @@ layout: default
 <div class="gallery-container-small">
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\gull.jpg">
+		</div>
+		<div class="gallery-item-box">
+			Ring-billed Gull
+            <br>
+            <i>Larus delawarensis</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
 		<img src="\images\bird_photos\mallards.png">
 		</div>
 		<div class="gallery-item-box">
@@ -126,6 +136,16 @@ layout: default
 	</div>
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\mute_swan.jpg">
+		</div>
+		<div class="gallery-item-box">
+            Mute Swan
+            <br>
+            <i>Cygnus olor</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
 		<img src="\images\bird_photos\red_bellied.png">
 		</div>
 		<div class="gallery-item-box">
@@ -162,6 +182,16 @@ layout: default
 			Brown-headed Cowbird
             <br>
             <i>Molothrus ater</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\robin.jpg">
+		</div>
+		<div class="gallery-item-box">
+			American Robin
+            <br>
+            <i>Turdus migratorius</i>
 		</div>
 	</div>
 	<div class="gallery-item">

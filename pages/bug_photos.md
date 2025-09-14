@@ -5,7 +5,7 @@ layout: default
 ---
 <h2>Wildlife Diary: Invertebrates</h2>
 
-<h3> Butterflies and Moths</h3>
+<h3>Butterflies and Moths</h3>
 
 <div class="gallery-container-small">
 	<div class="gallery-item">
@@ -16,7 +16,7 @@ layout: default
 		<i>Vanessa atalanta</i></div>
 	</div>
 	<div class="gallery-item">
-		<div class="gallery-item-box">	<img src="\images\bug_photos\monarch_1.png"></div>
+		<div class="gallery-item-box">	<img src="\images\bug_photos\monarch_2.png"></div>
 		<div class="gallery-item-box">
 		Monarch Butterfly
 		<br>
@@ -83,9 +83,17 @@ layout: default
 		<div class="gallery-item-box">
 		Plume Moth</div>
 	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	<img src="\images\bug_photos\forester_moth.jpg"></div>
+		<div class="gallery-item-box">
+		Eight-spotted Forester Moth
+		<br>
+		<i>Alypia octomaculata</i>
+		</div>
+	</div>
 </div>
 
-<h3> Beetles</h3>
+<h3>Beetles</h3>
 
 <div class="gallery-container-small">
 	<div class="gallery-item">
@@ -118,6 +126,14 @@ layout: default
 			Spotted Lady Beetle
 			<br>
 			<i>Coleomegilla maculata</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	<img src="\images\bug_photos\ladybug_larva.png"></div>
+		<div class="gallery-item-box">
+			Multicoloured Asian Lady Beetle Larva
+			<br>
+			<i>Harmonia axyridis</i>
 		</div>
 	</div>
 	<div class="gallery-item"><div class="gallery-item-box">	
@@ -157,7 +173,7 @@ layout: default
 	</div>
 </div>
 
-<h3> Bees and Flies</h3>
+<h3>Bees and Flies</h3>
 
 <div class="gallery-container-small">
 	<div class="gallery-item">
@@ -190,9 +206,17 @@ layout: default
 			<i>Anthidium manicatum</i>
 		</div>
 	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	<img src="\images\bug_photos\hoverfly.png"></div>
+		<div class="gallery-item-box">
+		American Hoverfly
+		<br>
+		<i>Eupeodes americanus</i>
+		</div>
+	</div>
 </div>
 	
-<h3> Spiders</h3>
+<h3>Spiders</h3>
 
 <div class="gallery-container-small">
 	<div class="gallery-item">
@@ -209,9 +233,17 @@ layout: default
 			<i>Misumena vatia</i>
 		</div>
 	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	<img src="\images\bug_photos\woodlouse_hunter.jpg"></div>
+		<div class="gallery-item-box">
+			Woodlouse Hunter
+			<br>
+			<i>Dysdera crocata</i>
+		</div>
+	</div>
 </div>
 
-<h3> Crustaceans </h3>
+<h3>Crustaceans </h3>
 <div class="gallery-container-small">
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
@@ -221,6 +253,20 @@ layout: default
 			Virile Crayfish (?)
 			<br>
 			<i>Faxonius virilis</i>
+		</div>
+	</div>
+</div>
+
+<h3>Gastropods</h3>
+<div class="gallery-container-small">
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bug_photos\snail.jpg">
+		</div>
+		<div class="gallery-item-box">
+			Brown-lipped Snail
+			<br>
+			<i>Cepaea nemoralis</i>
 		</div>
 	</div>
 </div>
