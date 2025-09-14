@@ -5,28 +5,11 @@ layout: default
 ---
 <h2>Wildlife Diary: Invertebrates</h2>
 
-<h3> Dragonflies</h3>
-
-<div class="gallery-container-small">
-	<div class="gallery-item">
-		<div class="gallery-item-box">	<img src="\images\bug_photos\dragonfly.png"></div>
-		<div class="gallery-item-box">
-		(?)</div>
-	</div>
-</div>
-
 <h3> Butterflies and Moths</h3>
 
 <div class="gallery-container-small">
 	<div class="gallery-item">
 		<div class="gallery-item-box">	<img src="\images\bug_photos\admiral_1.png"></div>
-		<div class="gallery-item-box">
-		Red Admiral Butterfly
-		<br>
-		<i>Vanessa atalanta</i></div>
-	</div>
-	<div class="gallery-item">
-		<div class="gallery-item-box">	<img src="\images\bug_photos\admiral_2.png"></div>
 		<div class="gallery-item-box">
 		Red Admiral Butterfly
 		<br>
@@ -49,7 +32,7 @@ layout: default
 	<div class="gallery-item">
 		<div class="gallery-item-box">	<img src="\images\bug_photos\fritillary_1.png"></div>
 		<div class="gallery-item-box">
-		Unidentified Fritillary Butterfly
+		Fritillary
 		<br>
 		Perhaps <i>Boloria selene</i></div>
 	</div>
@@ -98,7 +81,7 @@ layout: default
 	<div class="gallery-item">
 		<div class="gallery-item-box">	<img src="\images\bug_photos\plume_moth_1.png"></div>
 		<div class="gallery-item-box">
-		Unidentified Plume Moth</div>
+		Plume Moth</div>
 	</div>
 </div>
 
@@ -189,16 +172,6 @@ layout: default
 	</div>
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
-		<img src="\images\bug_photos\honey_1.png">
-		</div>
-		<div class="gallery-item-box">
-			Honeybee
-			<br>
-			<i>Apis mellifera</i>	
-		</div>
-	</div>
-	<div class="gallery-item">
-		<div class="gallery-item-box">	
 		<img src="\images\bug_photos\honey_2.png">
 		</div>
 		<div class="gallery-item-box">
@@ -209,44 +182,13 @@ layout: default
 	</div>
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
-		<img src="\images\bug_photos\bee_hover_fly.png">
-		</div>
-		<div class="gallery-item-box">
-			A honeybee (left) and an unidentified hoverfly (right)
-		</div>
-	</div>
-	<div class="gallery-item">
-		<div class="gallery-item-box">	
 		<img src="\images\bug_photos\mystery_bee_1.png">
 		</div>
 		<div class="gallery-item-box">
-			European wool carder bee (?)
+			European wool carder bee
 			<br>
 			<i>Anthidium manicatum</i>
 		</div>
-	</div>
-	<div class="gallery-item">
-		<div class="gallery-item-box">	<img src="\images\bug_photos\mystery_bee_3.png"></div>
-		<div class="gallery-item-box">
-			Sweat Bee (?)
-			<br>
-			<i>Halictus (?)</i>
-		</div>
-	</div>
-	<div class="gallery-item"><div class="gallery-item-box">	
-	<img src="\images\bug_photos\bumble_1.png">
-	</div>
-		<div class="gallery-item-box">
-			Bumblebee
-		</div>
-	</div>
-	<div class="gallery-item">
-	<div class="gallery-item-box">	
-	<img src="\images\bug_photos\mystery_bee_2.png">
-	</div>
-	<div class="gallery-item-box">
-		 ?
-	 </div>
 	</div>
 </div>
 	
@@ -256,9 +198,7 @@ layout: default
 	<div class="gallery-item">
 	<div class="gallery-item-box">	<img src="\images\bug_photos\funnel_weaver_1.png"></div>
 		<div class="gallery-item-box">
-			Unidentified American Grass Spider
-			<br>
-			<i>Agelenopsis</i>
+			American Grass Spider
 		</div>
 	</div>
 	<div class="gallery-item">

@@ -56,16 +56,6 @@ layout: default
 	</div>
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\wood_duck_4.png">
-		</div>
-		<div class="gallery-item-box">
-			Wood Duck (male)
-            <br>
-            <i>Aix sponsa</i>
-		</div>
-	</div>
-	<div class="gallery-item">
-		<div class="gallery-item-box">	
 		<img src="\images\bird_photos\wood_duck_2.png">
 		</div>
 		<div class="gallery-item-box">
@@ -249,23 +239,6 @@ layout: default
 <h3> Amphibians </h3>
 
 <div class="gallery-container-small">
-	<div class="gallery-item">	
-		<div class="gallery-item-box">	<img src="\images\bird_photos\green_frog_1.png"></div>
-		<div class="gallery-item-box">
-			Green Frog
-			<br>
-			<i>Lithobates clamitans</i>
-		</div>
-		
-	</div>
-	<div class="gallery-item">
-		<div class="gallery-item-box">	<img src="\images\bird_photos\green_frog_2.png"></div>
-		<div class="gallery-item-box">
-			Green Frog
-			<br>
-			<i>Lithobates clamitans</i>
-		</div>
-	</div>
 	<div class="gallery-item">
 		<div class="gallery-item-box">	<img src="\images\bird_photos\green_frog_jersey.png"></div>
 		<div class="gallery-item-box">
@@ -304,14 +277,6 @@ layout: default
 			American Toad
 			<br>
 			<i>Anaxyrus americanus</i>
-		</div>
-	</div>
-	<div class="gallery-item">
-		<div class="gallery-item-box">	<img src="\images\bird_photos\unknown_toad.png"></div>
-		<div class="gallery-item-box">
-			Unidentified Toad
-			<br>
-			Either an American or Fowler's Toad
 		</div>
 	</div>
 </div>	
