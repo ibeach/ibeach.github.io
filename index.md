@@ -9,6 +9,9 @@ My main research interest is quantitative topology.
 <h3>Papers:</h3>
 <ul> 
 	<li> 
+	I. Beach, H. Contreras Peruyero, E. Griffin, R. Rotman, C. Searle. <i>Lengths of Orthogonal Geodesic Chords on Riemannian Manifolds.</i> <a href="https://arxiv.org/abs/2509.19620">arXiv:2509.19620</a>.
+	</li>
+	<li> 
 	I. Beach. <i>Short Simple Orthogonal Geodesic Chords on a 2-Disk with Convex Boundary.</i> <a href="https://arxiv.org/abs/2507.07797">arXiv:2507.07797</a>.
 	</li>
 	<li> 
@@ -25,79 +28,101 @@ My main research interest is quantitative topology.
 	</li>
 </ul>
 
-<h3>In Preparation:</h3>
+<h3>Invited Presentations:</h3>
 <ul> 
-	<li> 
-	I. Beach, H. Contreras Peruyero, E. Griffin, R. Rotman, C. Searle. <i>Lengths of Orthogonal Geodesic Chords on Riemannian Manifolds.</i>
-	</li>
+    <li> 
+    2025. 
+    Quantitative Topology and Geodesics. 
+     <i>Pennsylvania State University Geometry Lunch Seminar.</i> State College, PA, United States.
+    </li>
+    <li>
+    2025.
+    The Quantitative Geometry of Geodesics. 
+     <i>Centro de Ciencias Matematicas UNAM Geometry and Dynamics Seminar.</i> Online.
+    </li>
+    <li> 
+    2025. 
+    Short Simple Orthogonal Geodesic Chords. 
+     <i>AMS Joint Mathematics Meetings.</i> Seattle, WA, United States.
+    </li>
+    <li> 
+    2024. 
+    Short Simple Geodesic Loops on a 2-sphere. 
+     <i>AMS Joint Mathematics Meetings</i>. San Francisco, CA, United States.
+    </li>
+    <li> 
+    2023. 
+    The Length of the Shortest Closed Geodesic on a Surface of Finite Area. 
+    <i>AMS Joint Mathematics Meetings</i>. Boston, MA, United States.
+    </li>
+    <li>
+    2023.
+    The Length of the Shortest Closed Geodesic on a Surface of Finite Area. 
+     <i>University of Oregon Topology/Geometry Zoom Seminar.</i> Online.
+    </li>
+    <li>
+    2022. 
+    The Length of the Shortest Closed Geodesic on a Surface of Finite Area. 
+     <i>Midwest Geometry Conference</i>. Wichita, KS, United States.
+    </li>
+    <li>
+    2021. 
+    The Length of the Shortest Closed Geodesic on a Surface of Finite Area. 
+     <i>AMS Spring Eastern Sectional Meeting</i>. Online.
+    </li>
 </ul>
 
-
-<h3>Presentations:</h3>
-<ul> 
+<h3>Other Presentations:</h3>
+<ul>
+	<li>
+    2025.
+    The Quantitative Geometry of Geodesics. 
+     <i>HIM Metric Analysis Trimester Program Seminar.</i> Bonn, NRW, Germany.	
+     </li> 
+	<li>
+    2024.
+    The Quantitative Geometry of Geodesics.
+    <i>SLMath Graduate Student Seminar.</i> Berkeley, CA, United States.
+    </li> 
 	<li> 
-	HIM Metric Geometry Spring 2025 Trimester Program Seminar. <i>The Quantitative Geometry of Geodesics.</i>
-	</li>
-	<li> 
-	JMM 2025. <i>The Quantitative Geometry of Geodesics.</i>
-	</li>
-	<li> 
-	SLMath Graduate Student Seminar Fall 2024. <i>The Quantitative Geometry of Geodesics.</i>
-	</li>
-	<li> 
-	JMM 2024. <i>Short Simple Geodesic Loops on a 2-Sphere.</i>	<a href="https://ibeach.github.io/files/jmm_2024.pdf">PDF slides.</a>	
-	</li>
-	<li> 
-	JMM 2023. <i>The Length of the Shortest Closed Geodesic on a Surface of Finite Area.</i> <a href="https://ibeach.github.io/files/beach_jmm2023_slides.pdf">PDF slides.</a>	
-	</li>
-	<li> 
-	Topology/Geometry Zoom Seminar 2022. <i>The Length of the Shortest Closed Geodesic on a Surface of Finite Area.</i> (With additional discussion on the Seifert conjecture). <a href="https://ibeach.github.io/files/beach_botvinnik2022_slides.pdf">PDF slides.</a>	
-	</li>
-	<li> 
-	Midwest Geometry Conference 2022. <i>The Length of the Shortest Closed Geodesic on a Surface of Finite Area.</i>
-	</li>
-	<li> 
-	AMS Spring Eastern Meeting 2021. <i>The Length of the Shortest Closed Geodesic on a Surface of Finite Area.</i> <a href="https://ibeach.github.io/files/beach_ams2021_slides.pdf">PDF slides.</a>	
-	</li>
-	<li> 
-	CUMC 2019. <i> The Beauty of the Hyperbolic Plane.</i> <a href="https://ibeach.github.io/files/isabel_hyp_geom_pres.pptx">Powerpoint slides.</a>
+	2019. <i>The Beauty of the Hyperbolic Plane.</i> CUMC. Online.
 	</li>
 </ul>
 
 <h3>Teaching:</h3>
 <ul> 
 	<li> 
-	Spring 2025: MAT187 (Instructor)
+	Spring 2025: MAT187 (Calculus II) (Instructor)
 	</li>
 	<li> 
-	Spring 2024: MAT224 (TA)
+	Spring 2024: MAT224 (Linear Algebra II) (TA)
 	</li>
 	<li> 
-	Fall 2023: MAT464/MAT1342 (TA)
+	Fall 2023: MAT464/MAT1342 (Riemannian Geometry) (TA)
 	</li>
 	<li> 
-	Summer 2023: MAT135 (TA)
+	Summer 2023: MAT135 (Calculus I) (TA)
 	</li>
 	<li> 
-	Spring 2023: MAT247 (TA)
+	Spring 2023: MAT247 (Algebra II) (TA)
 	</li>
 	<li> 
-	Fall 2022: MAT240 (TA), MAT464/MAT1342 (TA)
+	Fall 2022: MAT240 (TA), MAT464/MAT1342 (Riemannian Geometry) (TA)
 	</li>
 	<li> 
-	Spring 2022: MAT224 (Grading TA)
+	Spring 2022: MAT224 (Linear Algebra II) (Grading TA)
 	</li>
 	<li> 
-	Fall 2021: MAT464/MAT1342 (TA)
+	Fall 2021: MAT464/MAT1342 (Riemannian Geometry) (TA)
 	</li>
 	<li> 
-	Summer 2021: MAT133 (Lecture TA)
+	Summer 2021: MAT133 (Calculus and Linear Algebra for Commerce) (Lecture TA)
 	</li>
 	<li> 
-	Spring 2020: MAT136 (TA)
+	Spring 2020: MAT136 (Calculus II) (TA)
 	</li>
 	<li> 
-	Fall 2019: MAT135 (TA)
+	Fall 2019: MAT135 (Calculus I) (TA)
 	</li>
 </ul>
 
@@ -121,13 +146,12 @@ My main research interest is quantitative topology.
 	</li>
 </ul>
 
-
-<h3>Design:</h3>
+<h3>Other Activities:</h3>
 <ul> 
 	<li> 
-	I helped design the newsletter for the University of Toronto Mathematics Graduate Student Association.
+	I helped design the <a href="https://www.math.utoronto.ca/mgsa/newsletter/">newsletter</a> for the University of Toronto Mathematics Graduate Student Association.
 	</li>
 	<li> 
-	I designed the poster for the 2023 and 2024 <a href="https://ibeach.github.io/files/birds_eye.pdf">Bird's Eye Conference.</a>
+	I designed the poster for the 2023 and 2024 Bird's Eye Conference at the University of Toronto.
 	</li>
 </ul>
