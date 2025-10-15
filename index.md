@@ -28,7 +28,7 @@ My main research interest is quantitative topology.
 	</li>
 </ul>
 
-<h3>Invited Presentations:</h3>
+<h3>Presentations:</h3>
 <ul> 
     <li> 
     2025. 
@@ -40,12 +40,22 @@ My main research interest is quantitative topology.
     The Quantitative Geometry of Geodesics. 
      <i>Centro de Ciencias Matematicas UNAM Geometry and Dynamics Seminar.</i> Online.
     </li>
-    <li> 
+	<li>
+    2025.
+    The Quantitative Geometry of Geodesics. 
+     <i>HIM Metric Analysis Trimester Program Seminar.</i> Bonn, NRW, Germany.	
+     </li> 
+	<li>
     2025. 
     Short Simple Orthogonal Geodesic Chords. 
      <i>AMS Joint Mathematics Meetings.</i> Seattle, WA, United States.
     </li>
     <li> 
+      2024.
+      The Quantitative Geometry of Geodesics.
+      <i>SLMath Graduate Student Seminar.</i> Berkeley, CA, United States.
+      </li> 
+	  <li> 
     2024. 
     Short Simple Geodesic Loops on a 2-sphere. 
      <i>AMS Joint Mathematics Meetings</i>. San Francisco, CA, United States.
@@ -70,23 +80,9 @@ My main research interest is quantitative topology.
     The Length of the Shortest Closed Geodesic on a Surface of Finite Area. 
      <i>AMS Spring Eastern Sectional Meeting</i>. Online.
     </li>
-</ul>
-
-<h3>Other Presentations:</h3>
-<ul>
-	<li>
-    2025.
-    The Quantitative Geometry of Geodesics. 
-     <i>HIM Metric Analysis Trimester Program Seminar.</i> Bonn, NRW, Germany.	
-     </li> 
-	<li>
-    2024.
-    The Quantitative Geometry of Geodesics.
-    <i>SLMath Graduate Student Seminar.</i> Berkeley, CA, United States.
-    </li> 
-	<li> 
-	2019. <i>The Beauty of the Hyperbolic Plane.</i> CUMC. Online.
-	</li>
+    <li>
+	  2019. <i>The Beauty of the Hyperbolic Plane.</i> CUMC. Online.
+	  </li>
 </ul>
 
 <h3>Teaching:</h3>
@@ -127,7 +123,7 @@ My main research interest is quantitative topology.
 </ul>
 
 
-<h3>Workshops:</h3>
+<h3>Workshops/Fellowships:</h3>
 <ul> 
 	<li> 
     Banff International Research Station Oaxaca, Mixtures of Probability and Geometry, May 25 - May 30 2025
@@ -142,7 +138,7 @@ My main research interest is quantitative topology.
     Banff International Research Station, Women in Geometry 3, September 24 - September 29 2023
 	</li>
 	<li> 
-    MSRI/University of Oxford, Metric Geometry and Geometric Analysis Summer Gradute School July 11 - July 22 2022
+    MSRI/University of Oxford, Metric Geometry and Geometric Analysis Summer Graduate School July 11 - July 22 2022
 	</li>
 </ul>
 
