@@ -19,7 +19,7 @@ My main research interest is quantitative topology.
 	<a href="https://arxiv.org/abs/2410.10975">arXiv:2410.10975</a>. <a href="https://doi.org/10.1007/s12220-025-02003-6">DOI:10.1007/s12220-025-02003-6</a>.
 	</li>
 	<li> 
-    I. Beach. <i>Short Simple Geodesic Loops on a 2-Sphere.</i> 2024.
+    I. Beach. <i>Short Simple Geodesic Loops on a 2-Sphere.</i> Transactions of the American Mathematical Society. 2025. Accepted.
 	<a href="https://arxiv.org/abs/2407.12673">arXiv:2407.12673</a>
 	</li>
 	<li> 
@@ -30,6 +30,16 @@ My main research interest is quantitative topology.
 
 <h3>Presentations:</h3>
 <ul> 
+    <li> 
+    2025. 
+    The Quantitative Geometry of Geodesics. 
+     <i>Northwestern University Analysis Seminar.</i> Evanston, IL, United States.
+    </li>
+    <li> 
+    2025. 
+    Quantitative Topology and Geodesics. 
+     <i>Yau Mathematical Sciences Centre Geometry Seminar.</i>  Online.
+    </li>
     <li> 
     2025. 
     Quantitative Topology and Geodesics. 
@@ -129,7 +139,7 @@ My main research interest is quantitative topology.
     Banff International Research Station Oaxaca, Mixtures of Probability and Geometry, May 25 - May 30 2025
 	</li>
 	<li> 
-    SLMath, Program Associate Fellowship (New Frontiers in Curvature), August 19 - December 20 2024
+    SLMath, Program Associate SLMath Doctoral Fellowship (New Frontiers in Curvature), August 19 - December 20 2024
 	</li>
 	<li> 
     Institute for Advanced Study, Summer Collaborators Program, July 3 - July 31 2024
