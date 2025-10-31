@@ -66,6 +66,16 @@ layout: default
 	</div>
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\black_duck.png">
+		</div>
+		<div class="gallery-item-box">
+            American Black Duck
+            <br>
+            <i>Anas rubripes</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
 		<img src="\images\bird_photos\wood_duck_2.png">
 		</div>
 		<div class="gallery-item-box">

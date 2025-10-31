@@ -191,7 +191,7 @@ layout: default
 		<img src="\images\bug_photos\honey_2.png">
 		</div>
 		<div class="gallery-item-box">
-			Honeybee
+			Western Honeybee
 			<br>
 			<i>Apis mellifera</i>	
 		</div>
@@ -201,9 +201,19 @@ layout: default
 		<img src="\images\bug_photos\mystery_bee_1.png">
 		</div>
 		<div class="gallery-item-box">
-			European wool carder bee
+			European Wool Carder Bee
 			<br>
 			<i>Anthidium manicatum</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bug_photos\bicolor_bee.png">
+		</div>
+		<div class="gallery-item-box">
+			Bicolored Striped Sweat Bee
+			<br>
+			<i>Agapostemon virescens</i>
 		</div>
 	</div>
 	<div class="gallery-item">
