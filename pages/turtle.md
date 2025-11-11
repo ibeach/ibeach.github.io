@@ -73,17 +73,6 @@ Below are some of the more interesting examples.
 
 <table>
 <tr> 
-	<th>'F' $\to$ 'F+F-F+' (5 iterations)</th>
-	<th>'F' $\to$ 'F+F-F+' (15 iterations)</th>
-</tr>
-<tr> 
-	<td><img src="\images\turtle\blob_5.png"></td>
-	<td><img src="\images\turtle\blob_15.png"></td>
-</tr>
-</table>
-
-<table>
-<tr> 
 	<th>'F' $\to$ 'FFF-' (15 iterations)</th>
 	<th>'F' $\to$ 'FF+F' (15 iterations)</th>
 </tr>
