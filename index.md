@@ -20,7 +20,7 @@ My main research interest is quantitative topology. In my spare time, I enjoy pa
 	</li>
 	<li> 
     I. Beach. <i>Short Simple Geodesic Loops on a 2-Sphere.</i> Transactions of the American Mathematical Society. 2025. Accepted.
-	<a href="https://arxiv.org/abs/2407.12673">arXiv:2407.12673</a>
+	<a href="https://arxiv.org/abs/2407.12673v2">arXiv:2407.12673</a>
 	</li>
 	<li> 
 	I. Beach and R. Rotman. <i>The Length of the Shortest Closed Geodesic on a Surface of Finite Area.</i> Proceedings of the American Mathematical Society. 2020. Vol. 148 (12), p. 5355-5367.
