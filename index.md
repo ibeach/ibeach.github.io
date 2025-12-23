@@ -4,7 +4,9 @@ layout: default
 <h3>E-mail:</h3> isabel (dot) beach (at) mail (dot) utoronto (dot) ca
 
 <h3>About Me:</h3> I am a mathematics PhD student at the University of Toronto.
-My main research interest is quantitative topology. In my spare time, I enjoy painting and birdwatching.
+My main research interest is quantitative topology. In my spare time, I enjoy birdwatching and making art:
+
+<img src="/images/koi.png" width="400px">
 
 <h3>Papers:</h3>
 <ul> 
