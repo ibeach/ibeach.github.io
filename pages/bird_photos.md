@@ -41,7 +41,7 @@ layout: default
 		</div>
 	</div>
 	<div class="gallery-item">	
-		<div class="gallery-item-box">	<img src="\images\bird_photos\grey_squirrel.jpg"></div>
+		<div class="gallery-item-box">	<img src="\images\bird_photos\grey_squirrel.JPG"></div>
 		<div class="gallery-item-box">
 			Eastern Grey Squirrel
 			<br>
@@ -49,7 +49,7 @@ layout: default
 		</div>
 	</div>
 	<div class="gallery-item">	
-		<div class="gallery-item-box">	<img src="\images\bird_photos\chipmunk.jpg"></div>
+		<div class="gallery-item-box">	<img src="\images\bird_photos\chipmunk.JPG"></div>
 		<div class="gallery-item-box">
 			Eastern Chipmunk
 			<br>
@@ -57,7 +57,7 @@ layout: default
 		</div>
 	</div>
 	<div class="gallery-item">	
-		<div class="gallery-item-box">	<img src="\images\bird_photos\muskrat.jpg"></div>
+		<div class="gallery-item-box">	<img src="\images\bird_photos\muskrat.JPG"></div>
 		<div class="gallery-item-box">
 			Muskrat
 			<br>
@@ -70,7 +70,7 @@ layout: default
 <div class="gallery-container-small">
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\ringbill.jpg">
+		<img src="\images\bird_photos\ringbill.JPG">
 		</div>
 		<div class="gallery-item-box">
 			Ring-billed Gull
@@ -90,7 +90,7 @@ layout: default
 	</div>
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\black_duck_pair.jpg">
+		<img src="\images\bird_photos\black_duck_pair.JPG">
 		</div>
 		<div class="gallery-item-box">
             American Black Duck (male/female pair)
@@ -100,7 +100,7 @@ layout: default
 	</div>
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\wood_duck_pair.jpg">
+		<img src="\images\bird_photos\wood_duck_pair.JPG">
 		</div>
 		<div class="gallery-item-box">
 			Wood Duck (male/female pair)
@@ -130,7 +130,7 @@ layout: default
 	</div>
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\longtail_male.jpg">
+		<img src="\images\bird_photos\longtail_male.JPG">
 		</div>
 		<div class="gallery-item-box">
             Long-tailed Duck (male)
@@ -140,7 +140,7 @@ layout: default
 	</div>
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\goldeneye.jpg">
+		<img src="\images\bird_photos\goldeneye.JPG">
 		</div>
 		<div class="gallery-item-box">
             Common Goldeneye (male)
@@ -150,7 +150,7 @@ layout: default
 	</div>
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\white_winged_scoter.jpg">
+		<img src="\images\bird_photos\white_winged_scoter.JPG">
 		</div>
 		<div class="gallery-item-box">
             White-Winged Scoter
@@ -160,7 +160,7 @@ layout: default
 	</div>
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\bufflehead.jpg">
+		<img src="\images\bird_photos\bufflehead.JPG">
 		</div>
 		<div class="gallery-item-box">
             Bufflehead (male/female pair)
@@ -220,7 +220,7 @@ layout: default
 	</div>
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\mute_swan_baby.jpg">
+		<img src="\images\bird_photos\mute_swan_baby.JPG">
 		</div>
 		<div class="gallery-item-box">
             Mute Swan (juvenile)
@@ -310,7 +310,7 @@ layout: default
 	</div>
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\great_egret.jpg">
+		<img src="\images\bird_photos\great_egret.JPG">
 		</div>
 		<div class="gallery-item-box">
 			Great Egret
@@ -340,7 +340,7 @@ layout: default
 	</div>
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\blue_heron.jpg">
+		<img src="\images\bird_photos\blue_heron.JPG">
 		</div>
 		<div class="gallery-item-box">
 			Great Blue Heron
@@ -350,7 +350,7 @@ layout: default
 	</div>
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\cormorant.jpg">
+		<img src="\images\bird_photos\cormorant.JPG">
 		</div>
 		<div class="gallery-item-box">
 			Double-Crested Cormorant
@@ -360,7 +360,7 @@ layout: default
 	</div>
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\rth.jpg">
+		<img src="\images\bird_photos\rth.JPG">
 		</div>
 		<div class="gallery-item-box">
 			Red-tailed Hawk
