@@ -40,13 +40,37 @@ layout: default
 			<i>Otospermophilus beecheyi</i>
 		</div>
 	</div>
+	<div class="gallery-item">	
+		<div class="gallery-item-box">	<img src="\images\bird_photos\grey_squirrel.jpg"></div>
+		<div class="gallery-item-box">
+			Eastern Grey Squirrel
+			<br>
+			<i>Sciurus carolinensis</i>
+		</div>
+	</div>
+	<div class="gallery-item">	
+		<div class="gallery-item-box">	<img src="\images\bird_photos\chipmunk.jpg"></div>
+		<div class="gallery-item-box">
+			Eastern Chipmunk
+			<br>
+			<i>Tamias striatus</i>
+		</div>
+	</div>
+	<div class="gallery-item">	
+		<div class="gallery-item-box">	<img src="\images\bird_photos\muskrat.jpg"></div>
+		<div class="gallery-item-box">
+			Muskrat
+			<br>
+			<i>Ondatra zibethicus</i>
+		</div>
+	</div>
 </div>	
 
 <h3> Birds </h3>
 <div class="gallery-container-small">
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\gull.jpg">
+		<img src="\images\bird_photos\ringbill.jpg">
 		</div>
 		<div class="gallery-item-box">
 			Ring-billed Gull
@@ -66,20 +90,20 @@ layout: default
 	</div>
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\black_duck.png">
+		<img src="\images\bird_photos\black_duck_pair.jpg">
 		</div>
 		<div class="gallery-item-box">
-            American Black Duck
+            American Black Duck (male/female pair)
             <br>
             <i>Anas rubripes</i>
 		</div>
 	</div>
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\wood_duck_2.png">
+		<img src="\images\bird_photos\wood_duck_pair.jpg">
 		</div>
 		<div class="gallery-item-box">
-			Wood Duck (female)
+			Wood Duck (male/female pair)
             <br>
             <i>Aix sponsa</i>
 		</div>
@@ -96,12 +120,52 @@ layout: default
 	</div>
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\longtail.png">
+		<img src="\images\bird_photos\longtail_female.png">
 		</div>
 		<div class="gallery-item-box">
             Long-tailed Duck (female)
             <br>
             <i>Clangula hyemalis</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\longtail_male.jpg">
+		</div>
+		<div class="gallery-item-box">
+            Long-tailed Duck (male)
+            <br>
+            <i>Clangula hyemalis</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\goldeneye.jpg">
+		</div>
+		<div class="gallery-item-box">
+            Common Goldeneye (male)
+            <br>
+            <i>Bucephala clangula</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\white_winged_scoter.jpg">
+		</div>
+		<div class="gallery-item-box">
+            White-Winged Scoter
+            <br>
+            <i>Melanitta deglandi</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\bufflehead.jpg">
+		</div>
+		<div class="gallery-item-box">
+            Bufflehead (male/female pair)
+            <br>
+            <i>Bucephala albeola</i>
 		</div>
 	</div>
 	<div class="gallery-item">
@@ -114,7 +178,7 @@ layout: default
             <i>Branta canadensis</i>
 		</div>
 	</div>
-	<div class="gallery-item">
+	<!-- <div class="gallery-item">
 		<div class="gallery-item-box">	
 		<img src="\images\bird_photos\greylag.png">
 		</div>
@@ -133,7 +197,7 @@ layout: default
             <br>
             <i>Cygnus atratus</i>
 		</div>
-	</div>
+	</div> -->
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
 		<img src="\images\bird_photos\trumpeter_swan.png">
@@ -150,6 +214,16 @@ layout: default
 		</div>
 		<div class="gallery-item-box">
             Mute Swan
+            <br>
+            <i>Cygnus olor</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\mute_swan_baby.jpg">
+		</div>
+		<div class="gallery-item-box">
+            Mute Swan (juvenile)
             <br>
             <i>Cygnus olor</i>
 		</div>
@@ -226,12 +300,22 @@ layout: default
 	</div>
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\egret.png">
+		<img src="\images\bird_photos\snowy_egret.png">
 		</div>
 		<div class="gallery-item-box">
 			Snowy Egret
 			<br>
 			<i>Egretta thula</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\great_egret.jpg">
+		</div>
+		<div class="gallery-item-box">
+			Great Egret
+			<br>
+			<i>Ardea alba</i>
 		</div>
 	</div>
 	<div class="gallery-item">
@@ -256,7 +340,7 @@ layout: default
 	</div>
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\heron.png">
+		<img src="\images\bird_photos\blue_heron.jpg">
 		</div>
 		<div class="gallery-item-box">
 			Great Blue Heron
@@ -266,7 +350,17 @@ layout: default
 	</div>
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\rth.png">
+		<img src="\images\bird_photos\cormorant.jpg">
+		</div>
+		<div class="gallery-item-box">
+			Double-Crested Cormorant
+			<br>
+			<i>Nannopterum auritum</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\rth.jpg">
 		</div>
 		<div class="gallery-item-box">
 			Red-tailed Hawk
