@@ -7,7 +7,7 @@ layout: default
 
 <h3> Mammals </h3>
 
-<div class="gallery-container-small">
+<div class="gallery-container">
 	<div class="gallery-item">	
 		<div class="gallery-item-box">	<img src="\images\bird_photos\rabbit.png"></div>
 		<div class="gallery-item-box">
@@ -67,7 +67,7 @@ layout: default
 </div>	
 
 <h3> Birds </h3>
-<div class="gallery-container-small">
+<div class="gallery-container">
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
 		<img src="\images\bird_photos\ringbill.JPG">
@@ -372,7 +372,7 @@ layout: default
 
 <h3> Amphibians </h3>
 
-<div class="gallery-container-small">
+<div class="gallery-container">
 	<div class="gallery-item">
 		<div class="gallery-item-box">	<img src="\images\bird_photos\green_frog_jersey.png"></div>
 		<div class="gallery-item-box">
@@ -418,7 +418,7 @@ layout: default
 
 <h3> Reptiles </h3>
 
-<div class="gallery-container-small">
+<div class="gallery-container">
 	<div class="gallery-item">	
 		<div class="gallery-item-box">	<img src="\images\bird_photos\lizard.png"></div>
 		<div class="gallery-item-box">
