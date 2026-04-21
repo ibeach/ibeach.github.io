@@ -41,6 +41,14 @@ layout: default
 		</div>
 	</div>
 	<div class="gallery-item">	
+		<div class="gallery-item-box">	<img src="\images\bird_photos\red_squirrel.JPG"></div>
+		<div class="gallery-item-box">
+			American Red Squirrel
+			<br>
+			<i>Tamiasciurus hudsonicus</i>
+		</div>
+	</div>
+	<div class="gallery-item">	
 		<div class="gallery-item-box">	<img src="\images\bird_photos\grey_squirrel.JPG"></div>
 		<div class="gallery-item-box">
 			Eastern Grey Squirrel
@@ -61,6 +69,14 @@ layout: default
 		<div class="gallery-item-box">
 			Muskrat
 			<br>
+			<i>Odocoileus virginianus</i>
+		</div>
+	</div>
+	<div class="gallery-item">	
+		<div class="gallery-item-box">	<img src="\images\bird_photos\deer.JPG"></div>
+		<div class="gallery-item-box">
+			White-Tailed Deer
+			<br>
 			<i>Ondatra zibethicus</i>
 		</div>
 	</div>
@@ -76,6 +92,16 @@ layout: default
 			Ring-billed Gull
             <br>
             <i>Larus delawarensis</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\merganser.JPG">
+		</div>
+		<div class="gallery-item-box">
+            Red-Breasted Merganser (male/female pair)
+            <br>
+            <i>Mergus serrator</i>
 		</div>
 	</div>
 	<div class="gallery-item">
@@ -120,7 +146,7 @@ layout: default
 	</div>
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\longtail_female.png">
+		<img src="\images\bird_photos\long_tailed_duck_female_2.JPG">
 		</div>
 		<div class="gallery-item-box">
             Long-tailed Duck (female)
@@ -150,22 +176,32 @@ layout: default
 	</div>
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\white_winged_scoter.JPG">
-		</div>
-		<div class="gallery-item-box">
-            White-Winged Scoter
-            <br>
-            <i>Melanitta deglandi</i>
-		</div>
-	</div>
-	<div class="gallery-item">
-		<div class="gallery-item-box">	
 		<img src="\images\bird_photos\bufflehead.JPG">
 		</div>
 		<div class="gallery-item-box">
             Bufflehead (male/female pair)
             <br>
             <i>Bucephala albeola</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\ring_necked_duck.JPG">
+		</div>
+		<div class="gallery-item-box">
+			Ring-Necked Duck (male)
+            <br>
+            <i>Aythya collaris</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\white_winged_scoter.JPG">
+		</div>
+		<div class="gallery-item-box">
+            White-Winged Scoter
+            <br>
+            <i>Melanitta deglandi</i>
 		</div>
 	</div>
 	<div class="gallery-item">
@@ -270,12 +306,32 @@ layout: default
 	</div>
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\robin.jpg">
+		<img src="\images\bird_photos\robin.JPG">
 		</div>
 		<div class="gallery-item-box">
 			American Robin
             <br>
             <i>Turdus migratorius</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\house_finch.JPG">
+		</div>
+		<div class="gallery-item-box">
+			  House Finch
+            <br>
+            <i>Haemorhous mexicanus</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\pigeon.JPG">
+		</div>
+		<div class="gallery-item-box">
+			  Pigeon (Rock Dove)
+            <br>
+            <i>Columba livia</i>
 		</div>
 	</div>
 	<div class="gallery-item">
@@ -356,6 +412,16 @@ layout: default
 			Double-Crested Cormorant
 			<br>
 			<i>Nannopterum auritum</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\coot.JPG">
+		</div>
+		<div class="gallery-item-box">
+			American Coot
+			<br>
+			<i>Fulica americana</i>
 		</div>
 	</div>
 	<div class="gallery-item">
