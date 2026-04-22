@@ -134,6 +134,7 @@ layout: default
             <i>Aix sponsa</i>
 		</div>
 	</div>
+	<!--
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
 		<img src="\images\bird_photos\wood_duck_3.png">
@@ -143,7 +144,7 @@ layout: default
             <br>
             <i>Aix sponsa</i>
 		</div>
-	</div>
+	</div>-->
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
 		<img src="\images\bird_photos\long_tailed_duck_female_2.JPG">
@@ -254,6 +255,7 @@ layout: default
             <i>Cygnus olor</i>
 		</div>
 	</div>
+	<!--
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
 		<img src="\images\bird_photos\mute_swan_baby.JPG">
@@ -263,7 +265,7 @@ layout: default
             <br>
             <i>Cygnus olor</i>
 		</div>
-	</div>
+	</div>-->
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
 		<img src="\images\bird_photos\red_bellied.png">
