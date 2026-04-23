@@ -247,7 +247,7 @@ layout: default
 	</div> -->
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\trumpeter_swan_2.png">
+		<img src="\images\bird_photos\trumpeter_swan_2.JPG">
 		</div>
 		<div class="gallery-item-box">
             Trumpeter Swan
@@ -378,7 +378,7 @@ layout: default
 	</div>
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\grackle.png">
+		<img src="\images\bird_photos\grackle.JPG">
 		</div>
 		<div class="gallery-item-box">
 			Common Grackle

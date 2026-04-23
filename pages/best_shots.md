@@ -34,4 +34,14 @@ layout: default
 		<img src="\images\bird_photos\woodpecker.JPG">
 		</div>
 	</div>
+	<div class="gallery-item">	
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\blackbird_1.JPG">
+		</div>
+	</div>
+	<div class="gallery-item">	
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\blackbird_female.JPG">
+		</div>
+	</div>
 </div>	
