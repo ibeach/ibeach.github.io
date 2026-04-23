@@ -197,6 +197,16 @@ layout: default
 	</div>
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\gadwall.JPG">
+		</div>
+		<div class="gallery-item-box">
+			Gadwall (male)
+            <br>
+            <i>Mareca strepera</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
 		<img src="\images\bird_photos\white_winged_scoter.JPG">
 		</div>
 		<div class="gallery-item-box">
@@ -237,7 +247,7 @@ layout: default
 	</div> -->
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\trumpeter_swan.png">
+		<img src="\images\bird_photos\trumpeter_swan_2.png">
 		</div>
 		<div class="gallery-item-box">
             Trumpeter Swan
@@ -288,10 +298,20 @@ layout: default
 	</div>
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\blackbird.png">
+		<img src="\images\bird_photos\blackbird_1.JPG">
 		</div>
 		<div class="gallery-item-box">
-			Red-winged Blackbird
+			Red-winged Blackbird (male)
+            <br>
+            <i>Agelaius phoeniceus</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\blackbird_female.JPG">
+		</div>
+		<div class="gallery-item-box">
+			Red-winged Blackbird (female)
             <br>
             <i>Agelaius phoeniceus</i>
 		</div>
@@ -334,6 +354,36 @@ layout: default
 			  Pigeon (Rock Dove)
             <br>
             <i>Columba livia</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\woodpecker.JPG">
+		</div>
+		<div class="gallery-item-box">
+			  Downy Woodpecker
+            <br>
+            <i>Picoides pubescens</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\sapsucker.JPG">
+		</div>
+		<div class="gallery-item-box">
+			  Yellow-Bellied Sapsucker
+            <br>
+            <i>Sphyrapicus varius</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\grackle.png">
+		</div>
+		<div class="gallery-item-box">
+			Common Grackle
+            <br>
+            <i>Quiscalus quiscula</i>
 		</div>
 	</div>
 	<div class="gallery-item">

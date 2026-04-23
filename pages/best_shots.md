@@ -24,4 +24,14 @@ layout: default
 		<img src="\images\bird_photos\sparrow.JPG">
 		</div>
 	</div>
+	<div class="gallery-item">	
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\merganser_female.JPG">
+		</div>
+	</div>
+	<div class="gallery-item">	
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\woodpecker.JPG">
+		</div>
+	</div>
 </div>	
