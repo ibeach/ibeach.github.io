@@ -3,86 +3,10 @@ title: Photography
 permalink: /bird_photos/
 layout: default
 ---
-<h2>Wildlife Diary: Vertebrates</h2>
+<h2>Wildlife Diary: Birds</h2>
 
-<h3> Mammals </h3>
+<h3>Gulls</h3>
 
-<div class="gallery-container">
-	<div class="gallery-item">	
-		<div class="gallery-item-box">	<img src="\images\bird_photos\rabbit.png"></div>
-		<div class="gallery-item-box">
-			Eastern Cottontail
-			<br>
-			<i>Sylvilagus floridanus</i>
-		</div>
-	</div>
-	<div class="gallery-item">	
-		<div class="gallery-item-box">	<img src="\images\bird_photos\seals.png"></div>
-		<div class="gallery-item-box">
-			Northern Elephant Seal
-			<br>
-			<i>Mirounga angustirostris</i>
-		</div>
-	</div>
-	<div class="gallery-item">	
-		<div class="gallery-item-box">	<img src="\images\bird_photos\fox.png"></div>
-		<div class="gallery-item-box">
-			Red Fox
-			<br>
-			<i>Vulpes vulpes</i>
-		</div>
-	</div>
-	<div class="gallery-item">	
-		<div class="gallery-item-box">	<img src="\images\bird_photos\california_ground_squirrel.png"></div>
-		<div class="gallery-item-box">
-			California Ground Squirrel
-			<br>
-			<i>Otospermophilus beecheyi</i>
-		</div>
-	</div>
-	<div class="gallery-item">	
-		<div class="gallery-item-box">	<img src="\images\bird_photos\red_squirrel.JPG"></div>
-		<div class="gallery-item-box">
-			American Red Squirrel
-			<br>
-			<i>Tamiasciurus hudsonicus</i>
-		</div>
-	</div>
-	<div class="gallery-item">	
-		<div class="gallery-item-box">	<img src="\images\bird_photos\grey_squirrel.JPG"></div>
-		<div class="gallery-item-box">
-			Eastern Grey Squirrel
-			<br>
-			<i>Sciurus carolinensis</i>
-		</div>
-	</div>
-	<div class="gallery-item">	
-		<div class="gallery-item-box">	<img src="\images\bird_photos\chipmunk.JPG"></div>
-		<div class="gallery-item-box">
-			Eastern Chipmunk
-			<br>
-			<i>Tamias striatus</i>
-		</div>
-	</div>
-	<div class="gallery-item">	
-		<div class="gallery-item-box">	<img src="\images\bird_photos\muskrat.JPG"></div>
-		<div class="gallery-item-box">
-			Muskrat
-			<br>
-			<i>Odocoileus virginianus</i>
-		</div>
-	</div>
-	<div class="gallery-item">	
-		<div class="gallery-item-box">	<img src="\images\bird_photos\deer.JPG"></div>
-		<div class="gallery-item-box">
-			White-Tailed Deer
-			<br>
-			<i>Ondatra zibethicus</i>
-		</div>
-	</div>
-</div>	
-
-<h3> Birds </h3>
 <div class="gallery-container">
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
@@ -94,6 +18,11 @@ layout: default
             <i>Larus delawarensis</i>
 		</div>
 	</div>
+</div>
+	
+<h3>Ducks</h3>
+
+<div class="gallery-container">
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
 		<img src="\images\bird_photos\merganser.JPG">
@@ -215,6 +144,11 @@ layout: default
             <i>Melanitta deglandi</i>
 		</div>
 	</div>
+</div>
+	
+<h3>Geese</h3>
+
+<div class="gallery-container">
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
 		<img src="\images\bird_photos\canada_goose.png">
@@ -276,126 +210,10 @@ layout: default
             <i>Cygnus olor</i>
 		</div>
 	</div>-->
-	<div class="gallery-item">
-		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\red_bellied.png">
-		</div>
-		<div class="gallery-item-box">
-			Red-bellied Woodpecker
-            <br>
-            <i>Melanerpes carolinus</i>
-		</div>
-	</div>
-	<div class="gallery-item">
-		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\nuthatch.png">
-		</div>
-		<div class="gallery-item-box">
-			White-breasted Nuthatch
-            <br>
-            <i>Sitta carolinensis</i>
-		</div>
-	</div>
-	<div class="gallery-item">
-		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\blackbird_1.JPG">
-		</div>
-		<div class="gallery-item-box">
-			Red-winged Blackbird (male)
-            <br>
-            <i>Agelaius phoeniceus</i>
-		</div>
-	</div>
-	<div class="gallery-item">
-		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\blackbird_female.JPG">
-		</div>
-		<div class="gallery-item-box">
-			Red-winged Blackbird (female)
-            <br>
-            <i>Agelaius phoeniceus</i>
-		</div>
-	</div>
-	<div class="gallery-item">
-		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\cowbird.png">
-		</div>
-		<div class="gallery-item-box">
-			Brown-headed Cowbird
-            <br>
-            <i>Molothrus ater</i>
-		</div>
-	</div>
-	<div class="gallery-item">
-		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\robin.JPG">
-		</div>
-		<div class="gallery-item-box">
-			American Robin
-            <br>
-            <i>Turdus migratorius</i>
-		</div>
-	</div>
-	<div class="gallery-item">
-		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\house_finch.JPG">
-		</div>
-		<div class="gallery-item-box">
-			  House Finch
-            <br>
-            <i>Haemorhous mexicanus</i>
-		</div>
-	</div>
-	<div class="gallery-item">
-		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\pigeon.JPG">
-		</div>
-		<div class="gallery-item-box">
-			  Pigeon (Rock Dove)
-            <br>
-            <i>Columba livia</i>
-		</div>
-	</div>
-	<div class="gallery-item">
-		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\woodpecker.JPG">
-		</div>
-		<div class="gallery-item-box">
-			  Downy Woodpecker
-            <br>
-            <i>Picoides pubescens</i>
-		</div>
-	</div>
-	<div class="gallery-item">
-		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\sapsucker.JPG">
-		</div>
-		<div class="gallery-item-box">
-			  Yellow-Bellied Sapsucker
-            <br>
-            <i>Sphyrapicus varius</i>
-		</div>
-	</div>
-	<div class="gallery-item">
-		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\grackle.JPG">
-		</div>
-		<div class="gallery-item-box">
-			Common Grackle
-            <br>
-            <i>Quiscalus quiscula</i>
-		</div>
-	</div>
-	<div class="gallery-item">
-		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\raven.png">
-		</div>
-		<div class="gallery-item-box">
-			Common Raven
-            <br>
-            <i>Corvus corax</i>
-		</div>
-	</div>
+</div>
+<h3>Shorebirds</h3>
+
+<div class="gallery-container">
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
 		<img src="\images\bird_photos\oystercatcher.png">
@@ -406,6 +224,31 @@ layout: default
 			<i>Haematopus bachmani</i>
 		</div>
 	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\cormorant.JPG">
+		</div>
+		<div class="gallery-item-box">
+			Double-Crested Cormorant
+			<br>
+			<i>Nannopterum auritum</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\coot.JPG">
+		</div>
+		<div class="gallery-item-box">
+			American Coot
+			<br>
+			<i>Fulica americana</i>
+		</div>
+	</div>
+</div>
+	
+<h3>Herons</h3>
+
+<div class="gallery-container">
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
 		<img src="\images\bird_photos\snowy_egret.png">
@@ -456,26 +299,146 @@ layout: default
 			<i>Ardea herodias</i>
 		</div>
 	</div>
+</div>
+	
+<h3>Woodpeckers</h3>
+
+<div class="gallery-container">
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\cormorant.JPG">
+		<img src="\images\bird_photos\red_bellied.png">
 		</div>
 		<div class="gallery-item-box">
-			Double-Crested Cormorant
-			<br>
-			<i>Nannopterum auritum</i>
+			Red-bellied Woodpecker
+            <br>
+            <i>Melanerpes carolinus</i>
 		</div>
 	</div>
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\coot.JPG">
+		<img src="\images\bird_photos\woodpecker.JPG">
 		</div>
 		<div class="gallery-item-box">
-			American Coot
-			<br>
-			<i>Fulica americana</i>
+			  Downy Woodpecker
+            <br>
+            <i>Picoides pubescens</i>
 		</div>
 	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\sapsucker.JPG">
+		</div>
+		<div class="gallery-item-box">
+			  Yellow-Bellied Sapsucker
+            <br>
+            <i>Sphyrapicus varius</i>
+		</div>
+	</div>
+</div>
+	
+<h3>Songbirds</h3>
+
+<div class="gallery-container">
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\robin.JPG">
+		</div>
+		<div class="gallery-item-box">
+			American Robin
+            <br>
+            <i>Turdus migratorius</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\house_finch.JPG">
+		</div>
+		<div class="gallery-item-box">
+			  House Finch
+            <br>
+            <i>Haemorhous mexicanus</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\pigeon.JPG">
+		</div>
+		<div class="gallery-item-box">
+			  Pigeon (Rock Dove)
+            <br>
+            <i>Columba livia</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\nuthatch.png">
+		</div>
+		<div class="gallery-item-box">
+			White-breasted Nuthatch
+            <br>
+            <i>Sitta carolinensis</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\blackbird_1.JPG">
+		</div>
+		<div class="gallery-item-box">
+			Red-winged Blackbird (male)
+            <br>
+            <i>Agelaius phoeniceus</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\blackbird_female.JPG">
+		</div>
+		<div class="gallery-item-box">
+			Red-winged Blackbird (female)
+            <br>
+            <i>Agelaius phoeniceus</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\cowbird.png">
+		</div>
+		<div class="gallery-item-box">
+			Brown-headed Cowbird
+            <br>
+            <i>Molothrus ater</i>
+		</div>
+	</div>
+</div>
+	
+<h3>Corvids</h3>
+
+<div class="gallery-container">
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\grackle.JPG">
+		</div>
+		<div class="gallery-item-box">
+			Common Grackle
+            <br>
+            <i>Quiscalus quiscula</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\raven.png">
+		</div>
+		<div class="gallery-item-box">
+			Common Raven
+            <br>
+            <i>Corvus corax</i>
+		</div>
+	</div>
+</div>
+	
+<h3>Raptors</h3>
+
+<div class="gallery-container">
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
 		<img src="\images\bird_photos\rth.JPG">
@@ -487,62 +450,3 @@ layout: default
 		</div>
 	</div>
 </div>
-
-<h3> Amphibians </h3>
-
-<div class="gallery-container">
-	<div class="gallery-item">
-		<div class="gallery-item-box">	<img src="\images\bird_photos\green_frog_jersey.png"></div>
-		<div class="gallery-item-box">
-			Green Frog
-			<br>
-			<i>Lithobates clamitans</i>
-		</div>
-	</div>
-	<div class="gallery-item">
-		<div class="gallery-item-box">	<img src="\images\bird_photos\leopard_frog_1.png"></div>
-		<div class="gallery-item-box">
-			Northern Leopard Frog
-			<br>
-			<i>Lithobates pipiens</i>
-		</div>
-	</div>
-	<div class="gallery-item">
-		<div class="gallery-item-box">	<img src="\images\bird_photos\pickerel_frog.png"></div>
-		<div class="gallery-item-box">
-			Pickerel Frog
-			<br>
-			<i>Lithobates palustris</i>
-		</div>
-	</div>
-	<div class="gallery-item">
-		<div class="gallery-item-box">	<img src="\images\bird_photos\treefrog.png"></div>
-		<div class="gallery-item-box">
-			Grey Treefrog
-			<br>
-			<i>Dryophytes versicolor</i>
-		</div>
-	</div>
-	<div class="gallery-item">
-		<div class="gallery-item-box">	<img src="\images\bird_photos\toad_1.png"></div>
-		<div class="gallery-item-box">
-			American Toad
-			<br>
-			<i>Anaxyrus americanus</i>
-		</div>
-	</div>
-</div>	
-
-
-<h3> Reptiles </h3>
-
-<div class="gallery-container">
-	<div class="gallery-item">	
-		<div class="gallery-item-box">	<img src="\images\bird_photos\lizard.png"></div>
-		<div class="gallery-item-box">
-			Western Fence Lizard
-			<br>
-			<i>Sceloporus occidentalis</i>
-		</div>
-	</div>
-</div>	
