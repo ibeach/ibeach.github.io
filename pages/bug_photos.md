@@ -93,6 +93,30 @@ layout: default
 	</div>
 </div>
 
+<h3>Dragonflies</h3>
+<div class="gallery-container-small">
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bug_photos\df_1.jpg">
+		</div>
+		<div class="gallery-item-box">
+			x
+			<br>
+			<i>x</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bug_photos\df_3.jpg">
+		</div>
+		<div class="gallery-item-box">
+			x
+			<br>
+			<i>x</i>
+		</div>
+	</div>
+</div>
+
 <h3>Beetles</h3>
 
 <div class="gallery-container-small">

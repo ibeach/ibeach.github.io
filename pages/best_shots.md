@@ -44,4 +44,14 @@ layout: default
 		<img src="\images\bird_photos\blackbird_female.JPG">
 		</div>
 	</div>
+	<div class="gallery-item">	
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\great_egret_2.JPG">
+		</div>
+	</div>
+	<div class="gallery-item">	
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\night_heron.JPG">
+		</div>
+	</div>
 </div>	

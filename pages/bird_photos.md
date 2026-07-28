@@ -159,6 +159,16 @@ layout: default
             <i>Branta canadensis</i>
 		</div>
 	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\g1.JPG">
+		</div>
+		<div class="gallery-item-box">
+            Canada Goose
+            <br>
+            <i>Branta canadensis</i>
+		</div>
+	</div>
 	<!-- <div class="gallery-item">
 		<div class="gallery-item-box">	
 		<img src="\images\bird_photos\greylag.png">
@@ -281,7 +291,7 @@ layout: default
 	</div>
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\night_heron.png">
+		<img src="\images\bird_photos\night_heron.JPG">
 		</div>
 		<div class="gallery-item-box">
 			Black-crowned Night Heron
@@ -336,9 +346,19 @@ layout: default
 	</div>
 </div>
 	
-<h3>Songbirds</h3>
+<h3>Songbirds/Misc</h3>
 
 <div class="gallery-container">
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\pigeon.JPG">
+		</div>
+		<div class="gallery-item-box">
+			  Pigeon (Rock Dove)
+            <br>
+            <i>Columba livia</i>
+		</div>
+	</div>
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
 		<img src="\images\bird_photos\robin.JPG">
@@ -361,22 +381,42 @@ layout: default
 	</div>
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
-		<img src="\images\bird_photos\pigeon.JPG">
-		</div>
-		<div class="gallery-item-box">
-			  Pigeon (Rock Dove)
-            <br>
-            <i>Columba livia</i>
-		</div>
-	</div>
-	<div class="gallery-item">
-		<div class="gallery-item-box">	
 		<img src="\images\bird_photos\nuthatch.png">
 		</div>
 		<div class="gallery-item-box">
 			White-breasted Nuthatch
             <br>
             <i>Sitta carolinensis</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\phoebe.JPG">
+		</div>
+		<div class="gallery-item-box">
+			Eastern Phoebe
+            <br>
+            <i>Sayornis phoebe</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\starling.JPG">
+		</div>
+		<div class="gallery-item-box">
+			European Starling
+            <br>
+            <i>Sturnus vulgaris</i>
+		</div>
+	</div>
+	<div class="gallery-item">
+		<div class="gallery-item-box">	
+		<img src="\images\bird_photos\oriole.JPG">
+		</div>
+		<div class="gallery-item-box">
+			Baltimore Oriole (male)
+            <br>
+            <i>Icterus galbula</i>
 		</div>
 	</div>
 	<div class="gallery-item">
@@ -409,11 +449,6 @@ layout: default
             <i>Molothrus ater</i>
 		</div>
 	</div>
-</div>
-	
-<h3>Corvids</h3>
-
-<div class="gallery-container">
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
 		<img src="\images\bird_photos\grackle.JPG">

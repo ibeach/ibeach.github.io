@@ -9,7 +9,7 @@ layout: default
 
 <div class="gallery-container">
 	<div class="gallery-item">	
-		<div class="gallery-item-box">	<img src="\images\bird_photos\rabbit.png"></div>
+		<div class="gallery-item-box">	<img src="\images\mammal_photos\rabbit.png"></div>
 		<div class="gallery-item-box">
 			Eastern Cottontail
 			<br>
@@ -17,7 +17,7 @@ layout: default
 		</div>
 	</div>
 	<div class="gallery-item">	
-		<div class="gallery-item-box">	<img src="\images\bird_photos\seals.png"></div>
+		<div class="gallery-item-box">	<img src="\images\mammal_photos\seals.png"></div>
 		<div class="gallery-item-box">
 			Northern Elephant Seal
 			<br>
@@ -25,7 +25,7 @@ layout: default
 		</div>
 	</div>
 	<div class="gallery-item">	
-		<div class="gallery-item-box">	<img src="\images\bird_photos\fox.png"></div>
+		<div class="gallery-item-box">	<img src="\images\mammal_photos\fox.png"></div>
 		<div class="gallery-item-box">
 			Red Fox
 			<br>
@@ -33,7 +33,15 @@ layout: default
 		</div>
 	</div>
 	<div class="gallery-item">	
-		<div class="gallery-item-box">	<img src="\images\bird_photos\california_ground_squirrel.png"></div>
+		<div class="gallery-item-box">	<img src="\images\mammal_photos\raccoon.png"></div>
+		<div class="gallery-item-box">
+			Raccoon
+			<br>
+			<i>Procyon lotor</i>
+		</div>
+	</div>
+	<div class="gallery-item">	
+		<div class="gallery-item-box">	<img src="\images\mammal_photos\california_ground_squirrel.png"></div>
 		<div class="gallery-item-box">
 			California Ground Squirrel
 			<br>
@@ -41,7 +49,7 @@ layout: default
 		</div>
 	</div>
 	<div class="gallery-item">	
-		<div class="gallery-item-box">	<img src="\images\bird_photos\red_squirrel.JPG"></div>
+		<div class="gallery-item-box">	<img src="\images\mammal_photos\red_squirrel.JPG"></div>
 		<div class="gallery-item-box">
 			American Red Squirrel
 			<br>
@@ -49,7 +57,7 @@ layout: default
 		</div>
 	</div>
 	<div class="gallery-item">	
-		<div class="gallery-item-box">	<img src="\images\bird_photos\grey_squirrel.JPG"></div>
+		<div class="gallery-item-box">	<img src="\images\mammal_photos\grey_squirrel.JPG"></div>
 		<div class="gallery-item-box">
 			Eastern Grey Squirrel
 			<br>
@@ -57,7 +65,7 @@ layout: default
 		</div>
 	</div>
 	<div class="gallery-item">	
-		<div class="gallery-item-box">	<img src="\images\bird_photos\chipmunk.JPG"></div>
+		<div class="gallery-item-box">	<img src="\images\mammal_photos\chipmunk.JPG"></div>
 		<div class="gallery-item-box">
 			Eastern Chipmunk
 			<br>
@@ -65,7 +73,7 @@ layout: default
 		</div>
 	</div>
 	<div class="gallery-item">	
-		<div class="gallery-item-box">	<img src="\images\bird_photos\muskrat.JPG"></div>
+		<div class="gallery-item-box">	<img src="\images\mammal_photos\muskrat.JPG"></div>
 		<div class="gallery-item-box">
 			Muskrat
 			<br>
@@ -73,7 +81,7 @@ layout: default
 		</div>
 	</div>
 	<div class="gallery-item">	
-		<div class="gallery-item-box">	<img src="\images\bird_photos\deer.JPG"></div>
+		<div class="gallery-item-box">	<img src="\images\mammal_photos\deer.JPG"></div>
 		<div class="gallery-item-box">
 			White-Tailed Deer
 			<br>
@@ -86,7 +94,7 @@ layout: default
 
 <div class="gallery-container">
 	<div class="gallery-item">
-		<div class="gallery-item-box">	<img src="\images\bird_photos\green_frog_jersey.png"></div>
+		<div class="gallery-item-box">	<img src="\images\mammal_photos\green_frog_jersey.png"></div>
 		<div class="gallery-item-box">
 			Green Frog
 			<br>
@@ -94,7 +102,7 @@ layout: default
 		</div>
 	</div>
 	<div class="gallery-item">
-		<div class="gallery-item-box">	<img src="\images\bird_photos\leopard_frog_1.png"></div>
+		<div class="gallery-item-box">	<img src="\images\mammal_photos\leopard_frog_1.png"></div>
 		<div class="gallery-item-box">
 			Northern Leopard Frog
 			<br>
@@ -102,7 +110,7 @@ layout: default
 		</div>
 	</div>
 	<div class="gallery-item">
-		<div class="gallery-item-box">	<img src="\images\bird_photos\pickerel_frog.png"></div>
+		<div class="gallery-item-box">	<img src="\images\mammal_photos\pickerel_frog.png"></div>
 		<div class="gallery-item-box">
 			Pickerel Frog
 			<br>
@@ -110,7 +118,7 @@ layout: default
 		</div>
 	</div>
 	<div class="gallery-item">
-		<div class="gallery-item-box">	<img src="\images\bird_photos\treefrog.png"></div>
+		<div class="gallery-item-box">	<img src="\images\mammal_photos\treefrog.png"></div>
 		<div class="gallery-item-box">
 			Grey Treefrog
 			<br>
@@ -118,7 +126,7 @@ layout: default
 		</div>
 	</div>
 	<div class="gallery-item">
-		<div class="gallery-item-box">	<img src="\images\bird_photos\toad_1.png"></div>
+		<div class="gallery-item-box">	<img src="\images\mammal_photos\toad_1.png"></div>
 		<div class="gallery-item-box">
 			American Toad
 			<br>
@@ -132,11 +140,19 @@ layout: default
 
 <div class="gallery-container">
 	<div class="gallery-item">	
-		<div class="gallery-item-box">	<img src="\images\bird_photos\lizard.png"></div>
+		<div class="gallery-item-box">	<img src="\images\mammal_photos\lizard.png"></div>
 		<div class="gallery-item-box">
 			Western Fence Lizard
 			<br>
 			<i>Sceloporus occidentalis</i>
+		</div>
+	</div>
+	<div class="gallery-item">	
+		<div class="gallery-item-box">	<img src="\images\mammal_photos\turtles.png"></div>
+		<div class="gallery-item-box">
+			x
+			<br>
+			<i>Sx</i>
 		</div>
 	</div>
 </div>	
