@@ -20,7 +20,7 @@ layout: default
 	</div>
 </div>
 	
-<h3>Ducks</h3>
+<h3>Waterfowl</h3>
 
 <div class="gallery-container">
 	<div class="gallery-item">
@@ -144,11 +144,6 @@ layout: default
             <i>Melanitta deglandi</i>
 		</div>
 	</div>
-</div>
-	
-<h3>Geese</h3>
-
-<div class="gallery-container">
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
 		<img src="\images\bird_photos\canada_goose.png">

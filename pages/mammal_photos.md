@@ -33,7 +33,7 @@ layout: default
 		</div>
 	</div>
 	<div class="gallery-item">	
-		<div class="gallery-item-box">	<img src="\images\mammal_photos\raccoon.png"></div>
+		<div class="gallery-item-box">	<img src="\images\mammal_photos\raccoon.JPG"></div>
 		<div class="gallery-item-box">
 			Raccoon
 			<br>
@@ -148,11 +148,11 @@ layout: default
 		</div>
 	</div>
 	<div class="gallery-item">	
-		<div class="gallery-item-box">	<img src="\images\mammal_photos\turtles.png"></div>
+		<div class="gallery-item-box">	<img src="\images\mammal_photos\turtles.JPG"></div>
 		<div class="gallery-item-box">
 			x
 			<br>
-			<i>Sx</i>
+			<i>x</i>
 		</div>
 	</div>
 </div>	

@@ -97,7 +97,7 @@ layout: default
 <div class="gallery-container-small">
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
-		<img src="\images\bug_photos\df_1.jpg">
+		<img src="\images\bug_photos\df_1.JPG">
 		</div>
 		<div class="gallery-item-box">
 			x
@@ -107,7 +107,7 @@ layout: default
 	</div>
 	<div class="gallery-item">
 		<div class="gallery-item-box">	
-		<img src="\images\bug_photos\df_3.jpg">
+		<img src="\images\bug_photos\df_3.JPG">
 		</div>
 		<div class="gallery-item-box">
 			x
