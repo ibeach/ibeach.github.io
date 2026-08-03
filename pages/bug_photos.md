@@ -100,9 +100,9 @@ layout: default
 		<img src="\images\bug_photos\df_1.JPG">
 		</div>
 		<div class="gallery-item-box">
-			x
+			Eastern Amberwing (male)
 			<br>
-			<i>x</i>
+			<i>Perithemis tenera</i>
 		</div>
 	</div>
 	<div class="gallery-item">
@@ -110,9 +110,9 @@ layout: default
 		<img src="\images\bug_photos\df_3.JPG">
 		</div>
 		<div class="gallery-item-box">
-			x
+			Whitetail Skimmer (male)
 			<br>
-			<i>x</i>
+			<i>Plathemis lydia</i>
 		</div>
 	</div>
 </div>

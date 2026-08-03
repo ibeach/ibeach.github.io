@@ -150,9 +150,11 @@ layout: default
 	<div class="gallery-item">	
 		<div class="gallery-item-box">	<img src="\images\mammal_photos\turtles.JPG"></div>
 		<div class="gallery-item-box">
-			x
+			Red-Eared Slider (?)
 			<br>
-			<i>x</i>
+			<i>Trachemys scripta elegans</i>
+			<br>
+      I believe the orange one you can just barely see in the back left is a Painted Turtle (Chrysemys picta).
 		</div>
 	</div>
 </div>	
