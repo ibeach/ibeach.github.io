@@ -1,28 +1,32 @@
 ---
 layout: default
 ---
-<h3>E-mail:</h3> isabel (dot) beach (at) mail (dot) utoronto (dot) ca
+<h3>E-mail:</h3> beach (at) mpim-bonn (dot) mpg (dot) de
 
-<h3>About Me:</h3> I am a mathematics PhD student at the University of Toronto.
-My main research interest is quantitative topology. In my spare time, I enjoy birdwatching and making art:
+<h3>About Me:</h3> I am currently a postdoc at MPIM Bonn. I graduted from the mathematics PhD program at the University of Toronto in 2026.
+My main research field is Riemannian geometry. In my spare time, I enjoy birdwatching and making art.
 
 <img src="/images/koi.png" width="400px">
 
 <h3>Papers:</h3>
+<small>(in order of preprint completion)</small>
 <ul> 
 	<li> 
-	I. Beach, H. Contreras Peruyero, E. Griffin, R. Rotman, C. Searle. <i>Lengths of Orthogonal Geodesic Chords on Riemannian Manifolds.</i> <a href="https://arxiv.org/abs/2509.19620">arXiv:2509.19620</a>.
+	I. Beach. <i>The Shortest Geodesic Flower on a Manifold with Locally Convex Ends and Finite Volume.</i> 2026. <a href="https://arxiv.org/abs/2605.12642">arXiv:2605.12642</a>.
 	</li>
 	<li> 
-	I. Beach. <i>Short Simple Orthogonal Geodesic Chords on a 2-Disk with Convex Boundary.</i> <a href="https://arxiv.org/abs/2507.07797">arXiv:2507.07797</a>.
+	I. Beach, H. Contreras Peruyero, E. Griffin, R. Rotman, C. Searle. <i>Lengths of Orthogonal Geodesic Chords on Riemannian Manifolds.</i> 2025. <a href="https://arxiv.org/abs/2509.19620">arXiv:2509.19620</a>.
+	</li>
+	<li> 
+	I. Beach. <i>Short Simple Orthogonal Geodesic Chords on a 2-Disk with Convex Boundary.</i> Journal of Topology and Analysis. 2026. Accepted. <a href="https://arxiv.org/abs/2507.07797">arXiv:2507.07797</a>.
 	</li>
 	<li> 
     I. Beach, H. Contreras Peruyero, R. Rotman, and C. Searle. <i>Linear Bounds for the Lengths of Geodesics on Manifolds With Curvature Bounded Below.</i> Journal of Geometric Analysis. 2025. Vol. 35, article number 217.
 	<a href="https://arxiv.org/abs/2410.10975">arXiv:2410.10975</a>. <a href="https://doi.org/10.1007/s12220-025-02003-6">DOI:10.1007/s12220-025-02003-6</a>.
 	</li>
 	<li> 
-    I. Beach. <i>Short Simple Geodesic Loops on a 2-Sphere.</i> Transactions of the American Mathematical Society. 2025. Accepted.
-	<a href="https://arxiv.org/abs/2407.12673v2">arXiv:2407.12673</a>
+    I. Beach. <i>Short Simple Geodesic Loops on a 2-Sphere.</i> Transactions of the American Mathematical Society. 2026. Vol. 379 (9), p. 6267-6296.
+	<a href="https://arxiv.org/abs/2407.12673v2">arXiv:2407.12673</a>. <a href="https://doi.org/10.1090/tran/9672">DOI:10.1090/tran/9672</a>.
 	</li>
 	<li> 
 	I. Beach and R. Rotman. <i>The Length of the Shortest Closed Geodesic on a Surface of Finite Area.</i> Proceedings of the American Mathematical Society. 2020. Vol. 148 (12), p. 5355-5367.
@@ -32,6 +36,11 @@ My main research interest is quantitative topology. In my spare time, I enjoy bi
 
 <h3>Presentations:</h3>
 <ul> 
+    <li> 
+    2026. 
+    The Quantitative Geometry of Geodesic Nets.
+     <i>AMS Spring Eastern Sectional Meeting.</i> Boston, MA, United States.
+    </li>
     <li> 
     2025. 
     The Quantitative Geometry of Geodesics. 
@@ -98,6 +107,7 @@ My main research interest is quantitative topology. In my spare time, I enjoy bi
 </ul>
 
 <h3>Teaching:</h3>
+University of Toronto:
 <ul> 
 	<li> 
 	Spring 2025: MAT187 (Calculus II) (Instructor)
