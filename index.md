@@ -144,11 +144,13 @@ University of Toronto:
 	</li>
 </ul>
 
-
 <h3>Workshops/Fellowships:</h3>
 <ul> 
 	<li> 
     Banff International Research Station Oaxaca, Mixtures of Probability and Geometry, May 25 - May 30 2025
+	</li>
+	<li> 
+    Hausdorff Research Institute of Mathematics, Metric Analysis Trimester Program, Feb 16 - Feb 23 2025.
 	</li>
 	<li> 
     SLMath, Program Associate SLMath Doctoral Fellowship (New Frontiers in Curvature), August 19 - December 20 2024
@@ -160,7 +162,7 @@ University of Toronto:
     Banff International Research Station, Women in Geometry 3, September 24 - September 29 2023
 	</li>
 	<li> 
-    MSRI/University of Oxford, Metric Geometry and Geometric Analysis Summer Graduate School July 11 - July 22 2022
+    MSRI/University of Oxford, Metric Geometry and Geometric Analysis Summer Graduate School, July 11 - July 22 2022
 	</li>
 </ul>
 
@@ -170,6 +172,6 @@ University of Toronto:
 	I helped design the <a href="https://www.math.utoronto.ca/mgsa/newsletter/">newsletter</a> for the University of Toronto Mathematics Graduate Student Association.
 	</li>
 	<li> 
-	I designed the poster for the 2023 and 2024 Bird's Eye Conference at the University of Toronto.
+	I designed the poster for the 2023, 2024, and 2025 Bird's Eye Conference at the University of Toronto.
 	</li>
 </ul>
